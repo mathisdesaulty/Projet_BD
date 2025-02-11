@@ -1,5 +1,19 @@
 import csv
 
+# Fonction pour corriger la date
+def corriger_date(date):
+    if not date or date.lower() == "n/a":
+        return "01/01/0000"
+
+    parties = date.split("/")
+    if len(parties) == 3:
+        jour, mois, annee = parties
+        jour = "01" if jour == "00" else jour
+        mois = "01" if mois == "00" else mois
+        return f"{jour}/{mois}/{annee}"
+    
+    return date  # Si la date est mal formatée, on la laisse telle quelle
+
 # Chargement des personnes
 personnes = {}
 with open('personnes.csv', mode='r', encoding='utf-8') as file:
@@ -16,7 +30,7 @@ with open('communes.csv', mode='r', encoding='utf-8') as file:
     csv_reader = csv.reader(file)
     next(csv_reader)  # Ignorer l'en-tête
     for row in csv_reader:
-        commune_id, nom_commune,_ = row
+        commune_id, nom_commune, _ = row
         if commune_id.lower() != "n/a":
             communes[nom_commune] = int(commune_id)
 
@@ -37,6 +51,8 @@ for row in rows:
     id_personneB = personnes.get((nom_B, prenom_B), None) if nom_B.lower() != "n/a" and prenom_B.lower() != "n/a" else None
     id_commune = communes.get(nom_commune, None) if nom_commune.lower() != "n/a" else None
 
+    date_corrigee = corriger_date(date)
+
     if id_personneA and id_commune:
         actes.append([
             identifiant if identifiant.lower() != "n/a" else "",
@@ -44,7 +60,7 @@ for row in rows:
             id_personneB if id_personneB else "",
             id_commune,
             type_acte if type_acte.lower() != "n/a" else "",
-            date if date.lower() != "n/a" else "",
+            date_corrigee,
             num_vue if num_vue.lower() != "n/a" else ""
         ])
 
