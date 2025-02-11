@@ -2,17 +2,15 @@ import csv
 
 # Fonction pour corriger la date
 def corriger_date(date):
-    if not date or date.lower() == "n/a":
-        return "01/01/0000"
-
     parties = date.split("/")
     if len(parties) == 3:
         jour, mois, annee = parties
         jour = "01" if jour == "00" else jour
         mois = "01" if mois == "00" else mois
         return f"{jour}/{mois}/{annee}"
-    
-    return date  # Si la date est mal formatée, on la laisse telle quelle
+    elif date =="n/a":
+        return ""
+    return date
 
 # Chargement des personnes
 personnes = {}
