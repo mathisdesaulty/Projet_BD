@@ -1,30 +1,48 @@
 import csv
 import re
+from datetime import datetime
 
 def corriger_date(date):
     if not date or date.lower() == "n/a":
         return ""
 
-    # Vérifier si la date est une plage (ex: 1668-1669)
+    # Vérifier si la date est une plage (ex: "1668-1669")
     match = re.match(r"(\d{4})-(\d{4})", date)
     if match:
         annee1, annee2 = map(int, match.groups())
         annee_moyenne = str((annee1 + annee2) // 2)
         return f"01/01/{annee_moyenne}"
-    
+
+    # Vérifier si la date est seulement une année (ex: "1675")
     match = re.match(r"^\d{4}$", date)
     if match:
         return f"01/01/{date}"  # Ajoute jour et mois
 
+    # Vérifier le format JJ/MM/AAAA
+    match = re.match(r"(\d{2})/(\d{2})/(\d{4})", date)
+    if match:
+        jour, mois, annee = map(int, match.groups())
 
-    # Vérifier le format classique JJ/MM/AAAA
-    parties = date.split("/")
-    if len(parties) == 3:
-        jour, mois, annee = parties
-        jour = "01" if jour == "00" else jour
-        mois = "01" if mois == "00" else mois
-        return f"{jour}/{mois}/{annee}"
-    
+        # Corriger jour ou mois à 01 si c'est 00
+        if jour == 0:
+            jour = 1
+        if mois == 0:
+            mois = 1
+
+        # Vérifier si la date est valide
+        try:
+            datetime(annee, mois, jour)  # Test si la date est valide
+        except ValueError:
+            # Si la date est invalide (ex: 30/02/XXXX), on met le dernier jour valide du mois
+            if mois == 2:  # Février
+                jour = 29 if annee % 4 == 0 and (annee % 100 != 0 or annee % 400 == 0) else 28
+            elif mois in [4, 6, 9, 11]:  # Mois à 30 jours
+                jour = 30
+            else:  # Mois à 31 jours
+                jour = 31
+
+        return f"{jour:02d}/{mois:02d}/{annee}"
+
     return date  # Si autre format, on laisse tel quel
 
 
