@@ -1,16 +1,27 @@
 import csv
+import re
 
-# Fonction pour corriger la date
 def corriger_date(date):
+    if not date or date.lower() == "n/a":
+        return "01/01/0000"
+
+    # Vérifier si la date est une plage (ex: 1668-1669)
+    match = re.match(r"(\d{4})-(\d{4})", date)
+    if match:
+        annee1, annee2 = map(int, match.groups())
+        annee_moyenne = str((annee1 + annee2) // 2)
+        return f"01/01/{annee_moyenne}"
+
+    # Vérifier le format classique JJ/MM/AAAA
     parties = date.split("/")
     if len(parties) == 3:
         jour, mois, annee = parties
         jour = "01" if jour == "00" else jour
         mois = "01" if mois == "00" else mois
         return f"{jour}/{mois}/{annee}"
-    elif date =="n/a":
-        return ""
-    return date
+    
+    return date  # Si autre format, on laisse tel quel
+
 
 # Chargement des personnes
 personnes = {}
