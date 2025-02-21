@@ -33,18 +33,11 @@ def corriger_date(date):
         try:
             datetime(annee, mois, jour)  # Test si la date est valide
         except ValueError:
-            # Si la date est invalide (ex: 30/02/XXXX), on met le dernier jour valide du mois
-            if mois == 2:  # Février
-                jour = 29 if annee % 4 == 0 and (annee % 100 != 0 or annee % 400 == 0) else 28
-            elif mois in [4, 6, 9, 11]:  # Mois à 30 jours
-                jour = 30
-            else:  # Mois à 31 jours
-                jour = 31
+            return ""
 
         return f"{jour:02d}/{mois:02d}/{annee}"
-
-    return date  # Si autre format, on laisse tel quel
-
+    else:
+        return ""
 
 # Chargement des personnes
 personnes = {}
