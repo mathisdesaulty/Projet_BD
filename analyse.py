@@ -76,7 +76,6 @@ for row in rows:
 # Écriture du fichier actes.csv
 with open('actes.csv', mode='w', encoding='utf-8', newline='') as output_file:
     csv_writer = csv.writer(output_file)
-    csv_writer.writerow(["id", "id_personneA", "id_personneB", "id_commune", "type", "date", "num_vue"])
     csv_writer.writerows(actes)
 
 print(f"Fichier actes.csv généré avec {len(actes)} enregistrements.")
