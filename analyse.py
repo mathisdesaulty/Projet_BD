@@ -3,7 +3,7 @@ import re
 
 def corriger_date(date):
     if not date or date.lower() == "n/a":
-        return "01/01/0000"
+        return ""
 
     # Vérifier si la date est une plage (ex: 1668-1669)
     match = re.match(r"(\d{4})-(\d{4})", date)
