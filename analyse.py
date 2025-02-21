@@ -11,6 +11,11 @@ def corriger_date(date):
         annee1, annee2 = map(int, match.groups())
         annee_moyenne = str((annee1 + annee2) // 2)
         return f"01/01/{annee_moyenne}"
+    
+    match = re.match(r"^\d{4}$", date)
+    if match:
+        return f"01/01/{date}"  # Ajoute jour et mois
+
 
     # Vérifier le format classique JJ/MM/AAAA
     parties = date.split("/")
