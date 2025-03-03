@@ -66,19 +66,48 @@ with open('mariages_L3_5k.csv', mode='r', encoding='utf-8') as file:
         nom_B, prenom_B, prenom_pere_B, nom_mere_B, prenom_mere_B, nom_commune, departement, date, num_vue = row[:16]
 
         ### 🔹 Gestion des personnes
-        def ajouter_personne(nom, prenom, prenom_pere, nom_mere, prenom_mere):
+        def ajouter_personne(nom, prenom):
             global person_id
-            key = (nom, prenom, nom_mere, prenom_mere)
+            key = (nom, prenom)
 
             if key not in personnes:
-                personnes[key] = person_id  # Stocke seulement l'ID
+                personnes[key] = {
+                    "id": person_id,
+                    "nom": nom,
+                    "prenom": prenom,
+                    "id_pere": None,
+                    "id_mere": None
+                }
                 person_id += 1
+            return personnes[key]["id"]
 
-        ajouter_personne(nom_A, prenom_A, prenom_pere_A, nom_mere_A, prenom_mere_A)
-        ajouter_personne(nom_B, prenom_B, prenom_pere_B, nom_mere_B, prenom_mere_B)
+        id_personneA = ajouter_personne(nom_A, prenom_A)
+        id_personneB = ajouter_personne(nom_B, prenom_B)
 
-        id_personneA = personnes.get((nom_A, prenom_A, nom_mere_A, prenom_mere_A), None)
-        id_personneB = personnes.get((nom_B, prenom_B, nom_mere_B, prenom_mere_B), None)
+        ### 🔹 Gestion des parents
+        def ajouter_parent(prenom, is_mere=False):
+            global person_id
+            if prenom.lower() != "n/a":
+                parent_key = ("", prenom) if not is_mere else (nom_mere_A if is_mere else "", prenom)
+                if parent_key not in personnes:
+                    personnes[parent_key] = {
+                        "id": person_id,
+                        "nom": parent_key[0],
+                        "prenom": parent_key[1],
+                        "id_pere": None,
+                        "id_mere": None
+                    }
+                    person_id += 1
+                return personnes[parent_key]["id"]
+            return None
+
+        # Ajouter les parents pour la personne A
+        personnes[(nom_A, prenom_A)]["id_pere"] = ajouter_parent(prenom_pere_A)
+        personnes[(nom_A, prenom_A)]["id_mere"] = ajouter_parent(prenom_mere_A, is_mere=True)
+
+        # Ajouter les parents pour la personne B
+        personnes[(nom_B, prenom_B)]["id_pere"] = ajouter_parent(prenom_pere_B)
+        personnes[(nom_B, prenom_B)]["id_mere"] = ajouter_parent(prenom_mere_B, is_mere=True)
 
         ### 🔹 Gestion des communes et départements
         if nom_commune.lower() != "n/a":
@@ -116,14 +145,16 @@ with open('mariages_L3_5k.csv', mode='r', encoding='utf-8') as file:
 # 🔸 Sauvegarde des personnes
 with open('personnes.csv', mode='w', encoding='utf-8', newline='') as output_file:
     csv_writer = csv.writer(output_file)
-    for (nom, prenom, _, _), id_personne in personnes.items():
-        csv_writer.writerow([id_personne, nom, prenom])
+    csv_writer.writerow(["id", "nom", "prenom", "id_pere", "id_mere"])  # En-tête
+    for person in personnes.values():
+        csv_writer.writerow([person["id"], person["nom"], person["prenom"], person["id_pere"], person["id_mere"]])
 
 print(f"Fichier personnes.csv généré avec {len(personnes)} personnes.")
 
 # 🔸 Sauvegarde des communes
 with open('communes.csv', mode='w', encoding='utf-8', newline='') as output_file:
     csv_writer = csv.writer(output_file)
+    csv_writer.writerow(["id", "nom", "departement"])
     for nom_commune, id_commune in communes.items():
         csv_writer.writerow([id_commune, nom_commune, commune_to_departement[id_commune]])
 
@@ -132,6 +163,7 @@ print(f"Fichier communes.csv généré avec {len(communes)} communes.")
 # 🔸 Sauvegarde des départements
 with open('departements.csv', mode='w', encoding='utf-8', newline='') as output_file:
     csv_writer = csv.writer(output_file)
+    csv_writer.writerow(["id", "nom"])
     for nom_departement, id_departement in departements.items():
         csv_writer.writerow([id_departement, nom_departement])
 
@@ -140,6 +172,7 @@ print(f"Fichier departements.csv généré avec {len(departements)} département
 # 🔸 Sauvegarde des actes
 with open('actes.csv', mode='w', encoding='utf-8', newline='') as output_file:
     csv_writer = csv.writer(output_file)
+    csv_writer.writerow(["id", "id_personneA", "id_personneB", "id_commune", "type", "date", "num_vue"])
     csv_writer.writerows(actes)
 
 print(f"Fichier actes.csv généré avec {len(actes)} enregistrements.")
