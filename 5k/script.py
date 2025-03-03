@@ -116,7 +116,6 @@ with open('mariages_L3_5k.csv', mode='r', encoding='utf-8') as file:
 # 🔸 Sauvegarde des personnes
 with open('personnes.csv', mode='w', encoding='utf-8', newline='') as output_file:
     csv_writer = csv.writer(output_file)
-    csv_writer.writerow(["id", "nom", "prenom"])
     for (nom, prenom, _, _), id_personne in personnes.items():
         csv_writer.writerow([id_personne, nom, prenom])
 
@@ -125,7 +124,6 @@ print(f"Fichier personnes.csv généré avec {len(personnes)} personnes.")
 # 🔸 Sauvegarde des communes
 with open('communes.csv', mode='w', encoding='utf-8', newline='') as output_file:
     csv_writer = csv.writer(output_file)
-    csv_writer.writerow(["id", "nom", "departement"])
     for nom_commune, id_commune in communes.items():
         csv_writer.writerow([id_commune, nom_commune, commune_to_departement[id_commune]])
 
@@ -134,7 +132,6 @@ print(f"Fichier communes.csv généré avec {len(communes)} communes.")
 # 🔸 Sauvegarde des départements
 with open('departements.csv', mode='w', encoding='utf-8', newline='') as output_file:
     csv_writer = csv.writer(output_file)
-    csv_writer.writerow(["id", "nom"])
     for nom_departement, id_departement in departements.items():
         csv_writer.writerow([id_departement, nom_departement])
 
@@ -143,7 +140,6 @@ print(f"Fichier departements.csv généré avec {len(departements)} département
 # 🔸 Sauvegarde des actes
 with open('actes.csv', mode='w', encoding='utf-8', newline='') as output_file:
     csv_writer = csv.writer(output_file)
-    csv_writer.writerow(["id", "id_personneA", "id_personneB", "id_commune", "type", "date", "num_vue"])
     csv_writer.writerows(actes)
 
 print(f"Fichier actes.csv généré avec {len(actes)} enregistrements.")
