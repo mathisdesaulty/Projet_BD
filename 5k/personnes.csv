@@ -1,0 +1,8247 @@
+id,nom,prenom
+1,ABADIE,Ferdinand Isidore
+2,ANTIGNY,Esther Emilie
+3,MOREAU,Marie Malvina
+4,ABADIE,Henri Louis François
+5,GIRET,Marie Victoire Elise
+6,ABADIE,Jean Auguste
+7,PLAIRE,Ursule Catherine Marie
+8,ABADIE,Jean Baptiste
+9,HURTAUD,Rose
+10,ABADIE,Jean François
+11,MARTIN,Marie Rosalie
+12,ABAILLART,François
+13,PYRAUD,Marie
+14,ABAUTRET,Eraste
+15,PALIERNE,Caroline Marie
+16,ABAUTRET,Henry
+17,DURAND,Emilie
+18,ABEL,Ernest Henri
+19,BERLAND,Rose Julienne Pélagie
+20,ABEL,Jacques
+21,COUIGNAUD,Catherine
+22,ABELARD,Charles
+23,BERAUD,Marie Aimée
+24,ABELARD,Edme Simon Auguste
+25,BONNEAU,Marie Louise Florence
+26,ABELARD,Jean
+27,RENAUDIN,Marie Anne
+28,ABELARD,Jean
+29,RENAUDIN,Marie Anne
+30,ABELARD,Pierre
+31,MILLACEAU,Catherine
+32,ABELARD,René
+33,PHILBERT,Jeanne
+34,ABELLARD,Alexandre Eugène
+35,GUINOT,Marthe Marie
+36,ABELLARD,Xavier
+37,VOISIN,Césarine
+38,ABELLIARD,Henry
+39,DEVAULT,Perrine
+40,ABELLIARD,René
+41,FOURRIER,Jeanne
+42,ABERT,Charles
+43,POIRAUD,Eléonore Maltide
+44,ABERT,Louis
+45,SAULNIER,Marie
+46,ABERT,Pierre
+47,ROY,Marie
+48,ABGRAL,Pierre
+49,RICHARD,Louise
+50,ABILLARD,Aimable
+51,GILLON,Anne
+52,ABILLARD,Alexis
+53,PERDRIAU,Hélène
+54,ABILLARD,André
+55,BOISSEAU,Isaïe Françoise
+56,ABILLARD,Charles
+57,BIBARD,n/a
+58,ABILLARD,Étienne
+59,BARDON,Marie
+60,ABILLARD,Étienne
+61,BOUHIER,Anne
+62,ABILLARD,Étienne
+63,BOUTEILLER,Louise
+64,ABILLARD,Étienne
+65,CHAUVET,Marie
+66,ABILLARD,Étienne
+67,CORNEVIN,Renée
+68,DUGUE,Louise
+69,ABILLARD,Étienne
+70,GUILLOT,Suzanne
+71,ABILLARD,Étienne
+72,LONGEAUD,Catherine
+73,MARAUD,Marie
+74,ABILLARD,Étienne
+75,SIRE,Denise
+76,ABILLARD,Gabriel
+77,RENAUDINEAU,Marguerite
+78,ABILLARD,Gabriel
+79,TAILLE,Madeleine
+80,ABILLARD,Gustave Alfred
+81,MICHAUD,Marie Philomène Louise
+82,ABILLARD,Henri Auguste François
+83,BOURMAUD,Marie Véronique
+84,ABILLARD,Henry Auguste
+85,MORISSET,Félicité Aimée
+86,ABILLARD,Jacques
+87,GAULTIER,Jeanne
+88,ABILLARD,Jacques
+89,GAUTIER,Jeanne
+90,ABILLARD,Jacques
+91,GUAY,Marie
+92,ABILLARD,Jacques
+93,MENUET,Catherine
+94,ABILLARD,Jacques
+95,RABALAND,Catherine
+96,RICOLEAU,Marie
+97,ABILLARD,Jacques François Prosper
+98,BONNIN,Marie Mélanie
+99,ABILLARD,Jean
+100,ARNAUD,Marguerite
+101,BASSIN,Marie
+102,ABILLARD,Jean
+103,BASSIN,Marie
+104,BONNET,Marie
+105,BRYANT,Radégonde
+106,ABILLARD,Jean
+107,BUFCHOL,Geneviève
+108,ABILLARD,Jean
+109,CANTIN,Aimée
+110,CHAUROIS,Marie
+111,ABILLARD,Jean
+112,CHAUVET,Esprit Sévère
+113,ABILLARD,Jean
+114,COITARD,Catherine
+115,ABILLARD,Jean
+116,GRELIER,Françoise
+117,GRELIER,Françoise
+118,ABILLARD,Jean
+119,GRONDIN,Virginie Angélique
+120,MARCHAND,Marie
+121,MORINEAU,Marie
+122,ABILLARD,Jean
+123,RABALLAND,Marie Magdeleine
+124,ABILLARD,Jean
+125,RIVALIN,Jeanne
+126,ABILLARD,Jean
+127,RIVALLIN,Marie Jeanne
+128,ABILLARD,Jean Auguste Henri
+129,BOUGIS,Clémentine
+130,ABILLARD,Jean Jacques
+131,MORNET,Marie
+132,TRIBALLEAU,Jeanne
+133,ABILLARD,Jean Louis
+134,MIGNE,Victoire
+135,ABILLARD,Jean Marie
+136,ELINEAU,Marie Thérèse
+137,GARREAU,Marie
+138,ABILLARD,Jean Marie Isidore
+139,GILLON,Philomène Françoise Marie
+140,ABILLARD,Joseph Aimable
+141,GILLON,Rose
+142,ABILLARD,Joseph Amable
+143,ABILLARD,Laurent
+144,OURY,Yvonne
+145,ABILLARD,Louis
+146,GUILLOT,Jeanne
+147,ABILLARD,Louis
+148,LAUREND,Marie
+149,ABILLARD,Louis
+150,MARAUD,Jeanne
+151,ABILLARD,Louis
+152,PILET,Marie
+153,REGNAUD,Simone
+154,ABILLARD,Louis Fidèle
+155,FORT,Marie Françoise
+156,ABILLARD,Louis Mathieu
+157,BODARD,Jeanne
+158,GEAY,Marie
+159,ABILLARD,Marie ?
+160,GARREAU,Marie
+161,ABILLARD,Mary
+162,ABILLARD,Mathurin
+163,BOCQUILLARD,Germaine
+164,ABILLARD,Mathurin
+165,BONNIN,Catherine
+166,ABILLARD,Mathurin
+167,DROUNET,Isabeau
+168,ABILLARD,Nicolas
+169,ECHARDOUX,Françoise
+170,ABILLARD,Philippe
+171,BERNARD,Marie
+172,ABILLARD,Pierre
+173,BONNIN,Françoise
+174,ABILLARD,Pierre
+175,CHAUVET,Marie Anne
+176,ABILLARD,Pierre
+177,GILLON,Anne
+178,GUILBAUD,Françoise
+179,JOLLY,Anne
+180,ABILLARD,Pierre
+181,PENARD,Perrine
+182,ABILLARD,Pierre Célestin Auguste
+183,DUPONT,Marie Emilienne Mathilde
+184,ABILLARD,Pierre François
+185,GILLON,Rose
+186,ABILLARD,Pierre François Désiré
+187,GUILBAUD,Émilie Marie
+188,ABILLARD,Pierre Louis
+189,GUIMARON,Anne Aimée
+190,ABILLARD,Pierre Louis
+191,MACE,Marie Rose Aimée
+192,ABILLARD,Pierre Patrice
+193,MORNET,Augustine Rosalie
+194,ABILLARD,René
+195,BUCHOUL,Louise
+196,ABILLARD,René
+197,RICHARD,Jeanne
+198,ABILLARD,René
+199,SIMONEAU,Marie Gabrielle
+200,ABILLARD,Vincent
+201,BARRAUD,Renée
+202,ABILLIARD,Pierre
+203,DOUSSET,Marie
+204,ABILLIARD,Pierre
+205,DOUSSET,Marie
+206,ABLINE,René
+207,MARTIN,Jeanne
+208,ABOILLARD,Jean
+209,TEXIER,Anne
+210,ABON,Charles
+211,TALIE,Marie
+212,ABOUILLARD,Mathurin
+213,NOYAU,Madeleine
+214,ABRAHAM,Auguste
+215,DELAPLACE,Rosa
+216,ABRAHAM,Bon Louis
+217,RABAUD,Françoise
+218,ABRAHAM,Henry Emmanuel
+219,FEBVRE,Alexandrine Aglaée
+220,ABRAHAM,Jean
+221,JOUSSEAUME,Rose
+222,ABRAHAM,Lambert Isaac
+223,PALMET,Angélique
+224,ABRAHAM,Lambert Isaac
+225,SALOMON,Magdelaine
+226,SALOMON,Magdelaine
+227,ABRAHAM,Louis
+228,CHIRON,Louise
+229,ABRAHAM,Mathurin
+230,JOSNET,Catherine
+231,ABRAHAM,Pierre Auguste
+232,PATAUD,Rosalie
+233,ABRAHAM,Pierre Auguste
+234,PATEAU,Rosalie
+235,ABRAHAM,Pierre Honoré Gaspard
+236,DELAPORTE,Marie Anne Rose
+237,ABRAHAM,Pierre Louis
+238,DUPONT,Reine Thérèse
+239,ABRAM,Estienne
+240,AUGISEAU,Jacquette
+241,ABRAM,Estienne
+242,COLLINET,Anne
+243,ABRAM,François
+244,FRADIN,Jeanne
+245,PAJOT,Jeanne
+246,ABRAM,Henri Jean
+247,GALLAIS,Sophie
+248,ABRAM,Jean Jules
+249,BEILVERT,Madeleine Rosalie Angélique
+250,ABRAM,Jean Pierre
+251,BODIN,Alexandrine Louise
+252,ABRAM,Jehan
+253,BETHUIS,Marie
+254,ABRAM,Louis
+255,DUGUE,Françoise Modeste
+256,ABRAM,Mathurin
+257,BERNARD,Marguerite
+258,ABRAM,Mathurin
+259,COUTHOUIS,Marie
+260,MARTINEAU,Perrine
+261,TOUSEAU,Marie Jeanne
+262,ABRAM,Nicolas
+263,LIONNET,Mathurine
+264,ABRAM,Olivier
+265,TIMOREAU,Guillemette
+266,ABRAM,Philippe
+267,TOUZEAU,Marie
+268,ABRAM,Pierre
+269,AUGISEAU,Judith
+270,ABRAM,Pierre
+271,GABILLARD,Catherine
+272,ABRAM,Pierre Amédé
+273,GALLAIS,Appolonie Marie
+274,ABRAM,Pierre André
+275,MARTINEAU,Philomène Marie
+276,ABRAM,Pierre Philbert
+277,CHARIER,Marie Alphonsine
+278,ABRANT,n/a
+279,PAPIN,n/a
+280,ABRARD,Jean
+281,GAUTREAU,Marie
+282,ABSIN,Jean
+283,CRESPEAU,Jeanne
+284,ABSINT,Jean
+285,MARITEAU,Marie
+286,ACARD,Charles Joseph
+287,DUPONT,Marie
+288,ACAULT,Jean
+289,PASQUIER,Marie
+290,ACHAILLE,Jean
+291,LORET,Jeanne
+292,ACHAILLE,Louis
+293,GUILBAUD,Thérèse
+294,ACHALE,Etienne
+295,THIBAUDEAU,Perrine
+296,THUDEAU,Jacquette
+297,ACHALÉ,François
+298,CHARIAS,Marie
+299,ROCHETEAU,Rose Louise
+300,ACHALÉ,Henri Alexandre Séraphin
+301,BUTAUD,Manda Clorinthe
+302,ACHALE,Jacque
+303,BARRE,Magdeleine
+304,ACHALE,Jacques
+305,CHARIAU,Jeanne
+306,RICHARD,Catherine
+307,ACHALE,Jean
+308,BOURGOIS,Louise
+309,ACHALÉ,Jean
+310,BRARD,Modeste Renée
+311,CHARIEAU,Marie
+312,DOILLARD,Renée
+313,ACHALÉ,Jean
+314,MARIONNEAU,Marie
+315,ACHALE,Jean
+316,PROUTEAU,Marie
+317,SENTERON,Elisabeth
+318,ACHALE,Louis
+319,BOUARD,Marie
+320,ACHALÉ,Louis
+321,DEBUREAU,Marie
+322,ACHALÉ,Louis
+323,LEDET,Marie
+324,MARIONNEAU,Victoire
+325,MOURAT,Marie
+326,PELLETIER,Catherine
+327,RIGANEAU,Catherine
+328,VILAIN,Françoise
+329,ACHALE,Nicolas
+330,BERTRAND,Suzanne
+331,ACHALE,Pierre
+332,ALIZEAU,Louise
+333,BOISSEAU,Marie
+334,CRANIER,Marie
+335,CRESPEAU,Françoise
+336,ACHALÉ,Pierre
+337,ESNARD,Marie
+338,JONOT/JOUOT,Marie
+339,MAILLET,Jeanne Aimée
+340,ACHALÉ,Victor
+341,GANDEMER,Julia
+342,PERRAUDEAU,Marie-Henriette
+343,ACHALET,Jacques
+344,BERTHOMÉ,Marie Rose
+345,ACHALLÉ,Alexandre
+346,ARNAUD,Marie Anne
+347,ACHALLÉ,Alexandre Emmanuel
+348,CARDINAUD,Isabelle Rose
+349,ACHALLE,Auguste Mathurin
+350,BRILLOUET,Marie Florence Victorine
+351,ACHALLE,Auguste Pierre
+352,CLERTEAU,Marie Henriette
+353,ACHALLE,Barthélémy
+354,GALLET,Louise
+355,ACHALLE,Charles
+356,CARADU,Marie
+357,LAMBERT,Marie
+358,ACHALLE,Fidèle
+359,FAVEREAU,Elisabeth
+360,ACHALLE,François
+361,BARBEAU,Marie Magdeleine
+362,ACHALLE,François
+363,LERITEAU,Françoise
+364,ACHALLE,François
+365,MALATIER,Andrée
+366,ACHALLE,Henri Jacques
+367,DURANDET,Aimée
+368,ACHALLE,Jacques
+369,ACHALLE,Louise Roze
+370,ACHALLÉ,Jacques
+371,BARRAU,Marie
+372,ACHALLE,Jacques
+373,BIDAUD,Jeanne
+374,BRETON,Catherine
+375,CAILLAUD,Marie
+376,CANTIN,Louise
+377,CHAUVREAU,Jeanne
+378,DORIN,Marguerite
+379,DUBOIS,Amédée Laurence
+380,DURAND,Madeleine
+381,ACHALLE,Jacques
+382,GENTREAU,Catherine
+383,PONDEVIE,Madeleine
+384,RENAUD,Jeanne
+385,RIVALIN,Marie Catherine
+386,ROBIN,Magdeleine
+387,ACHALLE,Jacques Aimé
+388,GREAU,Valentine Emma
+389,ACHALLE,Jacques François
+390,BIROTHEAU,Marianne
+391,ACHALLÉ,Jacques Henri
+392,ROBIN,Célina Désirée
+393,ACHALLE,Jacques Louis Fidèle
+394,POITEVIN,Marie Louise
+395,ACHALLE,Jean
+396,BENOIST,Jeanne
+397,ACHALLE,Jean
+398,BIZET,Marie
+399,ACHALLE,Jean
+400,CAILLETEAU,Charlotte
+401,ACHALLE,Jean
+402,CAPIN,Catherine
+403,ACHALLÉ,Jean
+404,CHEVILLON,Marianne
+405,DEBIEN,Julienne
+406,DUPORT,Suzanne
+407,DURAND,Jeanne Suzanne
+408,GOURAUD,Catherine
+409,MOUGAST,Marie
+410,PAGEAUD,Catherine
+411,RAIMBAUD,Rose
+412,ACHALLE,Jean
+413,SUZENET,Perrine
+414,TEXIER,Marie
+415,VOYNEAU,Jeanne
+416,VREDON,Marie
+417,ACHALLE,Jean Alexis
+418,MICHAUD,Rose Victorine
+419,ACHALLÉ,Jean Baptiste
+420,FORT,Roze
+421,ACHALLÉ,Jean Baptiste
+422,TEXIER,Renée
+423,ACHALLÉ,Jean Louis
+424,BARRITEAU,Louise
+425,ACHALLE,Jean Louis
+426,VIOLEAU,Marie Adélaïde
+427,ACHALLE,Jean Nicolas
+428,CARDINAUD,Marie Anne
+429,ACHALLE,Joseph
+430,BOURON,Louise
+431,ACHALLE,Louis
+432,BELIARD,Marie Anne
+433,ACHALLE,Louis
+434,BONNIN,Charlotte
+435,BROCHARD,Jeanne
+436,ACHALLE,Louis
+437,BURCIER,Marie
+438,CAILLON,Jacquette
+439,CANTIN,Marguerite
+440,CHEVALIER,Marie
+441,ACHALLE,Louis
+442,COUTURIER,Marie Anne
+443,DROILLARD,Marie Anne
+444,FOUCAUD,Marie
+445,FOURNIER,Louise
+446,GAUTIER,Françoise
+447,ACHALLÉ,Louis
+448,GUIET / GUIETTE,Marie Anne
+449,ACHALLE,Louis
+450,JARNY,Jeanne
+451,MAIGNEAU,Marie
+452,ACHALLE,Louis
+453,NAULEAU,Louise
+454,ACHALLÉ,Louis
+455,PETRÉ,Marie
+456,POIRAUD,Marie Jeanne
+457,POTTIER,Marie Rose Désirée
+458,RIBARD,Roze
+459,TEXIER,Marie
+460,TEXIER,Marie
+461,ACHALLÉ,Louis
+462,TRAINEAU,Marie
+463,ACHALLÉ,Louis Auguste
+464,COTTREAU,Marie Victorine
+465,ACHALLÉ,Louis Augustin
+466,LOUINEAU,Aimée Henriette
+467,ACHALLE,Loys
+468,THIBAUDEAU,Catherine
+469,ACHALLE,Mathurin
+470,ARDOUIN,Jeanne
+471,ACHALLE,Mathurin
+472,CLAVAU,Louise
+473,ENGIBAUD,Françoise
+474,MERICHON,Renée
+475,VERONNEAU,Rose
+476,ACHALLE,Michel Théodore
+477,MERON,Marie Rose
+478,ACHALLE,Nicolas
+479,GIRAUD,Perrine
+480,ACHALLÉ,Noël
+481,DELAIRE,Suzanne
+482,ACHALLE,Pierre
+483,ARCHEREAU,Marie Thérèse
+484,ACHALLÉ,Pierre
+485,BARITAUD,Marie
+486,BOBAIT,Marie
+487,BUTON,Marie Rose Aimée
+488,DUBOIS,Louise Aimée
+489,ACHALLE,Pierre
+490,GAUTIER,Marie
+491,GIRANDEAU,Marie
+492,GOUIN,Jeanne
+493,GUITTEAU,Félicité Marie
+494,JAUNEAU,Marie Jeanne
+495,ACHALLE,Pierre
+496,LAURENT,Marie
+497,LOIRANT,Honorine Marie
+498,ACHALLE,Pierre
+499,OLIVEAU,Jeanne
+500,PONDEVIE,Geneviève
+501,ACHALLE,Pierre
+502,PONDEVIE,Geneviève
+503,ACHALLE,Pierre
+504,RIBARD,Marie Anne
+505,ACHALLE,Pierre
+506,ROCHER,Jeanne
+507,ACHALLE,Pierre
+508,ROULEAU,Marie Anne Angélique
+509,RUCHAUD,Magdelaine
+510,ACHALLE,Pierre
+511,TEXIER,Charlotte Louise
+512,ACHALLÉ,Pierre Auguste
+513,IDIER,Marie Louise Aimée
+514,ACHALLÉ,Pierre François
+515,DROILLARD,Roze Marie
+516,ACHALLE,Pierre Jean
+517,ARGNON,Marie Jeanne Benjamine
+518,FAIVRE,Marie Françoise
+519,ACHALLE,René Mathurin
+520,RIPOCHE,Louise Léonide
+521,ACHALLE,Victor
+522,PENISSON,Constance Léontine
+523,ACHALLE,Victor Joseph
+524,GUERINEAU,Marie Rose Eugénie
+525,ACHALLE,Xxxxxx
+526,TRICHET,Xxxxxx
+527,ACHARD,André
+528,GAUVRIT,Marie Rose
+529,ACHARD,André
+530,GUERIN,Anne
+531,ACHARD,André François
+532,BÉTHYS,Marie Anne Magdeleine
+533,ACHARD,André Louis
+534,COUTANCEAU,Jeanne
+535,ACHARD,Arsène Louis Jean Julien
+536,BOSSIS,Marie Louise Joséphine Emilie
+537,ACHARD,Auguste
+538,GAUVRIT,Marie
+539,ACHARD,Auguste Jean
+540,SENARD,Jeanne Catherine
+541,ACHARD,Auguste Pierre
+542,BLAIN,Jeanne Victorine Joséphine
+543,ACHARD,Augustin
+544,CHAUCHET,Louise
+545,ACHARD,Célestin François
+546,GARREAUD,Armande Eugénie
+547,ACHARD,Eloy
+548,HERY,Anne
+549,ACHARD,Estienne
+550,GAUDIN,???
+551,ACHARD,François
+552,BLANCHARD,Jeanne Véronique
+553,ACHARD,François
+554,ROUSSELEAU,Marie Jeanne
+555,ACHARD,François
+556,TRAVERS,Marie Jeanne
+557,ACHARD,François Étienne
+558,GAUTIER,Angèle Magdeleine
+559,ACHARD,François Marie
+560,TESSIER,Jeanne Marguerite
+561,ACHARD,Gilles
+562,GEORGET,Esther
+563,ACHARD,Jacques
+564,BURCEROT,Françoise
+565,ACHARD,Jacques
+566,CANTIN,Louise
+567,ACHARD,Jacques
+568,DEGOUNOR,Louise
+569,DURAND,Marie
+570,FILLASTRE Dame,Renée
+571,FOUCHEREAU,Elizabeth
+572,GENTIL,Marie
+573,ACHARD,Jacques
+574,MACAULT,Jeanne
+575,MAIXANT,Marguerite
+576,MOREAU,Marie
+577,PADIOLEAU,Anne
+578,PADIOLEAU,Anne
+579,ACHARD,Jacques François
+580,DUPLEIX,Marie Hélène
+581,GAUDIN,Anne Louise
+582,ACHARD,Jacques François Marie Joseph
+583,PORTEAU,Marie Anne
+584,ACHARD,Jean
+585,EVEILLARD,Honorée
+586,PRINEAU,Honorée
+587,ACHARD,Jean
+588,RICHARD,Françoise
+589,ACHARD,Jean
+590,SOULARD,Jeanne Michèle
+591,ACHARD,Jean Auguste
+592,BOIVEAU,Marie Eléontine Séraphie
+593,ACHARD,Jean Auguste Victor
+594,RECULEAU,Florentine Valentine Alexandrine
+595,ACHARD,Jean Baptiste Louis
+596,REDOIS,Modeste
+597,ACHARD,Jean François
+598,MARTIN,Rosalie
+599,ACHARD,Jean François
+600,PINSON,Emilie Octavie
+601,ACHARD,Jean Louis
+602,BLANCHARD,Marie Jeanne
+603,ACHARD,Jean Louis
+604,BODARD,Rose Victorine
+605,DUPE,Philomène
+606,ACHARD,Jean Marie
+607,MOSNIER,Pélagie
+608,ACHARD,Jean Marie Victor
+609,BRECHET,Ernestine Aurélie Élise Clémentine
+610,ACHARD,Jehan
+611,MINAUD,Jacquette
+612,ACHARD,Joseph
+613,ANGIBAUD,Marie
+614,BOITINEAU,Marie
+615,MICHON,Jeanne
+616,TIRBOUC,Marie
+617,ACHARD,Joseph Charles Eugène
+618,FORT,Marie Jeanne Olive
+619,ACHARD,Julien
+620,COLLINET,Françoise
+621,ACHARD,Louis
+622,GUYAU,Magdelaine
+623,ACHARD,Louis
+624,SARAZIN,Jeanne
+625,ACHARD,Louis Joseph André
+626,BETHUIS,Victoire Virginie
+627,ACHARD,Michel
+628,BASIREAU/BUSREAU,Jacquette
+629,ACHARD,Michel
+630,CHANTREAU,Elizabeth
+631,ACHARD,Pierre
+632,BADREAU,Jeanne
+633,ACHARD,Pierre
+634,BLANDIN,Marie
+635,ACHARD,Pierre
+636,BRIZARD,Anne Catherine
+637,ACHARD,Pierre
+638,CHAUVEAU,Anne
+639,CHAUVET,Marie
+640,ACHARD,Pierre
+641,FOUQUET,Angélique
+642,LOIZEAU,Catherine
+643,MAIXANT,Perrine
+644,ACHARD,Pierre
+645,PAVAGEAU,Augustine Su.
+646,ACHARD,Pierre
+647,RICHARD,Jeanne
+648,ACHARD,Pierre
+649,SAVIN,Catherine
+650,TALLENEAU,Marie
+651,ACHARD,Pierre Louis Alexandre
+652,GILLET,Henriette Eugénie Marie
+653,ACHARD,Pierre Marie
+654,VOISIN,Marie Rose
+655,ACHARD,René
+656,ERAUDIERE,Marguerite
+657,PROUSTEAU,Françoise
+658,ACHARD,Valentin
+659,MARCHANDEAU,Mathurine
+660,ACHEL,Eugène
+661,DRAPEAU,Marie Modeste Félicitée
+662,ACHEL,Eugène Jean Marie
+663,THEAUD,Augustine Adéma Juliette
+664,ACHER DUBOIS,Hubert Jean
+665,RUBION,Rosalie Céleste
+666,SEGUIN,Marie Rose
+667,ACHER DUBOIS,Paul Adrien
+668,MOREAU,Marie Julie Adélaïde
+669,ACHEREAU,André
+670,MEUNIER,Renée Marie
+671,ACHEREAU,André
+672,POULLETEAU,Renée
+673,POULTEAU,Renée Marguerite
+674,ACHEREAU,Charles
+675,AUGER,Marie
+676,ACHEREAU,Etienne
+677,DIBOT,Marie
+678,ACHEREAU,Etienne
+679,JOURNAUD,Françoise
+680,ACHEREAU,Etienne
+681,VIVIER,Marie
+682,ACHEREAU,François
+683,MOTHET,Marie
+684,PENAUD,Marie
+685,ACHEREAU,Jacques
+686,BAUDRY,Renée
+687,ACHEREAU,Jan
+688,CHEVRY,Marie
+689,ACHEREAU,Jean
+690,BOUTET,Marie
+691,ACHEREAU,Jean Baptiste
+692,ONOLLIER,Marie Virginie
+693,ACHEREAU,Jean Baptiste
+694,PORCHER,Renée
+695,ACHEREAU,Jean-Baptiste Léon
+696,BOUILLAUD,Marie Pélagie
+697,ACHEREAU,Louis
+698,CAQUINEAU,Françoise
+699,ACHEREAU,Louis François Alexandre
+700,MARAIS,Marie Louise
+701,ACHEREAU,Mathieu
+702,TEVIN,Louise
+703,ACHEREAU,Mathieu
+704,THEVIN,Louise
+705,ACHEREAU,Mathurin
+706,MOREAU,Suzanne
+707,ACHEREAU,Pierre
+708,ACHEREAU,Louise
+709,ACHNEAU,Jacques
+710,DUGUI,Jeanne
+711,ACHON,François
+712,LIMOUSIN,Anne
+713,ACQUET,Charles
+714,ACQUET,Marie
+715,ADAM,Adolphe
+716,GAUTIER,Octavie
+717,ADAM,Antoine
+718,BILLAUD,Philippe
+719,ADAM,Charles
+720,COLLET,Jeanne
+721,ADAM,Clément
+722,BONIN,Louise
+723,POICTOU,Jeanne
+724,ADAM,François
+725,ERREAU,Julienne
+726,ADAM,François Louis
+727,ARNAUD,Marie Aimée
+728,MACOUIN,Marie
+729,ADAM,Josüé
+730,DESCARS,Marie Anne
+731,ADAM,Pierre
+732,BOURDON,Marie
+733,ADAM (DE LESTANG),Jacques
+734,POTIER,Marie
+735,ADAMS,François Joseph
+736,ROUSSELOT,Marie Victorine
+737,ADDER,Julien
+738,DAVID,Marie Rose
+739,ADENIS,Antoine Silvain
+740,GERBAUD,Marie Rose
+741,ADENIS,Pierre
+742,PEPIN,Marie Geneviève
+743,ADENIS,Pierre Charles
+744,RIPOCHE,Marie Victorine
+745,ADENIS,Sylvain
+746,FROMAGET,Marianne
+747,ADIEN,n/a
+748,ADMAND,Jacques
+749,DESAMIS,Marie
+750,ADMAND,Jean
+751,LIARD,Marie Henriette
+752,ADMAND,Jean
+753,LIARD,Marie Henriette
+754,ADMAND,Jean
+755,ADMIRAL,Louis
+756,VINCENT,Marie
+757,ADMIRAT,Charles
+758,ROITIN,Marie Jeanne
+759,ADMIRAT,Louis Barnabé
+760,BONNET,Jeanne
+761,ADMYRAULT,Jules
+762,GRIMAUD,Maria
+763,ADNET/ALNET,François
+764,GARNIER,Marie Magdeieine
+765,ADOLPHE,n/a
+766,ROCHETEAU,Louise
+767,ADOLPHE,Bénigne
+768,CHAIGNE,Marie Anne
+769,ADRIEN,Aimé Joseph
+770,FRIOUX,Marie Eléonore
+771,ADRIEN,Alix Jean
+772,COUILLON,Thérèse Françoise
+773,DAMOUR,Madeleine Joséphine
+774,ADRIEN,Antoine Aimé
+775,COUILLON,Marie Louise
+776,ADRIEN,Charles
+777,BONNETEAU,Anne
+778,NICOLEAU,Marie Anne
+779,ADRIEN,Charles Pierre
+780,PRECHAIS,Esther Louise
+781,ADRIEN,Etienne Joseph
+782,DELAVAUD,Marie Julie Victorine
+783,ADRIEN,Eugène Auguste
+784,GAUTIER,Marianne Eulalie
+785,PRAUD,Emilie
+786,ADRIEN,François
+787,COUILLON,Marie
+788,DE LAPORTE,Thérèse
+789,GALLAIS,Marie Rose
+790,LE BLAIS,Suzanne
+791,PRAUD,Marie Magdelaine
+792,ADRIEN,François
+793,VIAUD,Marie Catherine
+794,ADRIEN,François Alcime Philbert
+795,RAIMOND,Constance Véronique
+796,ADRIEN,François Alphonse
+797,MONNIER,Alexandrine Marie
+798,ADRIEN,Jacques
+799,BODIN,Thérèse
+800,ADRIEN,Jacques
+801,DURAND,Suzanne
+802,ADRIEN,Jacques
+803,ISACARD,Marie
+804,ADRIEN,Jacques
+805,LEBRETON,Marie
+806,ADRIEN,Jacques
+807,VIOLEAU,Yvonne
+808,ADRIEN,Jacques Joseph
+809,GENDRON,Marie
+810,ADRIEN,Jacques Nicolas
+811,GUERIN,Marie Françoise
+812,ADRIEN,Jean
+813,BURGAUD,Jeanne
+814,GENDRON,Louise
+815,GOURAUD,Marie
+816,PAUVERT,Jeanne
+817,ADRIEN,Jean
+818,RAYMOND,Perrine
+819,ADRIEN,Jean Louis
+820,PONTOIZEAU,Marie Eudoxie Virginie Eléonore
+821,ADRIEN,Jean Pierre
+822,IZACARD,Anne Thérèse
+823,ADRIEN,Joseph
+824,ABRAM,Françoise
+825,BOUTEAU,Marie
+826,COUDRIAU,Victoire
+827,GAUTIER,Marie Anne Louise
+828,NAU,Jeanne Céleste
+829,PERAIN,Jeanne
+830,ADRIEN,Joseph
+831,PINET,Elisabeth
+832,ADRIEN,Joseph Joachim
+833,BOUTET,Reine Joséphine
+834,ADRIEN,Louis
+835,AUDUREAU,Marie Anne Jeanne
+836,ADRIEN,Louis
+837,BAUGE,Marie
+838,CHARRIER,Françoise
+839,NICOU,Marie Julie
+840,ADRIEN,Louis Aimé
+841,GAUTIER,Suzanne
+842,ADRIEN,Louis Célestin
+843,THIBAUD,Marie Rose
+844,ADRIEN,Louis François
+845,BAIZEAU,Anne Marie
+846,ADRIEN,Louis Jacques
+847,DAMOUR,Marie Magdelaine
+848,ADRIEN,Louis Joseph
+849,BROSSET,Marie
+850,ADRIEN,Louis Pierre
+851,DUPONT,Marie Thérèse
+852,ADRIEN,Nicodème
+853,TOUZEAU,Françoise Louise
+854,ADRIEN,Nicolas
+855,GUERAIN,Jeanne
+856,GUITTON,Marie
+857,ADRIEN,Nicolas
+858,LEROY,Madeleine
+859,PRUNEAU,Jeanne
+860,ADRIEN,Paul Stanislas
+861,CORBREJAUD,Marie Louise
+862,PELLEMELLE,Jeanne Suzanne
+863,ADRIEN,Philbert
+864,BIZET,Laurence
+865,BOUCHERON,Julienne
+866,COURAND,Jacquette
+867,DUMENE,Catherine
+868,GUILBAUD,Jeanne
+869,PRAUD,Marie
+870,ADRIEN,Pierre
+871,BAUGE,Jeanne Louise
+872,BLANDINEAU,Françoise Thérèse
+873,DELANOUE,Magdelaine
+874,GAUTIER,Césarine
+875,ADRIEN,Pierre Germain
+876,COUILLON,Suzanne Pélagie
+877,POITUREAU,Rose Martine
+878,ADRIEN,Pierre Joseph
+879,PINEAU,Marie Philomène
+880,ADRIEN,Pierre Joseph Joachim
+881,FRIOUX,Louise Catherine
+882,RENAUD,Marie Anne
+883,ADRIEN,Pierre Louis
+884,PERRIN,Marie
+885,ADRIEN,Victor
+886,LAPORTE,Marie Madeleine
+887,ADRIEN,Victor Reé Léon
+888,NOLLEAU,Marie Louise
+889,ADRIEN (DRIN),Louis
+890,LE NOUC (LA NOUE),Catherine
+891,ADRON,Hélie
+892,POISBLEAU,Charlotte Aimée
+893,ADUCH...,Nicolas
+894,FRAPIER,Louise
+895,ADVERTY,Charles
+896,BERTHOME,Madeleine
+897,ADVERTY,Charles
+898,BONNIN,Louise
+899,ADVERTY,François
+900,BONNIN,Jacquette
+901,DANIAU,Marguerite
+902,ADVERTY,Jean
+903,BENATIER,Marie
+904,ADVERTY,Jean
+905,BONNIN,Jeanne
+906,ADVERTY,Julien
+907,BESSONNET,Françoise
+908,ADVERTY,Louis
+909,FRICONNEAU,Marie
+910,ADVERTY,Louis
+911,MESCHIN,Catherine
+912,ADVERTY,Nicolas
+913,BOULA,Sapience
+914,ADVERTY,Pierre
+915,BICHA,Catherine
+916,ADVERTY,Pierre
+917,BICHA,Renée
+918,ADVERTY,Pierre
+919,FOUCQUAUD,Marie
+920,ADVERTY,René
+921,VINCENDEAU,Jeanne
+922,AFFETE,Julien
+923,DAVIAUD,Marie
+924,AFFILAY,Simon
+925,RAVELEAU,Marie Angélique
+926,AFFILÉ,Pierre Alexandre Amédé
+927,RAMBAUD,Flavie
+928,AFFILÉ,Pierre Louis
+929,CHARTAUD,Marie Magdeleine
+930,AFFITE,Julien
+931,MENANTEAU,Marie
+932,AGAËSSE,Augustin Marie
+933,PÉRAUDEAU,Adélé Victoire Clémence
+934,AGAËSSE,Jean Pierre
+935,DEVINEAU,Aimée Rose
+936,AGAISSEAU,Mathurin
+937,VRIGNEAU/VERIGNEAU,Jeanne
+938,AGAISSEAU,Nicolas
+939,GIRAUD,Marie
+940,AGAST,Pierre
+941,SOULARD,Anne
+942,AGAT,Hippolyte Jean Baptiste
+943,DALLET,Marie Louise
+944,AGAT,Louis Eucher
+945,BODIN,Marie Louise Arthémise
+946,AGAT,Louis Eucher
+947,BODIN,Marie Louise dure Arthémise
+948,AGAT,Marc
+949,POUPIN,Jeanne
+950,AGATH,Joseph Alexandre
+951,CAILLAUD,Marie Constance
+952,AGATHE,Marc
+953,CHARIER,Marianne
+954,AGAUT,Pierre Louis
+955,COUDRAIN,Marie Louise Léontine
+956,AGEAU,Jean
+957,OLIVIER,Andrée
+958,AGENAU,François Augustin
+959,MARTINET,Marie Jeanne
+960,AGENEAU,Alexandre Laurent
+961,GODET,Marie Alexandrine
+962,AGENEAU,Anthoine
+963,MORILLON,Renée
+964,AGENEAU,Augstin
+965,CHAPIN,Augustine
+966,AGENEAU,Auguste Jean
+967,YOU ,Eugénie Marie Louise
+968,AGENEAU,Augustin Léonor
+969,ROY,Modeste
+970,AGENEAU,Augustin Pierre
+971,GUILLAUMIE,Hortense
+972,AGENEAU,Charles
+973,SORIN,Marie
+974,AGENEAU,François
+975,ARNOUX,Jeanne
+976,AGENEAU,François
+977,AUTIN,Louise
+978,AGENEAU,François
+979,BLANCHARD,Jeanne
+980,BLANCHARD,Jeanne
+981,GUESDON,Jeanne
+982,AGENEAU,François
+983,PIN,Marianne
+984,AGENEAU,François
+985,RAUTUREAU,Marianne
+986,RAUTUREAU,Marianne
+987,SIAUDEAU,Marie
+988,YOU,Jeanne Pélagie
+989,AGENEAU,François Augustin
+990,BOURASSEAU,Marie Victoire
+991,AGENEAU,François Charles Honoré
+992,YOU,Perrine Pélagie
+993,AGENEAU,Henri
+994,BORDAGE,Marie Rose
+995,AGENEAU,Henri
+996,THREILLARD,Marie Philomène
+997,AGENEAU,Henry
+998,GLUARD,Marie Modeste
+999,AGENEAU,Henry
+1000,GUIGNÉ,Rose
+1001,AGENEAU,Jacques
+1002,CHEVALIER,Marie
+1003,AGENEAU,Jacques
+1004,OUVRARD,Renée
+1005,ROBERT,Jeanne
+1006,AGENEAU,Jacques Augustin
+1007,RETAILLEAU,Modeste
+1008,AGENEAU,Jean
+1009,BOSSARD,Marie-Henriette
+1010,AGENEAU,Jean
+1011,CHARRIER,Jacquette
+1012,AGENEAU,Jean
+1013,GREAU,Marie
+1014,AGENEAU,Jean
+1015,GRISLARD,Marie
+1016,AGENEAU,Jean
+1017,MORIN,Marie
+1018,SUAUDEAU,Jeanne
+1019,VILLENEUVE,Marie
+1020,AGENEAU,Jean Baptiste
+1021,VINET,Jeanne
+1022,AGENEAU,Jean Baptiste Armand
+1023,BAUBRY,Marie Henriette
+1024,AGENEAU,Jean Baptiste François
+1025,CHAUVET,Marie Marguerite
+1026,AGENEAU,Jean Baptiste François
+1027,GELOT,Marie
+1028,AGENEAU,Jean Constant
+1029,BRACHET,Philomène Clémence Louise
+1030,AGENEAU,Jean Henry Louis
+1031,LOISEAU,Marie Séraphie
+1032,AGENEAU,Jean Louis
+1033,GIRARDEAU,Joséphine Hortense
+1034,AGENEAU,Jean Marie Henri 
+1035,RONDEAU ,Marie Louise Sylvanie Marguerite
+1036,AGENEAU,Jean-Louis
+1037,BOUDAUD,Marie-Anne
+1038,AGENEAU,Jean-Louis
+1039,JOYAU,Jeanne Marie-Louise
+1040,AGENEAU,Jean-Marie
+1041,HUVELIN,Jeanne Marie
+1042,AGENEAU,Louis
+1043,BOUDAUD,Marie
+1044,AGENEAU,Louis
+1045,BRISSEAU,Marie-Anne
+1046,AGENEAU,Louis
+1047,BRUNET,Marie
+1048,AGENEAU,Louis
+1049,GARREAU,Louise
+1050,GLIZE,Louise
+1051,JOCQUET,Perrine
+1052,AGENEAU,Louis
+1053,LAURETON,Marie
+1054,AGENEAU,Louis
+1055,LOISEAU,Françoise
+1056,MORIN,Marie
+1057,SOULARD,Jeanne
+1058,VEILLET,Marie
+1059,YOU,Marie Jeanne
+1060,AGENEAU,Louis Auguste Constant
+1061,BOUDAUD,Marie Louise
+1062,AGENEAU,Louis Jean Marie
+1063,GODARD,Marie Pélagie
+1064,AGENEAU,Mathurin
+1065,AUBINEAU,Jeanne
+1066,AGENEAU,Mathurin
+1067,BOUDAUD,Marguerite
+1068,AGENEAU,Mathurin
+1069,BOURASSEAU,Françoise
+1070,CAILLAUD,Françoise
+1071,GODARD,Marie
+1072,AGENEAU,Mathurin
+1073,JAROUSSEAU,Marie
+1074,AGENEAU,Mathurin
+1075,LEGRIS,Renée
+1076,AGENEAU,Mathurin
+1077,PINEAU,Mathurine
+1078,PINEAU,Mathurine
+1079,AGENEAU,Mathurin
+1080,RAUD,Marie Anne
+1081,RIGAUDEAU,Marie
+1082,SOULARD,Louise
+1083,AGENEAU,Michel
+1084,POUPIN/PAPIN,Jehanne
+1085,AGENEAU,Nicolas
+1086,FREMON,Jeanne
+1087,AGENEAU,Onezime Jean Baptiste
+1088,SOULLARD,Marie Séraphie
+1089,AGENEAU,Pierre
+1090,ANNEREAU,Jeanne
+1091,AGENEAU,Pierre
+1092,BEQUET,Jeanne
+1093,BLANCHARD,Marie
+1094,BORDERON,Jeanne
+1095,AGENEAU,Pierre
+1096,BOUDAUD,Mathurine
+1097,BOUDAUD,Mathurine
+1098,AGENEAU,Pierre
+1099,BOUDAUD,Perrine
+1100,BROCHU,Marie
+1101,AGENEAU,Pierre
+1102,FONTENEAU,Jeanne
+1103,AGENEAU,Pierre
+1104,FONTENEAU,Louise
+1105,AGENEAU,Pierre
+1106,GODARD,Louise
+1107,PAQUIER,Mathurine
+1108,PINEAU,Louise
+1109,AGENEAU,Pierre
+1110,RAUD,Renée
+1111,RAUTURIER,Marie
+1112,SEGUIN,Marie
+1113,SOURISSEAU,Perrine
+1114,AGENEAU,Pierre
+1115,YOU,Magdelaine Jeanne Augustine
+1116,AGENEAU,Pierre Augustin
+1117,GOINEAU,Marie Julie
+1118,AGENEAU,Pierre Dominique
+1119,GINDRAU,Marie
+1120,AGENEAU,Pierre Jean
+1121,DURAND,Jeanne Celeste
+1122,AGENEAU,René
+1123,BOURASSEAU,Françoise
+1124,AGENEAU,René
+1125,BROUSSEAU,Jeanne
+1126,AGENEAU,René
+1127,CARTERON,Perrine
+1128,AGENEAU,René
+1129,CARTERON,Perrine
+1130,AGENEAU,René
+1131,CHATEIGNER,Jeanne
+1132,DRAPEAU,Renée
+1133,GAUTRON,Marianne
+1134,GELOT,Louise
+1135,PASQUIER,Marie
+1136,AGENEAU,René
+1137,RAISON,Marie-Madeleine
+1138,AGENEAU,René
+1139,RAUTUREAU,Catherine
+1140,RAUTURIER,Jeanne
+1141,RAUTURIER,Jeanne
+1142,YOU,Marie
+1143,AGENEAU,René Jean
+1144,NICOU,Augustine Marie
+1145,AGEON,Alexandre
+1146,BODIN,Rose Charlotte Françoise
+1147,PIARD,Marie Augustine
+1148,VACHON,Anne
+1149,AGEON,André
+1150,RICHARD,Marie Jeanne Madelaine
+1151,AGEON,Casimir Jacques Joseph
+1152,PASQUEREAU,Marie Anne Hyacinthe
+1153,AGEON,Claude
+1154,BOUET,Susanne
+1155,AGEON,Constant Pierre Eugène
+1156,BOISMOREAU,Berthe Victorine
+1157,AGEON,Etienne
+1158,RIOU,Cécile
+1159,AGEON,François
+1160,EPAUD,Marie
+1161,AGEON,François
+1162,MICHANEAU,Jeanne
+1163,PIOCHEAU,Elisabeth
+1164,AGEON,François Jean Joseph
+1165,MOUREUIL,Maria Valentine
+1166,AGEON,Henri
+1167,BENOIT,Rose Marie
+1168,AGEON,Jacques
+1169,BEGOT,Marie Magdeleine
+1170,BENETEAU,Marie
+1171,BOUNINEAU,Perrine
+1172,AGEON,Jacques
+1173,CAND,Rose
+1174,CHAUVEAU,Marguerite
+1175,AGEON,Jacques
+1176,CHAVIGNON,Anne
+1177,FELON,Marie
+1178,AGEON,Jacques
+1179,FELON,Marie
+1180,GANDOUIN,Marie
+1181,GIBAUD,Marie
+1182,GILLIER,Marie
+1183,GILLOT,Marie Rose
+1184,AGEON,Jacques
+1185,GRAVOIL,Marie
+1186,AGEON,Jacques
+1187,HERIAUD,Marie
+1188,AGEON,Jacques
+1189,LUCA,Isabelle
+1190,MALET,Marie Madeleine
+1191,MARQUIS,Marie
+1192,AGEON,Jacques
+1193,MATHE,Marie
+1194,PELLETIER,Magdelaine
+1195,PORTEAU,Jacquette
+1196,AGEON,Jacques
+1197,PUBERT,Jeanne Rose
+1198,AGEON,Jacques
+1199,RAIMBERT,Françoise
+1200,ROUX,Marie
+1201,TURCAUD,Honorée
+1202,AGEON,Jacques Alexandre
+1203,THOMAS,Rose
+1204,AGEON,Jacques Clément
+1205,RIVIER,Renée
+1206,AGEON,Jacques Henri
+1207,TRICHET,Rose Jeanne
+1208,AGEON,Jacques Hypolite
+1209,BECHIAU,Marie Louise Alphonsine
+1210,AGEON,Jacques Joseph
+1211,GAUTREAU,Marie Françoise Angélique
+1212,PELLETIER,Marie Modeste Clémentine
+1213,AGEON,Jacques Joseph Louis
+1214,LAMBERT,Marie Magdelaine
+1215,AGEON,Jean
+1216,n/a,Suzanne
+1217,AGEON,Jean
+1218,BAISTEAU / BOISSEAU,Françoise
+1219,BOURON,Marie Jeanne
+1220,CHAILLOT,Françoise
+1221,GARANDEAU,Marie Catherine
+1222,AGEON,Jean
+1223,GRELLIER,Jeanne
+1224,GUILLET,Marie Marguerite
+1225,GUILLON,Marie Margueritte
+1226,MENANTEAU,Jeanne
+1227,MINGUET,Marie
+1228,PHELIPEAUX,Jeanne
+1229,AGEON,Jean
+1230,PRAUD,Joséphine Sapience
+1231,AGEON,Jean
+1232,RENAUT,Françoise
+1233,RICHARD,Marie Louise
+1234,AGEON,Jean Baptiste
+1235,CHATELIER,Rose
+1236,AGEON,Joseph
+1237,BEAUPEUX,Marie
+1238,AGEON,Léonard
+1239,HERIAU,Jeanne
+1240,AGEON,Louis
+1241,CHABOT,Anne
+1242,AGEON,Louis
+1243,CHAUSSERON,Marie Louise
+1244,AGEON,Louis
+1245,CHOPIN,Magdeleine
+1246,AGEON,Louis
+1247,COULAY,Charlotte
+1248,LAMBERT,Marie Jeanne
+1249,MERENE,Marie
+1250,MORENNE,Marie
+1251,PENARD,Rose Jeanne
+1252,ROBIN,Marie
+1253,AGEON,Louis
+1254,ROBVETEAU,Françoise
+1255,AGEON,Louis
+1256,TETARD,Jeanne
+1257,AGEON,Marin
+1258,GUILLAUDEAU,Marie
+1259,RICHE,Marie
+1260,AGEON,Mathurin
+1261,ALISSEAU,Magdeleine
+1262,MORBEUF,Jeanne
+1263,POUPAR,Janne
+1264,AGEON,Michel
+1265,CAILLONNEAU,Marie
+1266,LAISDIN,Marie
+1267,AGEON,Nicolas
+1268,REIGNEAU,Marguerite
+1269,AGEON,Noël
+1270,MICHON,Jeanne
+1271,AGEON,Paul Gabriel
+1272,BOIDE,Joséphine Emilie Clémentine
+1273,AGEON,Pierre
+1274,ALISSEAU,Françoise
+1275,BIRET,Louise
+1276,BOURIAU,Catherine
+1277,CHARLOS,Marie
+1278,DUPONT,Louise
+1279,GUERRY,Louise
+1280,GUILLODEAU,Marie
+1281,AGEON,Pierre
+1282,GUINEMOND,Françoise
+1283,HUGUET,Marie
+1284,JAUNET,Marie Jeanne
+1285,MAIRAND,Marie
+1286,PORCHERIE,Louise
+1287,AGEON,Pierre Benjamin Xavier
+1288,GIRARD,Marie Louise Christine
+1289,AGEON,Pierre Henri
+1290,HIDAIS,Marie Célina Augustine
+1291,AGEON,Pierre Hypolite
+1292,PASQUIER,Marie thérèse
+1293,AGEON,René
+1294,GROSSIN,Marie
+1295,AGEON,René
+1296,GUERINEAU,Renée
+1297,AGEON,René
+1298,MORIN,Françoise
+1299,AGEON,René
+1300,POTIER,Louise
+1301,AGEON,René
+1302,REVERSEAU,Marie
+1303,AGEON,René
+1304,RIMBAUD,Jacquette
+1305,ROBINEAU,Marie
+1306,AGEON,René
+1307,TEXIE,Nicolas
+1308,AGEON,Robert
+1309,BREMAUD,Catherine
+1310,AGEOT,André
+1311,BIRAR,Jeanne
+1312,AGEOT,François
+1313,BERNIER,Marie
+1314,AGEOT,Jacques
+1315,VINCENDEAU,Jeanne
+1316,AGERON,Henry
+1317,MARTINEAU,Roze
+1318,AGERON,Pierre
+1319,HEMON,Suzanne
+1320,AGERON,Pierre
+1321,MARTINEAU,Honorée
+1322,AGERON,Pierre
+1323,MARTINEAU,Honorée Thérèse
+1324,AGION,François
+1325,GAUTREAU,Catherine
+1326,AGISSON,Jacques
+1327,MARNÉ,Françoise
+1328,AGLOMIN,Augustin
+1329,BASTI,Marie
+1330,BASTY,Marie
+1331,AGNEAU ?,Louis
+1332,BLIN,Marie
+1333,AGON,Jean
+1334,GOBIT,Jeanne
+1335,AGON,René
+1336,JAULIN,Jeanne
+1337,AGROUE,Mathurin
+1338,DESMOULINS,Marie
+1339,AGROUE,Philippe
+1340,BILLAUD,Françoise
+1341,AGUAISSEAU,François
+1342,TERRIER,Marie
+1343,AGUAISSEAU,Henri
+1344,SACRÉ,Jeanne
+1345,AGUAISSEAU,Nicolas
+1346,SACRÉ,Marianne
+1347,AGUESSE,Joseph
+1348,ALBERT,Marie Anne
+1349,AGUESSEAU,André Jean
+1350,GAUTRON,Jeanne Marie Louise
+1351,AGUESSEAU,François
+1352,LIEUVRET,Magdeleine
+1353,AGUESSEAU,François
+1354,LUMET,Magdeleine
+1355,MOREAU,Jeanne
+1356,AGUESSEAU,Jacques
+1357,GUSTON,Charlotte
+1358,AGUESSEAU,Jean
+1359,GALIOT,Jeanne
+1360,AGUESSEAU,Jean Pierre
+1361,CHARPENTIER,Marie Rose
+1362,AGUESSEAU,Mathurin
+1363,CEILLET / TEILLET,Jacquette
+1364,ESRYAU / CHOYAU,Anne
+1365,AGUESSEAU,Michel
+1366,PASQUEREAU,Jeanne
+1367,AGUESSEAU,Nicolas
+1368,GIRAUD,Marie
+1369,AGUESSEAU,Nicolas
+1370,LOIZELET,Marie Victoire
+1371,PILLAUD,Renée
+1372,AGUESSEAU,Pierre Jean
+1373,BENESTEAU,Marie Pauline
+1374,AGUESSEAU,[Non désigné]
+1375,AGUILLON,n/a
+1376,NAULEAU,n/a
+1377,AGUILLON,René
+1378,BERAUD,Magdeleine
+1379,AGUINEAU,n/a
+1380,DENFER,n/a
+1381,AGUISSEAU,François
+1382,DENFERT,Marie
+1383,AGUISSEAU,Vincent
+1384,TILLON,Anne
+1385,AGUTTE,Pierre
+1386,BESSONET,Madeleine
+1387,AIDIN,François
+1388,ROBIN,Jeanne
+1389,AIDIN/EIDEIN,François
+1390,PROU,Elisabeth
+1391,AIGAULT,Jean
+1392,DE LA LEU,Jeanne
+1393,AIGREAU,Jean
+1394,BEGAUD,Françoise
+1395,AIGREAU,Pierre
+1396,LEROY,Henriette
+1397,AIGRER,François
+1398,GANET,Moricette
+1399,AIGRET,François
+1400,n/a,Marie
+1401,GUAY,Barthelemye
+1402,AIGRET,François
+1403,PALLIAU,Michelle
+1404,AIGRET,Jehan
+1405,PARIS,Jehanne
+1406,AIGRET,Mathurin
+1407,LAMIAULT,Claude
+1408,AIGRET,Pierre
+1409,GIRAUDEAU,Andrée
+1410,AIGRET,Simon
+1411,COUSSON,Andrée
+1412,JOUSLAIN,Barthelemye
+1413,AIGRETEAU,René
+1414,VITET,Jeanne
+1415,AIGRON,Alexis
+1416,DAVIAUD,Renée
+1417,AIGRON,André
+1418,THOMELET,Philippe (f)
+1419,AIGRON,Charles Joseph
+1420,MORNET,Modeste
+1421,AIGRON,Estienne
+1422,PAYRAUD,Marie Anne
+1423,AIGRON,Etienne
+1424,ANGIBAUD,Marie
+1425,AIGRON,Frédéric Jacques
+1426,GRELIER,Rose Angélique
+1427,AIGRON,Jacob
+1428,AIGRON,Jacques
+1429,BAUFRETON,Perrine
+1430,GAUTIER,Marie
+1431,GODET,Georgette
+1432,GUIGNARD,Marie
+1433,HAMON,Françoise
+1434,AIGRON,Jean
+1435,BODARD,Marguerite
+1436,BROSSET,Renée
+1437,BUTTEAU,Louise
+1438,CARRE,Marie Anne
+1439,AIGRON,Jean
+1440,CORNU,Marie
+1441,ORDRENEAU,Suzanne
+1442,RORTHAIS,Catherine
+1443,SIMONEAU,Sapience
+1444,YOU,Perrine
+1445,AIGRON,Jean Baptiste
+1446,BAUDRY,Marie Alexandrine
+1447,AIGRON,Joseph
+1448,MICHAUD,Jeanne
+1449,AIGRON,Louis
+1450,GUIMARRON,Marie Louise
+1451,POIRAUD,Perrine
+1452,AIGRON,Lucas
+1453,DANIAU,Vincente
+1454,AIGRON,Martin
+1455,VAILLANT,Marie
+1456,AIGRON,Mathurin
+1457,DRAPEAU,Françoise
+1458,AIGRON,Mathurin
+1459,GUITTON,Renée
+1460,AIGRON,Mathurin
+1461,LANDREAU,Jeanne
+1462,AIGRON,Maurice
+1463,ABILLARD,Marie
+1464,AIGRON,Maurice
+1465,MINGUET,Marie
+1466,AIGRON,Michel
+1467,BROSSET,Charlotte
+1468,AIGRON,Nicolas
+1469,BONIN,Marguerite
+1470,AIGRON,Pierre
+1471,CARRE,Marie
+1472,AIGRON,Pierre
+1473,GOUIN,Honorine
+1474,GOYNEAU,Gillette
+1475,AIGRON,Pierre
+1476,MARTIN,Anne
+1477,AIGRON,Pierre
+1478,MULLOT,Anne Marie
+1479,AIGRON,Pierre
+1480,ROTURIER,Françoise
+1481,AIGRON,Pierre Joseph
+1482,MERCERON,Marie Hélène
+1483,AIGRON,René
+1484,LHERITEAU,Marie Jeanne
+1485,AIGRON,Samson
+1486,BREBION,Jeanne
+1487,AIGRON,Thomas
+1488,CHASTEIGNER,Mathurine
+1489,CHATEIGNER,Mathurine
+1490,AIGRON,Vincent
+1491,VINET,Marie
+1492,AIGUILLON,n/a
+1493,PONCERREAU,n/a
+1494,AIGUILLON,François
+1495,BRUNEAU,Magdeleine
+1496,MONEREAU,Thérèse
+1497,AIGUILLON,Louis
+1498,PILLET,Renée
+1499,AIGUILLON,Pierre
+1500,FERRET,Marie
+1501,GUINAND,Louise
+1502,AILLAUME,François
+1503,THIBAULT,Louise
+1504,AILLAUME,Henri
+1505,BERNIER,Henriette
+1506,BERNIER,Louise Henriette
+1507,AILLAUME,Jacques
+1508,GUYOT,Thérèse
+1509,AILLAUME,Jacques
+1510,PETIT,Marie Jeanne
+1511,AILLAUME,Jean Jacques
+1512,AILLAUME,Joseph
+1513,SAVARIEAU,Louise
+1514,AILLAUME,Parchal
+1515,BAUDRY,Marie Jeanne
+1516,AILLAUME (?),Jean
+1517,BOURSEGUIN,Margueritte
+1518,AILLEAUME,Eugène
+1519,COUSSEAU,Euphrosine Hortense
+1520,AILLEAUME,Henri Gabriel
+1521,AUMAND,Augustine Louise Florestine
+1522,AILLEAUME,Louis
+1523,AVRIL,Louise
+1524,AILLEAUME,Pierre
+1525,FILLAISEAU,Marie-Aimée
+1526,AILLEAUME,Pierre Julien
+1527,PÉPIN,Marie
+1528,AILLERY,Gustave
+1529,DEVILLIERS,Victoire Éléonore
+1530,AILLERY,Jean
+1531,DOUAUD,Renée
+1532,AILLY,Jean
+1533,COUSSEAU,Jeanne
+1534,AIMARD,Arthur Emile Alexandre
+1535,EGRON,Marie Augustine
+1536,AIMARD,Arthur Victor
+1537,LEMPERIÈRE,Alexandrine Marie
+1538,AIMARD,Emile Théophile
+1539,FLANDROIS,Eudoxie Désirée
+1540,AIMARD,François
+1541,GROLLEAU,Marie
+1542,AIMARD,Jacques
+1543,BURSEROT,Marie
+1544,PEROCHAIN,Louise
+1545,AIMARD,Jean
+1546,PUBERT,Marie Anne
+1547,AIMARD,Jean
+1548,REMAUD,Pairine
+1549,REMORD,Perrine
+1550,AIMARD,Léon Georges Emanüel
+1551,AIMARD,Marie
+1552,AIMARD,Louis
+1553,CHEVALLEREAU,Louise
+1554,AIMARD,Louis
+1555,FUMELEAU,Marie
+1556,GROLEAU,Marie
+1557,OUVRARD,Jeanne
+1558,AIMARD,Pierre
+1559,FEVRE,Jeanne
+1560,AIMARD/OUVRARD,Nicollas
+1561,SARRAZIN,Phillippe
+1562,AIMBERT,Gilles
+1563,BERTON,Marguerite
+1564,AIME,Adam
+1565,ROY,Renée
+1566,AIMÉ,Adam
+1567,SAVINEAU,Jeanne
+1568,AIME,Amédée P.François
+1569,BOURASSEAU,Mélanie Alexandrine Séraphie
+1570,AIMÉ,André
+1571,REAUD,Marie
+1572,AIME,André
+1573,ROYER,Marie
+1574,AIME,Auguste
+1575,BAUDRY,Louise Françoise
+1576,AIMÉ,Auguste Henri
+1577,DENIS,Claudine Julienne Augustine Marie
+1578,AIME,Augustin
+1579,BELY,Madeleine dite Louise
+1580,COUTANCEAU,Marie
+1581,AIMÉ,Barthélémy
+1582,PENAUD,Jeanne
+1583,AIMÉ,Benjamin Martial
+1584,TURGNÉ,Marie Eulalie
+1585,AIME,Charles
+1586,MERIET,Marie
+1587,AIME,Charles Simon
+1588,CRUZOL,Marie Cécile Aimée
+1589,AIME,Daniel
+1590,SENESCHAUD,Françoise
+1591,AIMÉ,David
+1592,GRISLARD,Magdellaine
+1593,AIME,Dominique
+1594,RANDONNET,Louise
+1595,AIMÉ,Eugène Constant Firmin
+1596,MANDIN,Marie Florence Armantine
+1597,AIME,Ferdinand
+1598,VERDON,Victorine
+1599,AIME,François
+1600,ARSICAUD,Suzanne
+1601,BELY,Françoise Pauline
+1602,BONNÉ,Catherine
+1603,AIMÉ,François
+1604,CHALON,Anne
+1605,AIMÉ,François
+1606,FAVREAU,Charlotte
+1607,GARNIER,Jeanne
+1608,NOUANT,Catherine
+1609,VIAUD,Marie Rose Augustine
+1610,AIME,François
+1611,VINCENT,Marie Rose
+1612,AIME,François Auguste
+1613,VEILLAT,Marie Victorine
+1614,AIME,François Michel
+1615,AIME,Louise Madeleine
+1616,BESLY,Françoise
+1617,BESLY,Rose
+1618,AIME,Georges
+1619,BOBINEAU,Marie
+1620,AIMÉ,Hilaire
+1621,ROUSSEAU,Anne
+1622,AIMÉ,Jacques
+1623,AIMÉ,Jeanne
+1624,AIME,Jacques
+1625,ALARD,Marie
+1626,AIME,Jacques
+1627,ALLARD,Marie
+1628,BAILLIF,Perrine
+1629,BESLY,Madeleine
+1630,CLEMENT,Marie
+1631,AIME,Jacques
+1632,CORNARDEAU,Jeanne
+1633,GOULARD,Louise
+1634,JUBIEN,Catherine
+1635,MARS,Marie Jeanne
+1636,PICARD,Jeanne
+1637,AIME,Jacques
+1638,PILLET,Marie Magdelaine
+1639,ROUSSEAU,Magdelaine
+1640,TAUD,Marie
+1641,AIME,Jacques Désiré
+1642,MORIN,Marie Louise Ernestine
+1643,AIME,Jacques François
+1644,AUGER,Henriette Louise
+1645,AIME,Jacques Louis
+1646,AIME,Marie Agathe
+1647,AIME,Jean
+1648,AIME,Anne
+1649,AIME,Magdeleine
+1650,AIME,Jean
+1651,AUGUIN,Aimée
+1652,AUGUIN,Jeanne
+1653,AIMÉ,Jean
+1654,BERTHONNEAU,Marie Armandine
+1655,BICHAUD,Marie
+1656,BOUNAUD,Catherine
+1657,AIME,Jean
+1658,CATTEAU,Jeanne
+1659,AIME,Jean
+1660,CHOUC,Marie
+1661,CHOUCQ,Marie
+1662,AIMÉ,Jean
+1663,DELAUNAY,Marie
+1664,AIMÉ,Jean
+1665,DOUGÉ,Marie
+1666,AIMÉ,Jean
+1667,GABORIT,Marie
+1668,GIRARD,Marie
+1669,GIRAUD,Suzanne
+1670,GOICHON,Jeanne
+1671,AIME,Jean
+1672,JOURDAIN,Jeanne
+1673,AIMÉ,Jean
+1674,JOURDAIN,Marie
+1675,LAUBRETON,Ellène
+1676,AIMÉ,Jean
+1677,LAUBRETON,Marie
+1678,MACOUIN,Renée
+1679,MAILLEAU (MAIRIAU ?),Jeanne
+1680,AIME,Jean
+1681,MAURISSET,Ernestine
+1682,MESNARD,Jeanne
+1683,MILLET,Marie
+1684,MORISSET,Catherine
+1685,RIBREAU,Jeanne
+1686,ROUSSEAU,Marie
+1687,SICOT,Marie
+1688,TUDEAU,Victoire Aimée
+1689,AIME,Jean Ferdinand Alfred Aimé
+1690,SOUCHET,Marie Louise
+1691,AIMÉ,Joseph
+1692,HENRY,Adrienne
+1693,AIME,Joseph Augustin
+1694,COSSET,Rose
+1695,AIMÉ,Léon
+1696,GUIGNARD,Marguerite
+1697,AIME,Louis
+1698,BOUTEILLER,Louise
+1699,AIME,Louis
+1700,CANTET,Louise
+1701,AIME,Louis
+1702,CHARRON,Marie Jeanne
+1703,DAGUZE,Marie Rose
+1704,DAVID,Marie Henriette
+1705,DURANDEAU,Marie
+1706,FAVARRE,Jeanne
+1707,JOURDAIN,Françoise
+1708,AIME,Louis Jacques
+1709,RENARD,Elizabeth
+1710,AIMÉ,Manuel Firmin
+1711,JEARNIOUX,Louise Marie
+1712,AIME,Mathurin
+1713,PISON,Renée
+1714,AIME,Michel
+1715,ARDOUIN,Françoise
+1716,AIMÉ,Michel
+1717,DELAUNAY,Renée
+1718,AIMÉ,Nicolas
+1719,IMBERT,Rose
+1720,AIME,Paul
+1721,GROLLEAU,Nicolle
+1722,AIME,Philippe
+1723,BELIVEAU,Jeanne
+1724,AIME,Pierre
+1725,BARRET,Marie
+1726,AIME,Pierre
+1727,BELIVEAU,Marie
+1728,BODIN,Marie Flavie
+1729,AIME,Pierre
+1730,BRIFFAUT,Marie Anne
+1731,AIMÉ,Pierre
+1732,DELAUNAY,Louise
+1733,AIME,Pierre
+1734,DIEUMEGARD,Jeanne
+1735,ENCREVE,Jeanne
+1736,GRAYON,Françoise
+1737,GRIMAUD,Louise
+1738,AIME,Pierre
+1739,GUILLEBOT,Marie
+1740,JAROUSSEAU,Jeanne
+1741,MARILLET,Marie
+1742,MARTIN,Marguerite
+1743,MIGNONNEAU,Jeanne
+1744,PAGEAU,Anne
+1745,PORCHER,Jeanne
+1746,RAMBAUD,Marie Auguste Félicité Paola
+1747,RENAUDIN,Marie
+1748,AIME,Pierre
+1749,ROULEAU,Léontine
+1750,THIBAUD,Marie
+1751,VENDE,Rose Félicité
+1752,AIMÉ,Pierre Philippe
+1753,BAUDRY,Jeanne Marie Louise
+1754,AIME,René
+1755,DESPRES,Louise
+1756,ENCREVE,Marguerite
+1757,MORIN,Louise
+1758,PALARDY,Louise
+1759,AIMÉ,Simon
+1760,DELAUNAY,Françoise
+1761,AIMÉ,Thomas
+1762,PENAUD,Suzanne
+1763,AIME?,Charle
+1764,TEXIER,Marie
+1765,AIMEE,Jean
+1766,DELAFOND,Marie Françoise Elisabeth
+1767,AIMEE,Jean
+1768,RAGE,Marie
+1769,AIMER,Isaac
+1770,PALLAZAN,Marie
+1771,AIMER,Jacques
+1772,SACHER,Françoise
+1773,THIREBOIS,Mathurine
+1774,AIMER,Jean
+1775,CHUPIN,Marie
+1776,AIMERAUD,Jean
+1777,HERVE,Marie
+1778,AIMEREAU,Jacques
+1779,BOISSELOT,Marie
+1780,AIMEREAU,Jean Baptiste
+1781,HERVOUET,Jeanne Marie
+1782,AIMIER,André
+1783,CLOUT,Aglaé Hortence Benjamine
+1784,AIMIER,Charles
+1785,BOUTTIER,Angélique
+1786,AIMIER,François
+1787,DESJAMEAUX,Catherine
+1788,DURANDEAU,Marie Louise
+1789,SOULICE,Françoise
+1790,AIMIER,Jacques
+1791,GOUIN,Catherine
+1792,PIRON,Marie
+1793,AIMIER,Jacques
+1794,TAFFOURIN,Louise
+1795,AIMIER,Jean
+1796,LESTANG,Marie
+1797,AIMIER,Jean
+1798,VEUILLET,Marie
+1799,AIMIER,Louis
+1800,ARNAUD,Jeanne
+1801,AIMIER,Louis
+1802,RIVET,Madelaine
+1803,AIMIER,Pierre André
+1804,MOREAU,Louise Célestine
+1805,AIMON,René
+1806,CANTET,Magdelaine
+1807,AIMOND,François
+1808,SOULARD,Marie-Anne
+1809,AIMONNEAU,n/a
+1810,MOYNATTON,n/a
+1811,TREILLE,n/a
+1812,AINARD,Jacques
+1813,RELET,Louise
+1814,AINGIBAUD,Victor
+1815,JEANNIERE,Marie Rose
+1816,AINON,Pierre
+1817,MARILLEAU,Madeleine
+1818,AIRARD,Jehan
+1819,MESNARD,Marie
+1820,AIRAU,Pierre
+1821,PEAULT,Marie
+1822,AIRAU/AIRIAU,Jean
+1823,DEVINEAU,?
+1824,AIRAUD,Alexis
+1825,BOBINET,Jeanne
+1826,AIRAUD,André
+1827,DANIAU,Perrine
+1828,AIRAUD,André
+1829,ROCHER,Marie
+1830,AIRAUD,Anthoine
+1831,GENDRONNEAU,Perrine
+1832,AIRAUD,Antoine
+1833,AIRAUD,Armand
+1834,GUILLOTEAU,Rose
+1835,AIRAUD,Auguste
+1836,VION,Marie Louise
+1837,AIRAUD,Auguste Baptiste Ludovic Fulgent
+1838,BOURASSEAU ,Marie Célestine
+1839,AIRAUD,Augustin
+1840,AIRAUD,Marie Augustine
+1841,AIRAUD,Augustin
+1842,FRANC,Catherine
+1843,MASSE,Marie Louise Adrienne
+1844,AIRAUD,Augustin René
+1845,DUBOURG,Marie Joséphine
+1846,AIRAUD,Charles
+1847,n/a,Magdelaine
+1848,PAGER,Marie
+1849,ROY,Jeanne
+1850,AIRAUD,Charles René
+1851,AIRAUD,Marie Françoise
+1852,AIRAUD,David
+1853,CARTAUD,Marie Anne
+1854,AIRAUD,Emile Jean Auguste François
+1855,FROMAGET,Noémie Marie Françoise
+1856,AIRAUD,Etienne
+1857,COLINET,François
+1858,AIRAUD,Firmin
+1859,SOULARD,Adélaïde
+1860,AIRAUD,François
+1861,BARBEAU,Marie Madelaine
+1862,BEAU,Marie
+1863,BELY,Marie Henriette
+1864,AIRAUD,François
+1865,BENETEAU,Jeanne
+1866,BENOIST,Jeanne
+1867,BERNAUDEAU,Renée
+1868,CHAGNEAU,Louise
+1869,AIRAUD,François
+1870,CHOUCQ,Marie Marguerite
+1871,DAGUZE,Marie
+1872,DEVANNE,Marie Louise
+1873,AIRAUD,François
+1874,DRAPRON,Louise
+1875,ERAUD,Marie Françoise
+1876,GAUVIN,Marie
+1877,POUPARD,Marie
+1878,POUVREAU,Françoise
+1879,AIRAUD,François
+1880,SACRE,Marie
+1881,AIRAUD,François
+1882,SUREAU,Anne
+1883,VERDON,Jeanne
+1884,AIRAUD,François Louis
+1885,GAUTHIER,Marie Louise
+1886,AIRAUD,Gabriel
+1887,BOISSELEAU,Marie
+1888,AIRAUD,Germain
+1889,JOUSSELOT,Jeanne
+1890,AIRAUD,Gervais
+1891,AUGUIN,Renée
+1892,AIRAUD,Guillaume
+1893,ROUET,Marie
+1894,AIRAUD,Henri
+1895,BOUILLAUD,Marie Augustine
+1896,AIRAUD,Henri
+1897,DUCEP,Marie Henriette
+1898,AIRAUD,Henry
+1899,DURET,Marie Louise
+1900,HERAUD,Rose
+1901,AIRAUD,Hilaire
+1902,BOISMOREAU,Marie
+1903,AIRAUD,Hylaire
+1904,HERVE,Charlotte
+1905,AIRAUD,Jacques
+1906,AIRAUD,Marie
+1907,AIRAUD,Jacques
+1908,AUBRIT,Françoise
+1909,AUGUIN,Marie
+1910,AUVINET,Marie Thérèse
+1911,BRENAUDEAU,Jeanne
+1912,CAILLET,Rose
+1913,COUE,Marie
+1914,AIRAUD,Jacques
+1915,COUTURIER,Perine
+1916,DESNOYER,Catherine
+1917,AIRAUD,Jacques
+1918,DEVAUD,Jeanne
+1919,GARON,Marie
+1920,GUIBERT,Janne
+1921,LAURANS,Marianne
+1922,MINGUET,Marie Ou Margueritte
+1923,POUPIN,Marie
+1924,AIRAUD,Jacques
+1925,TRIPOTAUD,Marie Françoise
+1926,AIRAUD,Jan
+1927,MUSSAUD,Louyse
+1928,AIRAUD,Jean
+1929,AIRAUD,Marie
+1930,AIRAUD,Jean
+1931,BELLAUD,Marie Thérèse
+1932,AIRAUD,Jean
+1933,BOISDE,Marie
+1934,BURGAUD,Marie
+1935,AIRAUD,Jean
+1936,COIGNON,Catherine
+1937,COQUINEAU,Louise
+1938,COURTIN,Marie Louise
+1939,DENIS,Marie
+1940,DOUILLARD,Françoise
+1941,DOUILLARD/TREILLART,Françoise
+1942,ECOTIERE,Anne
+1943,GUERIN,Marie
+1944,GUÉRIN,Marie
+1945,AIRAUD,Jean
+1946,GUILLEBOT,Jeanne
+1947,GUIONET,Perrine
+1948,MATONNEAU,Charlotte
+1949,AIRAUD,Jean
+1950,PERROTEAU,Andrée
+1951,AIRAUD,Jean
+1952,PICORON,Marie
+1953,AIRAUD,Jean
+1954,REZEAU,Jeanne
+1955,RONDARD,Suzanne
+1956,AIRAUD,Jean
+1957,SACRE,Anne
+1958,THOMAS,Marie
+1959,TREILLARD,Marie
+1960,AIRAUD,Jean Baptiste
+1961,AVRIL,Magdelaine
+1962,AIRAUD,Jean Baptiste
+1963,LOIZEAU,Jeanne
+1964,AIRAUD,Jean François
+1965,BERTRAND,Marie Magdeleine
+1966,AIRAUD,Jean François
+1967,GODARD,Marie Louise Philomène
+1968,AIRAUD,Jean Henri
+1969,MARCHAND,Marie Louise
+1970,AIRAUD,Jean Joseph
+1971,PALARDI,Marie Rose Léontine
+1972,AIRAUD,Jean Pierre
+1973,BONNIN,Marie
+1974,GRIFFAUD,Marie
+1975,LEDEUIL,Pierrette Angélique
+1976,AIRAUD,Joseph
+1977,PLANCHER,Marie Jeanne
+1978,AIRAUD,Joseph Antoine
+1979,BONNEAU,Marie Clémentine Augustine
+1980,AIRAUD,Julien
+1981,ERCEAU,Jeanne
+1982,AIRAUD,Louis
+1983,BENETEAU,Marie Anne
+1984,AIRAUD,Louis
+1985,BOISMOREAU,Françoise
+1986,AIRAUD,Louis
+1987,CAILLE,Marie
+1988,AIRAUD,Louis
+1989,CHASSERIAU,Jeanne
+1990,AIRAUD,Louis
+1991,CHEVALLEREAU,Marie Modeste
+1992,CLOCHARD,Marie Jeanne
+1993,GAILLARD,Magdeleine
+1994,GUITTET,Marie Jeanne
+1995,HUCTEAU,Marie Anne
+1996,JADAUD,Charlotte
+1997,AIRAUD,Louis
+1998,MASSON,Marie
+1999,MICHEL,Barbe
+2000,MIGEON,Marie
+2001,MORISSET,Elisabeth
+2002,MOUNEREAU,Jeanne
+2003,OZIAS,Marie
+2004,PAIRAUD,Jeanne
+2005,AIRAUD,Louis
+2006,PASQUIER,Marie
+2007,PESTRAUD,Françoise
+2008,AIRAUD,Louis
+2009,RONDEAU,Marie
+2010,ROY,Suzanne
+2011,SIMONET,Marie
+2012,AIRAUD,Louis Auguste Joseph
+2013,ROCHEREAU,Marie Louise
+2014,AIRAUD,Louis Célestin
+2015,BONNET,Marie Magdeleine Victorine
+2016,AIRAUD,Louis Jean Léon Eugène
+2017,NIVELLE,Berthe Léonie
+2018,AIRAUD,Louys
+2019,REQUETEAU,Françoise
+2020,AIRAUD,Lucien
+2021,BAUDRY,Louise
+2022,AIRAUD,Marie
+2023,FOURNIER,Marie
+2024,AIRAUD,Mathieu
+2025,CHESSEBOEUF,Magdeleine
+2026,AIRAUD,Mathurin
+2027,AIRAUD,Marie
+2028,BELLIARD,Jeanne
+2029,AIRAUD,Mathurin
+2030,AIRAUD,Mathurin
+2031,PEQUIN,Louise Henriette
+2032,RABLOT,Emerance
+2033,AIRAUD,Michel
+2034,CAMUS,Rose
+2035,GUIHET,Marie
+2036,AIRAUD,Nicolas
+2037,GUITTOT,Marie
+2038,AIRAUD,Noël Victorien
+2039,RICOLLEAU,Reine Victoria
+2040,AIRAUD,Pierre
+2041,AUMOND,Rose
+2042,AIRAUD,Pierre
+2043,BELLIARD,Catherine
+2044,BENOISTEAU,Jeanne
+2045,AIRAUD,Pierre
+2046,BERTHOME,Louise Anne
+2047,AIRAUD,Pierre
+2048,BLAIN,Catherine
+2049,AIRAUD,Pierre
+2050,BURSEROT,Renée
+2051,CHARBONNEAU,Marie
+2052,CHAUVET,Jeanne
+2053,CHOYEAU,Bonne Sophie
+2054,AIRAUD,Pierre
+2055,DIEUMEGARD,Jeanne
+2056,AIRAUD,Pierre
+2057,DURAND,Marie
+2058,DURANDET,Marie
+2059,GÉANT,Marie Thérése
+2060,AIRAUD,Pierre
+2061,JOBARD,Jeanne
+2062,LEROUX,Louise
+2063,MACOUIN,Janette
+2064,MASSON,Marie
+2065,AIRAUD,Pierre
+2066,MERIT,Jeanne
+2067,MOIZIERE,Jeanne
+2068,PAIRAUD,Roze
+2069,PAPIN,Marie
+2070,PLANCHER/GROLLEAU,Marie
+2071,POUVREAU,Anne Marie
+2072,RAMPILLON,Louise
+2073,AIRAUD,Pierre
+2074,RENAITEAU,Jeanne
+2075,AIRAUD,Pierre Gabriel
+2076,FUMOLEAU,Marie
+2077,AIRAUD,Pierre Gustave
+2078,CHATELIER,Marie Louise Marceline
+2079,AIRAUD,Pierre Louis
+2080,CHÂTELLIER,Aimée Henriette
+2081,PÉNEAU,Marie Angèle
+2082,AIRAUD,René
+2083,BONNEAU,Marie
+2084,AIRAUD,René
+2085,CANTEAU,Marguerite
+2086,FORGERIT,Jeanne
+2087,AIRAUD,René
+2088,JEANNEAU,Marguerite
+2089,OGER,Marie
+2090,AIRAUD,René
+2091,RETAILLEAU,Jeanne
+2092,SACRÉ,Marie
+2093,AIRAUD,René (Sieur de la Maison Neuve)
+2094,GILBERT,Marie (Damoiselle)
+2095,AIRAUD,René Armand
+2096,AIRAUD,Samuel
+2097,AIRAUD,Marie Louise
+2098,AIRAUD,Sébastien
+2099,BOUCHET,Anne
+2100,AIRAUD,Sébastien
+2101,CHEVALLEREAU,Renée
+2102,AIRAUD,Sébastien
+2103,JAMARD,Françoise
+2104,AIRAUD,Victor Augustin
+2105,CARTIER,Thérèse Marie
+2106,AIRAUD,Victor Joseph
+2107,FONTENEAU,Jeanne Eulalie
+2108,AIRAUD,Vincent
+2109,LANDRIAU,Renée
+2110,AIRAUD (ARNAUD),Jean
+2111,GABORIT,Marie
+2112,AIRAUDIERE,André
+2113,CANTEREAU,Jeanne
+2114,AIRAULT,n/a
+2115,BARGEAU,n/a
+2116,AIRAULT,Alexis
+2117,GIRARDEAU,Louise Geneviève
+2118,AIRAULT,André
+2119,COUCHEAU,Marie
+2120,FAVREAU,Marie
+2121,PERROCHON,Louise
+2122,VIAU,Jeanne
+2123,AIRAULT,Célestin Auguste
+2124,MICHENEAU,Marie Clarisse
+2125,AIRAULT,Charles Pierre
+2126,FOUGEUREUX,Louise
+2127,AIRAULT,Constant
+2128,TRICOIRE,Marie Rosalie
+2129,AIRAULT,Emery
+2130,RAGOT DE LA TOUILLERE,Marie Jeanne Louise
+2131,AIRAULT,Etienne
+2132,LOISEAU,Renée
+2133,AIRAULT,Firmin Marie Baptiste
+2134,PETIT,Marie Louise Angèle
+2135,AIRAULT,François
+2136,ARNAUDEAU,Marie Véronique
+2137,AVERTY,Marie
+2138,AIRAULT,François
+2139,BOCHE,Julienne
+2140,AIRAULT,François
+2141,FAUCHE,Marguerite
+2142,AIRAULT,François
+2143,JOLI,Marie
+2144,LALLY,Marie
+2145,AIRAULT,François
+2146,MAROLEAU,Louise
+2147,AIRAULT,François
+2148,MORTEAU,Jeanne
+2149,SALLÉ,Mathurine
+2150,TAVARD,Marie
+2151,AIRAULT,Gabriel
+2152,JANNIERE,Marie
+2153,AIRAULT,Henri
+2154,TALBOT,Marie Louise
+2155,AIRAULT,Henry
+2156,FREMIN,Marie
+2157,AIRAULT,Henry
+2158,FROMIN,Marie
+2159,AIRAULT,Jacque
+2160,GEFFART,Marie
+2161,AIRAULT,Jacques
+2162,BESSE (DE),Jeanne
+2163,AIRAULT,Jacques
+2164,BODIN,Marie
+2165,AIRAULT,Jacques
+2166,CHARRIER,Perrine
+2167,AIRAULT,Jacques
+2168,MOUCHARD,Louise
+2169,AIRAULT,Jacques
+2170,VALAULT,Marie
+2171,AIRAULT,Jacques François
+2172,GROLLEAU,Victoire Théotiste
+2173,AIRAULT,Jacques François
+2174,JOTTREAU,Marie Jeanne
+2175,AIRAULT,Jean
+2176,ARTARIT,Marie
+2177,AIRAULT,Jean
+2178,BIDOUET,Françoise Marie
+2179,AIRAULT,Jean
+2180,BODIN,Marie
+2181,CAILLAUD,Jeanne
+2182,AIRAULT,Jean
+2183,CHARON,Anne
+2184,GAUTRON,Nicolle
+2185,AIRAULT,Jean
+2186,GEMARD,Louise
+2187,AIRAULT,Jean
+2188,GERON,Marie
+2189,LALLU,Jeanne
+2190,MUGEON,Jacquette
+2191,RICHARD,Nicole
+2192,AIRAULT,Jean
+2193,ROBIN,Jeanne
+2194,SUAUT,Marie
+2195,AIRAULT,Jean
+2196,VANDE,Marianne
+2197,AIRAULT,Jean Baptiste
+2198,BLANCHARD,Marie Jeanne
+2199,AIRAULT,Jean Baptiste
+2200,TRICOT,Marie
+2201,AIRAULT,Jean Martin
+2202,GATARD,Marianne Louise
+2203,AIRAULT,Jean Pierre
+2204,CANTITEAU/CANTELEAU,Charlotte
+2205,AIRAULT,Jean Pierre
+2206,GERMAIN,Victoire
+2207,AIRAULT,Jehan
+2208,TAVARD,Elisabeth
+2209,AIRAULT,Joseph
+2210,AUDEBRAND,Marie
+2211,BRUNEAU,Jeanne Victoire
+2212,AIRAULT,Louis
+2213,BLANCHET,Marie Zélie
+2214,AIRAULT,Louis
+2215,BRUNET,Françoise
+2216,GEFFARD,Marie Rosalie
+2217,AIRAULT,Louis
+2218,GUILLEMARD,Marie
+2219,AIRAULT,Louis
+2220,MAROLLEAU,Magdeleine
+2221,AIRAULT,Louis
+2222,POLY,Jeanne Marie
+2223,AIRAULT,Louis Joseph Eugène Clément
+2224,BAZIN,Marie Louise Clémentine
+2225,AIRAULT,Mathurin
+2226,FOUCAULT,Marie Jeanne
+2227,AIRAULT,Moyse
+2228,DESMORTIERS,Marie
+2229,AIRAULT,Nicolas
+2230,BOUTIN,Perrine
+2231,AIRAULT,Pierre
+2232,BALLERAUD,Catherine
+2233,BIBARD,Jeanne
+2234,AIRAULT,Pierre
+2235,BODIN,Marie
+2236,AIRAULT,Pierre
+2237,BREMAUD,Marie Virginie
+2238,CREMOIS,Renée
+2239,AIRAULT,Pierre
+2240,DELAVEAU,Marie Madeleine
+2241,AIRAULT,Pierre
+2242,FUSEAU,Marie
+2243,GANDILLAU,Rose
+2244,AIRAULT,Pierre
+2245,GROLLAUD,Perrine
+2246,RAFFENEAU,Jeanne
+2247,AIRAULT,Pierre
+2248,RAINETEAU,Jeanne
+2249,RAISON,Marie
+2250,AIRAULT,Pierre
+2251,VINCENT,Jeanne
+2252,AIRAULT,Pierre André
+2253,GOBIN,Marie Jeanne
+2254,AIRAULT,Pierre Célestin
+2255,VRIGNAUD,Aurélie Marie Clémence
+2256,AIRAULT,Pierre François Julien
+2257,MAROLLEAU,Marie Rosalie
+2258,AIRAULT,René
+2259,COUSSEAU,Perrine
+2260,AIRAULT,René
+2261,HUVELIN,Anne
+2262,AIRAULT,René
+2263,PETRAUD,Elisabeth
+2264,RENAUDIN,Louise
+2265,AIRAULT,Victor Clovis
+2266,MACOUIN,Rosalie
+2267,AIRAUT,François
+2268,NORMAND,Jeanne
+2269,AIRAUT,Jacques
+2270,BOURDEAU,Marie
+2271,AIRAUT,Jean
+2272,BONNIN,...
+2273,POUPELIN,Renée
+2274,AIRAUT,Pierre
+2275,LASCAUD,Marie
+2276,AIRAUT,René
+2277,BATIS,Perrine
+2278,AIRAUT/AIRANT,Michel
+2279,RAISON,Jeanne
+2280,AIRAUX,Jacques
+2281,GENITEAU,Marie
+2282,AIRAUX,Jean
+2283,PALLARD,Françoise
+2284,AIRBRETEAU,Pierre
+2285,YOU,Jeanne-Henriette
+2286,AIREAU,Charles
+2287,JAMET,Jacquette
+2288,AIREAU,Henry
+2289,GRIGNON,Marie Marguerite
+2290,AIREAU,Jacques
+2291,BOSSI,Catherine
+2292,AIREAU,Jean
+2293,VIDART,Marie
+2294,AIREAU,Pierre
+2295,BABINOT,Catherine
+2296,AIREAU (AYREAU),Anthoine
+2297,TRICHET,Anne
+2298,AIREAULT,Pierre
+2299,GUERIN,Madelaine
+2300,AIREAULT,Pierre François
+2301,MAROLLEAU,Jeanne Marie
+2302,AIREAULT,Pierre François
+2303,POUPIN,Jeanne
+2304,AIRIAU,Aimé Jean
+2305,ROBIN,Jeanne
+2306,AIRIAU,Alexandre Auguste
+2307,TENAUD,Mélanie Clémence Marie
+2308,AIRIAU,Antoine
+2309,NAULIN,Marie
+2310,AIRIAU,Armand Clément
+2311,MINAUD,Clarisse Adèle Mélina
+2312,AIRIAU,Auguste
+2313,MONTASSIER,Marie Angèle Constance
+2314,AIRIAU,Auguste François
+2315,AIRIAU,Eugénie Françoise Marie
+2316,AIRIAU,Auguste Pierre
+2317,BONNET,Marie
+2318,FIEVRE,Rosalie Jeanne
+2319,PIVETEAU,Marie Madeleine
+2320,AIRIAU,Charles
+2321,EVELIN,Marie
+2322,AIRIAU,Charles
+2323,GOURAUD,Perrine
+2324,AIRIAU,Charles
+2325,GUY,Louise
+2326,VIOLLEAU,Marie-Armance
+2327,AIRIAU,Emile
+2328,COUTAUD,Marie Elise
+2329,AIRIAU,Émile Auguste
+2330,BRENON,Adelaïde Marie
+2331,AIRIAU,Emile Henri
+2332,PENEAU,Mélanie Marie
+2333,AIRIAU,Etienne
+2334,GILBERT,Jeanne Renée
+2335,AIRIAU,Eugène
+2336,GALLOT,Emélie
+2337,AIRIAU,Eugène François
+2338,POINGT,Marie Magdelaine
+2339,AIRIAU,François
+2340,DENIAU,Agathe Ursule
+2341,AIRIAU,François
+2342,DRAPEAU,Marie Modeste
+2343,AIRIAU,François
+2344,FIOLEAU,Marie
+2345,AIRIAU,François
+2346,MASSON,Louise
+2347,AIRIAU,François
+2348,PEAUDEAU,Victoire
+2349,RELET,Renée
+2350,AIRIAU,François
+2351,RENOLEAU,Jeanne
+2352,AIRIAU,François
+2353,VEQUE,Perrine
+2354,AIRIAU,Gabriel
+2355,BRETIN,Catherine
+2356,AIRIAU,Gabriel
+2357,BRISSON,Catherine
+2358,AIRIAU,Gabriel
+2359,DORE,Marie
+2360,AIRIAU,Germain
+2361,RENAUDIN,Jeanne
+2362,AIRIAU,Guillaume
+2363,EPIARD,Thiphaine
+2364,AIRIAU,Henri
+2365,CROCHET,Marie Rose
+2366,AIRIAU,Henri Louis
+2367,POINGT,Mélanie Aglaée
+2368,AIRIAU,Henri Marcellin
+2369,BLOUIN,Jeanne Florence
+2370,AIRIAU,Jacques
+2371,ARDOUIN,Renée
+2372,AIRIAU,Jacques
+2373,BARDET,Sophie
+2374,AIRIAU,Jacques
+2375,BOUANCHAUD,Catherine
+2376,CAILLETEAU,Anne
+2377,AIRIAU,Jacques
+2378,CHAILLAUD,Jeanne
+2379,COUSSAIS,Jeanne
+2380,HERVE,Jeanne
+2381,AIRIAU,Jacques
+2382,HILLEREAU,Marie-Anne
+2383,LORGERAIS,Marie Louise Dominique
+2384,AIRIAU,Jacques
+2385,MARTIN,Louise
+2386,AIRIAU,Jacques
+2387,MERCEREAU,Julie
+2388,PICHAUD,Marie
+2389,RUSSÉ,Madeleine
+2390,AIRIAU,Jean
+2391,AIRIAU,Marie
+2392,BIROT,Nicole
+2393,AIRIAU,Jean
+2394,CORMIER,Catherine
+2395,AIRIAU,Jean
+2396,GARNIER,Julienne
+2397,AIRIAU,Jean
+2398,HENRY,Catherine
+2399,AIRIAU,Jean
+2400,HERITEAU,Marguerite
+2401,AIRIAU,Jean
+2402,LESIMPLE,Perrine
+2403,MENARD,Perrine
+2404,MERCIER,Marie
+2405,AIRIAU,Jean
+2406,MICHAUD,Marie
+2407,PIPAUD,Renée
+2408,PLANCHOT,Marie
+2409,AIRIAU,Jean Baptiste
+2410,CHARRIAU,Marie Philoméne
+2411,AIRIAU,Jean Baptiste
+2412,ROBRETEAU,Reine Félicité
+2413,AIRIAU,Jean Baptiste Clément
+2414,DON,Henriette Sulvie
+2415,AIRIAU,Jean-Baptiste Georges
+2416,BARDOUX,Marie-Désirée
+2417,AIRIAU,Joseph
+2418,CHIFFOLEAU,Marie
+2419,AIRIAU,Joseph
+2420,MARTIN,Anne
+2421,AIRIAU,Joseph
+2422,RAUD,Marie
+2423,AIRIAU,Joseph Victor
+2424,GABORIAU,Rosalie
+2425,AIRIAU,Julien
+2426,BOURCIER,Jeanne
+2427,AIRIAU,Julien
+2428,PIPAUD,Catherine
+2429,AIRIAU,Louis
+2430,BOURCIER,Catherine
+2431,AIRIAU,Louis
+2432,CLERGEAU,Françoise
+2433,MARTIN,Jeanne
+2434,AIRIAU,Louis Zacharie
+2435,VOYNEAU,Anne Rosalie
+2436,AIRIAU,Luc
+2437,BORLETEAU,Marie
+2438,AIRIAU,Luc
+2439,BRIDONNEAU,Jeanne
+2440,AIRIAU,Luc
+2441,PAULEAU,Marie Madeleine
+2442,AIRIAU,Marie-Armand Emile
+2443,FORGEAU,Rosalie Joséphine
+2444,AIRIAU,Mathurin
+2445,DUPONT,Véronique
+2446,AIRIAU,Mathurin
+2447,GIRAUD,Catherine
+2448,AIRIAU,Mathurin
+2449,MARTIN,Marguerite
+2450,REMAUD,Marie
+2451,AIRIAU,Mathurin
+2452,VEQUE,Jeanne
+2453,AIRIAU,Michel
+2454,PIPAUD,Françoise
+2455,AIRIAU,Olivier
+2456,GUICHET,Jeanne
+2457,AIRIAU,Paul
+2458,DUGAST,Jeanne
+2459,AIRIAU,Philbert
+2460,CHIRON,Marie
+2461,AIRIAU,Philbert
+2462,PIPAUD,Catherine
+2463,PLANCHOT,Françoise
+2464,AIRIAU,Pierre
+2465,BEAUVINEAU,Jeanne
+2466,AIRIAU,Pierre
+2467,BOUANCHAUD,Marie
+2468,AIRIAU,Pierre
+2469,BOUSSEAU,Marie
+2470,AIRIAU,Pierre
+2471,CLENET,Monique
+2472,AIRIAU,Pierre
+2473,GREZEAU,Charlotte
+2474,AIRIAU,Pierre
+2475,HAMELIN,Marie Madeleine
+2476,AIRIAU,Pierre
+2477,HERVOUET,Jeanne
+2478,AIRIAU,Pierre
+2479,LEAUTE,Marguerite
+2480,MAUVILIN,Margueritte
+2481,AIRIAU,Pierre
+2482,PIVETEAU,Justine
+2483,PLANCHOT,Marie Margueritte
+2484,PRAUD,Marie-Anne
+2485,AIRIAU,Pierre
+2486,RICHARD,Gabrielle Jeanne
+2487,AIRIAU,Pierre
+2488,ROIRAND,Marie-Madeleine
+2489,AIRIAU,Pierre
+2490,SAVARIAU,Jeanne
+2491,AIRIAU,Pierre
+2492,SIONNEAU,Jeanne
+2493,TENAUD,Anne Marie
+2494,AIRIAU,Pierre Auguste
+2495,JAUNET,Marie Magdelaine
+2496,MORILLEAU,Angèle Claire
+2497,AIRIAU,Pierre Augustin
+2498,CHASSELOUP,Marie Madeleine
+2499,AIRIAU,Pierre Clément Samuel
+2500,PETIT,Jeanne
+2501,AIRIAU,Pierre Joseph
+2502,GAUTHIER,Hyacinthe
+2503,AIRIAU,Pierre Vincent
+2504,LANDAIS,Marie-Anne
+2505,AIRIAU,René
+2506,AUGEREAU,Aimée
+2507,AIRIAU,René
+2508,CHARRIER,Jeanne
+2509,AIRIAU,René
+2510,FEBVRE,Marie
+2511,AIRIAU,René
+2512,GANET,Marie
+2513,AIRIAU,René
+2514,MOLE,Jeanne
+2515,AIRIAU,Théophile Eugène
+2516,BOTELLE,Marie Louise Julie
+2517,AIRIAU,Thomas
+2518,AIRIAU,Vincent
+2519,JAMONNEAU,Marie
+2520,AIRIAUD,François
+2521,LOYZEAU,Marie
+2522,AIRIAUD,Jean
+2523,COUTON,Marie
+2524,MERCIERE,Marie
+2525,AIRIAUD,Louis
+2526,CORMIER,Jeanne
+2527,AIRIAUD,René
+2528,MERCIERE,Perrine
+2529,AIRIAUX,Joseph
+2530,MAUVILLIN,Marie
+2531,AIRIEAU,Jean Baptiste
+2532,GALLOT,Marie Madeleine
+2533,AIRIEAU,Jean Baptiste
+2534,PACHETEAU,Marguerite Joséphine
+2535,AIRIEAU,Olivier ?
+2536,RENAUDIN,Jeanne
+2537,AIRIEAU,Pierre
+2538,RÉZEAU,Aimée
+2539,AIRNE,François
+2540,n/a,Marie Louise
+2541,AIROS,Pierre
+2542,AIRREAU,Jacques
+2543,CALLEAU,Renée
+2544,AIRVAY,Louis
+2545,PALLARD,Marie Magdeleine
+2546,AIRY,Jacques
+2547,GERBAUT,Catherine
+2548,AISRIAU,Mathurin
+2549,GUIGNARD,Jeanne
+2550,AITREAU,René
+2551,BERNARD,Perrine
+2552,ALABRÉE,Jean-Baptiste
+2553,DASTRE,Jeanne
+2554,ALABRÉE,Jean-Baptiste
+2555,SIRDEY,Louise
+2556,ALAIN,Alexandre
+2557,BISON,Laurance
+2558,ALAIN,Arthur Stanislas
+2559,GARANDEAU,Hortense Amélina
+2560,ALAIN ,Auguste Joseph
+2561,JOBARD ,Honorée Philomène
+2562,ALAIN,Auguste Louis Elie
+2563,MANDIN,Radegonde Clémentine Françoise
+2564,ALAIN,Donatien Jean
+2565,GARNIER,Marie Louise
+2566,ALAIN,Ernest Eugène Théodore
+2567,GILBERT,Joséphine Adèle
+2568,ALAIN,Eugène Maximin
+2569,BARON,Modeste Rosalie
+2570,ALAIN,François
+2571,CORNEVIN,Elisabeth
+2572,ALAIN,François
+2573,GILBERT,Henriette Augustine
+2574,ALAIN,François
+2575,GUESDON,Marie
+2576,ALAIN,Henri
+2577,MICHAUD,Marie Augustine
+2578,ALAIN,Henri Jean Baptiste
+2579,CHARRIER,Marie Rosalie
+2580,ALAIN,Jacques
+2581,PINETEAU,Jeanne
+2582,ALAIN,Jean
+2583,CARTRON,Françoise
+2584,ALAIN,Jean
+2585,MAINARD,Marie
+2586,ALAIN,Jean Baptiste
+2587,GUEDON,Augustine Marie Constance
+2588,ALAIN,Jean François
+2589,GROLEAU,Clémence Marie Flavie
+2590,ALAIN,Jean Henri
+2591,PAVAGEAU,Henriette Philomène Marie
+2592,ALAIN,Jean Jacques
+2593,GOURRAUD,Marie Françoise
+2594,ALAIN,Jean Marie
+2595,GROLLEAU,Léonide Marie
+2596,ALAIN,Jean Pierre
+2597,GUIMBRETIERE,Amélie Adélaïde
+2598,ALAIN,Joseph
+2599,ALAIN,Jules Léopold
+2600,TESSON,Anastasie
+2601,ALAIN,Jules Placide Alexis
+2602,MATHÉ,Augustine Julie Louise
+2603,ALAIN,Louis
+2604,LORIAU,Jeanne
+2605,ALAIN,Louis Alexandre
+2606,GIRARD,Marie Magdeleine
+2607,ALAIN,Louis François
+2608,MAHU,Marie-Louise
+2609,ALAIN,Louis François
+2610,ALAIN,Louis Marie Michel
+2611,TESTARD,Louise
+2612,ALAIN,Louis Philippe
+2613,BRISSEAU,Marie Florence
+2614,YOUX,Augustine Pélagie
+2615,ALAIN,Luc
+2616,BRIT,Jeanne
+2617,ALAIN,Mathurin
+2618,ALLAIN,Françoise
+2619,ALAIN,Michel
+2620,AGENEAU,Marie
+2621,ALAIN,Nicolas
+2622,DELAVAUD,Marie Françoise
+2623,ALAIN,Pierre
+2624,BOYSSON,Renée
+2625,ALAIN,René
+2626,ANONNIER,Marie
+2627,BOUHIER,Catherine
+2628,ALAIN,Victor
+2629,PINEAU,Marie Philomène
+2630,ALAIN ,Victor Térentien
+2631,BROSSET ,Marie Constance Henriette
+2632,ALAIRE,Alexandre
+2633,CAILLON,Jeanne Catherine
+2634,ALAIRE,Augustin
+2635,DURAND,Jeanne
+2636,ALAIRE,François
+2637,BAREAU,Marie
+2638,ALAIRE,Jacques
+2639,GAUDUCHEAU,Bénigne
+2640,GIGAUD,Marie
+2641,ALAIRE,Jacques
+2642,GUILBAUD,Renée
+2643,MOISAND,Suzanne
+2644,ALAIRE,Jean
+2645,MIGNE,Jeanne
+2646,ALAIRE,Jean Aymé
+2647,THIBAUD,Anne
+2648,ALAIRE,Joachim
+2649,PINEAU,Catherine
+2650,ALAIRE,Louis
+2651,ANSELLAIN,Marie
+2652,RAIMBAULT,Renée
+2653,VOYER,Marie
+2654,ALAIRE,Pierre
+2655,MORINEAU,Catherine
+2656,ALAIRE,René
+2657,GAUTIER,Marie
+2658,ALAIS,Jacques
+2659,BILLET,Marie
+2660,ALAIS,Jean
+2661,BARAUD,Renée
+2662,POTET,Cécile
+2663,ALAIS,Mathurin
+2664,GUÉREL,Marie
+2665,GUÉREL,Perrine
+2666,ALAIS,Michel
+2667,DELAPREE,Françoise
+2668,LAURENT,Marie
+2669,PERUCHAUD,Luce
+2670,PIRAUD,Simone
+2671,ALAIS,Pierre
+2672,CHALIGNEAU,Jeanne
+2673,DELAPREE,Marie
+2674,ALAISEAU,Jacques
+2675,RENAUD,Louise
+2676,ALAITREUX,Charles
+2677,LOCHOY / LOCHOIS,Marie Madeleine
+2678,ALAITREUX,Pierre
+2679,DRAPEAU,Marie
+2680,ALAIZEAU,Aimé
+2681,FORT,Marie-Mélanie
+2682,ALAIZEAU,André
+2683,RENAUD,Marie
+2684,ALAIZEAU,Charles
+2685,MARTINEAU,Clémence Aimée Philomène
+2686,ALAIZEAU,Charles Edmond
+2687,ALAIZEAU,Ferdinand Constantin Firmin
+2688,PROUX,Maria Angélina
+2689,ALAIZEAU,François
+2690,QUEMEAU,Louise
+2691,ALAIZEAU,François Eloi
+2692,MOUNERON,Aimée Claire Pulchérie
+2693,ALAIZEAU,Gabriel
+2694,PENNETIER,Marie
+2695,ALAIZEAU,Jean
+2696,AVRIL,Jeanne
+2697,ALAIZEAU,Jean
+2698,GUINET,Madeleine
+2699,GUINET,Magdeleine
+2700,JOSLIN,Marie Jeanne
+2701,PAJOT (PAGEOT),Marie
+2702,ALAIZEAU,Jean Auguste
+2703,BUTON,Victoire Henriette
+2704,ALAIZEAU,Jean-Jacques
+2705,BERNARD,Hortense
+2706,ALAIZEAU,Joseph
+2707,GRIVEAU,Marie
+2708,ALAIZEAU,Moïse Auguste
+2709,BILLET,anastasie Léontine Marie
+2710,ALAIZEAU,Pierre
+2711,COTTRON,Françoise Louise
+2712,ALAIZEAU,René
+2713,DURANTEAU,Françoise
+2714,ALAMAND,Julien
+2715,PICHON,Jacquette
+2716,ALANEL (?),Jean
+2717,PAYNEAU,Marie
+2718,ALANT,Jean
+2719,MONIQ,Perrine
+2720,ALAR,François
+2721,BREMAUD,Jeanne
+2722,ALARD,André
+2723,BESLI,Perrine
+2724,ALARD,Antoine
+2725,HUGUET,Marie
+2726,ALARD,Charles Louis
+2727,RIPAUD,Marie Irma Elise
+2728,ALARD,Christophe
+2729,OUVRARD,Madeleine
+2730,ALARD,Estienne
+2731,GAUDIN,Denise
+2732,ALARD,François
+2733,CHAUVITEAU,Jehanne
+2734,MERLAND,Renée
+2735,ALARD,Gabriel
+2736,FRICONNEAU,Françoise
+2737,ALARD,Gabriel
+2738,GENERAT,Louise
+2739,ALARD,Georges
+2740,PIGEON,Catherine
+2741,ALARD,Guillaume
+2742,SAULNIER,Michelle
+2743,ALARD,Hilaire
+2744,DAUTOUR,Germaine
+2745,GUERY,Janne
+2746,ALARD,Jacques
+2747,PATUREAU,Marie
+2748,POLEAU,Jeanne
+2749,ALARD,Jean
+2750,BIGNONEAU,Marguerite
+2751,BLAY,Louise
+2752,CREMOIS,Marie Françoise
+2753,FOURNIER,Marie Jeanne
+2754,GIBOULEAU,Anne
+2755,GUERIN,Valentine
+2756,GUIBERT,Marie
+2757,LHOMEAU,Louise
+2758,PAIN,Thérèse
+2759,SOREL,Jeanne
+2760,ALARD,Jean
+2761,TIREBOIS,Marie Anne
+2762,ALARD,Joseph Alexandre
+2763,PENISSON,Alexandrine
+2764,ALARD,Joseph Olivier
+2765,SEMELIN,Cécile Thérèse
+2766,ALARD,Julien
+2767,CORNU,Françoise
+2768,ALARD,Julien
+2769,TRAINEAU,Marie
+2770,ALARD,Louis
+2771,LOGEAIS,Suzanne
+2772,ALARD,Louis Auguste
+2773,BLANCHET,Thaisse renestine
+2774,ALARD,Louis Valentin
+2775,BOUTIN,Joséphine
+2776,ALARD,Mathurin
+2777,LONGEAT,Louise
+2778,ALARD,Michel
+2779,GAUTREAU,Françoise
+2780,ALARD,Nicolas
+2781,PRIEUR,Antoinette
+2782,ALARD,Pierre
+2783,MADOREAU,Marie
+2784,ALARD,Pierre Etienne
+2785,PEROCHEAU,Marie Louise
+2786,ALARD,Pierre Louis
+2787,COUGNAUD,Marie Anne
+2788,ALARD,René
+2789,GIRARDEAU,Louise
+2790,ALARD,Théophile Constantin
+2791,RENAUD,Joséphine Henriette
+2792,ALART,François
+2793,FONTENEAU,Marie
+2794,ALATEUR,Jacques
+2795,VILLON,Louise
+2796,ALAUX,Frédéric
+2797,JOUSSEAUME,Adeline Louise Marie
+2798,ALAY,Mathieu
+2799,VEILLON,Jacquette
+2800,ALAYNAR,Jacques
+2801,SEGRETTAIN,Marguerite
+2802,ALAYS/ALLAIS,Jean
+2803,CROISTÉ/CRESTÉ,Catherine
+2804,ALBENQUE,Jacques
+2805,BITAUD,Rose
+2806,ALBERD,Jacques
+2807,HERSAU,Jeanne
+2808,ALBERT,n/a
+2809,ROUER,n/a
+2810,ALBERT,Adolphe Joseph Alexandre
+2811,VRIGNON,Clémentine Augustine Florentine
+2812,ALBERT,Alexis
+2813,BILLON,Rosalie
+2814,ALBERT,Alexis
+2815,BLETEAU,Marie Eulalie
+2816,GAUTHIER,Marie Victorine
+2817,TEXIER,Marie Eugénie
+2818,ALBERT,Alfred
+2819,DUGUY,Anatalie
+2820,ALBERT,Amand Benjamin
+2821,VIVION,Constance Marie
+2822,ALBERT,Ambroise Gabriel
+2823,BOISSINOT,Marie Philomène Victorine
+2824,ALBERT,André
+2825,?,Jehanne
+2826,ALBERT,André
+2827,AUDUGE,Marie
+2828,BEGAUD,Andrée
+2829,ALBERT,André
+2830,BERNARD,Marie Anne
+2831,BERTIN,Marie
+2832,BOUHIER,Jeanne
+2833,ALBERT,André
+2834,BOUREAU,Renée
+2835,ALBERT,André
+2836,CHARPANTIER,Suzanne
+2837,ALBERT,André
+2838,CHEMIN,Jeanne
+2839,DUGAST,Marguerite
+2840,ALBERT,André
+2841,GOUIN,Jeanne
+2842,GUERIN,Françoise
+2843,ALBERT,André
+2844,GUINNEMENT,Andrée
+2845,ALBERT,André
+2846,PERAUDEAU,Jeanne
+2847,PIVETEAU,Jeanne
+2848,ALBERT,André Charles
+2849,GENDREAU,Françoise
+2850,ALBERT,Antoine
+2851,ARRENAUDEAU,Marie
+2852,DOUGÉ,Perrine
+2853,DURANTEAU,Marie
+2854,PALLIAU,Françoise
+2855,ALBERT,Antoine Alexis
+2856,HERBERT,Janne Florinne
+2857,ALBERT,Armand
+2858,CAILLAUD,Alexandrine
+2859,ALBERT,Armand Louis Casimir
+2860,CAILLAUD,Alexandrine Eulalie
+2861,ALBERT,Armand Louis Casimir
+2862,FERRE,Marie Louise Victoire
+2863,ALBERT,Auguste
+2864,HERBRETEAU,Victoire
+2865,ALBERT,Auguste
+2866,PAILLAT,Flavie
+2867,ALBERT,Auguste Exavier Léopold
+2868,PAILLAT,Marie Augustine Clémence
+2869,ALBERT,Auguste François
+2870,TEIGNÉ,Marie
+2871,ALBERT,Auguste Henry
+2872,GUITTON,Marie Célina
+2873,ALBERT,Auguste Marie
+2874,GABARD,Victorine Marie
+2875,ALBERT,Auguste Victor
+2876,GUIMBRETIERE,Nathalie Anastasie
+2877,ALBERT,Augustin
+2878,BARDIN,Pauline
+2879,ALBERT,Augustin
+2880,CHIRON,Julienne
+2881,ALBERT,Augustin
+2882,HUTEAU,Marthe
+2883,ALBERT,Augustin
+2884,PAVAGEAU,Célestine
+2885,ALBERT,Baptiste
+2886,CHARIER,Euphrosine Mathilde
+2887,ALBERT,Baptiste
+2888,DABRETEAU,Jeanne Angélique
+2889,ALBERT,Benjamin Auguste
+2890,HEULIER,Louise Jeanne
+2891,ALBERT,Benjamin Clément François Jose
+2892,TEXIER,Marie Augustine Octavie
+2893,ALBERT,Bernard
+2894,GODET,Perrine
+2895,ALBERT,Charles
+2896,n/a,Rosalie
+2897,ALBERT,Charles
+2898,ALBERT,Joséphine
+2899,ASTANEAU,Jeanne
+2900,BABIN,Françoise
+2901,ALBERTEAU,Louis Jean Baptiste
+2902,GRAVELEAU,Augustine Félicie Marie
+2903,ALBERTEAU,Marie Hyppolite
+2904,TAVENON,Rose
+2905,ALBIOT,Pierre
+2906,GIRARD,Louise
+2907,ALBON,Charles
+2908,FAVEREAU,Magdelaine
+2909,ALBOURG,Jacques
+2910,MERCIERE,Marie Anne
+2911,ALBOUY,François
+2912,DUSARD,Marie Catherine
+2913,ALBREF,Christophe
+2914,BOURARD,Saincte
+2915,ALBRESPUY,Charles
+2916,BOIDE,Marie Théotiste
+2917,ALBRESPUY,Charles
+2918,RENOU,Irma
+2919,ALBRESPUY,Charles
+2920,VERONNEAU,Marie Anne
+2921,ALBRESPY,Jean-Baptiste
+2922,BLAINEAU,Marie
+2923,ALBRETAU / ALBRETAN,Jean Pierre
+2924,BASCLE,Louise
+2925,ALBRETEAU,Louis François
+2926,POUPLIN,Florence
+2927,ALBRETEAU,Louis Vincent
+2928,SIBILLEAU,Marie Gabriel
+2929,ALBUCHER,Jean Baptiste
+2930,CORCAUD,Catherine
+2931,ALDEBERT,François Édouard
+2932,REGAIN,Ursule
+2933,ALDEBERT,Gabriel
+2934,CHEVALLIER,Brigitte Célestine
+2935,ALDEBERT,Jean
+2936,GUILBAUD,Elisa Reine
+2937,ALDEBERT,Jean
+2938,LARGEAU,Marie Magdeleine
+2939,ALDER,Jean
+2940,DOUET,Marie
+2941,ALEAUME,Claude
+2942,NICOLLEAU,Marie
+2943,ALEAUME,Jacques
+2944,RAFIN,Marie
+2945,ALEAUME,Jaque
+2946,ALEAUME,Jean
+2947,GAUDIN,Marie Louise
+2948,ALEAUME,Laurent
+2949,BROCHARD,Henriette
+2950,ALEAUME,Laurent
+2951,DUBOIS,Jeanne
+2952,ALEAUME,Louis
+2953,BOISLEGAUD,marie
+2954,ALEAUME,Pierre
+2955,BUCHET,Marie Louise
+2956,ALEAUME,Pierre Aimé
+2957,DUDIT,Marie Généreuse
+2958,ALEBERT,Jacque
+2959,BOIZIMEAU,Marguerite
+2960,ALEIN,Jean
+2961,BABIN,Renée
+2962,ALEIZEAU,Louis
+2963,BLUSSEAU,Jeanne
+2964,ALELI,Pierre
+2965,PETIT,Louise
+2966,ALELIS,Pierre
+2967,MORIN,Marie
+2968,ALEMAND,Gilles
+2969,BARILLON,Marie
+2970,ALENE,François
+2971,GUILLET,Catherine
+2972,ALERE,Jean
+2973,MICHAUT,Noémie
+2974,ALESEAU,Jean
+2975,GEAY,Jeanne
+2976,ALESEAU,René
+2977,LEDIN,Louise
+2978,ALESTREUX,René
+2979,DELION,Marie
+2980,ALESTRU,Anthoine
+2981,MAQUIGNON,Marie
+2982,ALESTRU,Gabriel
+2983,BONNIN,Rose
+2984,ALESTRU,Jacques
+2985,THOMAS,Catherine
+2986,ALESTRU,Nicolas
+2987,GILÉ,Perrine
+2988,ALESTRU,Pierre
+2989,ARENAUDEAU,Marguerite
+2990,ALESTRU,Pierre
+2991,BIDAUD,Marie Anne
+2992,ALESTRU,Pierre
+2993,GIRAUD,Louise
+2994,ALESTRU,Pierre
+2995,SAULNIER,Catherine
+2996,ALESTRU,Pierre
+2997,VINCENT,Jeanne
+2998,ALESTRU/LETRU,François
+2999,CLOPEAU,Anne
+3000,ALETREU,Jehan
+3001,SAVYNE,Perrette
+3002,ALETRU,André
+3003,MABIT,Marie
+3004,ALETRU,André François
+3005,MACQUIN,Marie Louise Constance
+3006,ALETRU,André Jean
+3007,BARREAU,Louise
+3008,ALETRU,Constant
+3009,BARREAU,Marie Constance
+3010,ALETRU,François
+3011,BERTRAND,Perine
+3012,ALETRU,François
+3013,DOUILLARD,Modeste
+3014,ALETRU,François
+3015,GOBIN,Jeanne
+3016,GOUIN,Marie
+3017,ALETRU,François
+3018,GUILLEBOT,Cathurine
+3019,SAVARIAU,Marie
+3020,ALETRU,Gabriel
+3021,BIZET,Marie Jeanne
+3022,JIRARDEAU,Marie
+3023,ALETRU,Jacques
+3024,DESLANDES,Marie
+3025,ALETRU,Jean
+3026,ANGIBAUD,Jeanne
+3027,ALETRU,Jean
+3028,BRAUD,Marie
+3029,ALETRU,Jean
+3030,CLERJAUD,Renée
+3031,ALETRU,Jean
+3032,MERIENEAU,Marie Anne
+3033,ALETRU,Jean
+3034,PEREAU,Françoise
+3035,RICHARD,Jeanne
+3036,ROI,Marie Jeanne
+3037,THOMAZEAU,Marguerite
+3038,ALETRU,Jean André
+3039,ROTURIER,Marie
+3040,ALÉTRU,Jean André
+3041,SUSSIN,Marie Jeanne
+3042,ALETRU,Joseph
+3043,AUNEAU,Marie
+3044,ALETRU,Joseph
+3045,CREPEAU,Marie Honorine
+3046,ALETRU,Louis
+3047,BALLIOT,Marie Jeanne
+3048,BRILLOUET,Jeanne
+3049,BRILLOUET,Marie Jeanne
+3050,ALETRU,Louis
+3051,CRABEIL,Jeanne
+3052,GUILBOT,Angélique
+3053,ALÉTRU,Louis
+3054,MERIET,Honorine
+3055,POUPIN,Marguerite
+3056,PRINEAU,Marie Anastasie
+3057,ROBIN,Anne
+3058,SAVARIAU,Elisabeth
+3059,ALETRU,Louis
+3060,VINCENT,Jeanne
+3061,ALETRU,Louis Laurent
+3062,GUICHARD,Thérèse
+3063,ALETRU,Pierre
+3064,ALBERT,Jacquette
+3065,ALETRU,Pierre
+3066,BARBOT,Anne
+3067,ALETRU,Pierre
+3068,BERGER,Louise
+3069,ALETRU,Pierre
+3070,BIDAUD,Marie Anne
+3071,ALETRU,Pierre
+3072,CROUE,Renée
+3073,ALETRU,Pierre
+3074,LUMINEAU,Victoire
+3075,NIÉ/VIÉ,Marie
+3076,ALETRU,René
+3077,BAUDON,Marie Hélène
+3078,BLANCHARD,Françoise
+3079,DUBEE,Jeanne
+3080,ALETRU,René
+3081,LE BRETON,Marie
+3082,NARIERE,Renée
+3083,ALETRU,Toussaint Charles
+3084,BARBOT,Marie
+3085,ALETRUT,Jean Baptiste
+3086,BOUDET,Jeanne
+3087,ALEXANDRE,André Joseph
+3088,ALLETRU,Marie-Louise Victoire
+3089,ALEXANDRE,Auguste Martial
+3090,PELLERIN,Marie Louise
+3091,ALEXANDRE,Félix
+3092,POUPEAU,Augustine
+3093,ALEXANDRE,François
+3094,n/a,Marguerite
+3095,JAIFFRÉ,Marie Claire
+3096,ALEXANDRE,Henri
+3097,BABIN,Marie Madeleine
+3098,ALEXANDRE,Jean
+3099,RICHARD,Marie Véronique
+3100,ALEXANDRE,Joseph
+3101,MORISSET,Marie
+3102,ALEXANDRE,Joseph Hyacinthe
+3103,METAIS,Lucie Marie Hippolyte
+3104,ALEXANDRE,Louis
+3105,GAUVIN,Marie Hyacinthe Augustine
+3106,ALEXANDRE,Pierre
+3107,GRANGER,Marie Louise
+3108,ALEXANDRE,Raoul
+3109,PASCAUD,Marie
+3110,ALEXIS,François Aimé
+3111,FORT,Esther Marie Rosalie
+3112,ALEXIS,Henri Constant Désiré
+3113,RATIER,Mélanie Henriette Augutine
+3114,ALEXIS,Jean
+3115,SENECHAUD,Marie Félicité
+3116,ALÉZEAU,Émile Célestin Eugène
+3117,RAVON,Valentine Marie Augustine
+3118,ALEZEAU,François
+3119,BARADEAU,Marie
+3120,ALEZEAU,Gabriel
+3121,CHARIER,Anne
+3122,ALEZEAU,Jacques
+3123,BONAMY,Marie
+3124,GREAU,Jeanne
+3125,ALEZEAU,Jacques François
+3126,TULLEAU,Madeleine
+3127,ALEZEAU,Jean
+3128,BELLE,Jeanne
+3129,BERNARD,Marie
+3130,BROSSARD,Thérèse
+3131,ALEZEAU,Jean Henri
+3132,BARBOTEAU,Marie Appoline
+3133,ALEZEAU,Jean Louis
+3134,BERTAUD,Marie Olive
+3135,ALEZEAU,Louis
+3136,GENDROT,Lucase
+3137,NAULIN,Marie
+3138,TEXIER,Sébastienne
+3139,ALEZEAU,Pierre
+3140,CHEVRE,Marie
+3141,DOUCIER,Catherine
+3142,LOGEAIS,Perrine
+3143,ALÉZEAU,Pierre
+3144,PAIRAUDEAU,Victorine
+3145,RENELEAU,Antoinette
+3146,ALEZEAU,René
+3147,NICOLEAU,Catherine
+3148,ALIEN,Etienne
+3149,DURET,Jeanne
+3150,ALIEN,Mathurin
+3151,CORNU,Jeanne
+3152,ALIGNE,A
+3153,AUGER,A.F.
+3154,ALIGNÉ,Alexandre
+3155,ROUSSEAU,Marie Jeanne Henriette
+3156,ALIGNE,André
+3157,PLAIRE,Anne
+3158,ALIGNE,Antoine
+3159,ALBERT,Jeanne
+3160,ALIGNE,Antoine
+3161,SEGUIN,Françoise
+3162,ALIGNE,Charles
+3163,POUVREAU,Marie
+3164,ALIGNE,François
+3165,ARGNON,Françoise
+3166,HERGNON,Françoise
+3167,ALIGNE,Guillaume
+3168,AULMAND,Gabrielle
+3169,RAGUENEAU,Catherine
+3170,ALIGNE,Jacques
+3171,BACLE,Jeanne
+3172,ALIGNE,Jean
+3173,AUGER,Marie
+3174,BOUCHEREAU,Marie
+3175,BOUTET,Marie Anne
+3176,GUIBOURDEAU,Renée
+3177,ALIGNE,Jean
+3178,GUILLON,Jeanne Suzanne
+3179,ALIGNÉ,Jean
+3180,RIFFAUD,Marie-Anne
+3181,ALIGNÉ,Louis
+3182,AMIAUD,Marie
+3183,ALIGNÉ,Louis
+3184,AUBIN,Charlotte
+3185,ALIGNE,Mathieu
+3186,SICLON,Marie Anne
+3187,ALIGNE,Mathieu
+3188,SIRET,Marie
+3189,ALIGNE,Pierre
+3190,METAIS,Jeanne
+3191,ALIGNÉ,Pierre
+3192,MOREAU,Louise
+3193,PENOTEAU,Marie
+3194,TAILLEFAIT,Jeanne
+3195,ALIGNY,Jean
+3196,PILLET,Jeanne
+3197,ALIN,Jacques
+3198,LANDREAU,Marie
+3199,ALIN,Jean Louis
+3200,CAILLON,Marie Anne Joséphine
+3201,ALIN,Louis
+3202,DELAUNAY,Victoire
+3203,ALIN,Louis Jean Baptiste
+3204,BOUDAUD,Marie Jeanne
+3205,ALIN,Nicolas
+3206,GOICHON,Catherine
+3207,ALIN,Paul
+3208,GAUVIN,Louise
+3209,ALIN,Pierre
+3210,COUSSEAU,Marie
+3211,ALIN,Pierre
+3212,GUYAU,Thérèse
+3213,ALIN,Pierre
+3214,MICHAUD,Marie Jeanne
+3215,ALIN ?,Pierre
+3216,GIRAUD,Marie-Jeanne
+3217,ALION,Jean
+3218,BOSSARD,Renée
+3219,ALISEAU,Pierre
+3220,GROLLON,Catherine
+3221,ALISSEAU,Mathurin
+3222,BARBARIN,Marguerite
+3223,ALISSEAU,Nicolas
+3224,GOURRAUD,Marie
+3225,ALISSEAU,Pierre
+3226,CLERGEAUD,Mathurine
+3227,ALIX,Jean Paul
+3228,DUPUY,Elise Lacroix
+3229,POUCIN,Jeanne Marie Françoise
+3230,ALIX,Philémon
+3231,MAQUERON,Jeanne
+3232,ALIZART,Charles Louis
+3233,ROY,Louise Antoinette
+3234,ALIZEAU,Barthellemy
+3235,DAVID,Renée
+3236,ALIZEAU,Bonaventure
+3237,LE BOEUF,Marie
+3238,ALIZEAU,François
+3239,BOURDAIN,Marie
+3240,RETAIL,Françoise
+3241,ALIZEAU,Giles
+3242,OLLIVEAU,Marie
+3243,ALIZEAU,Jean
+3244,GILBERT,Jeanne
+3245,ALIZEAU,Jean
+3246,PAIN/JENIN?,Marie
+3247,ALIZEAU,Louis
+3248,GOUPILLEAU,Anne
+3249,ALIZEAU,Louys
+3250,RETAIL,Catherine
+3251,ALIZEAU,Nicolas
+3252,BOUDAUD,Catherine
+3253,ALIZEAU,Pierre
+3254,PAIROT,Marguerite
+3255,RAGONIT,Jehanne
+3256,TOUZEAU,Jeanne
+3257,ALIZEAU,René
+3258,BOUCHER,Catherine
+3259,ALLAFORT DUVERGER,Antoine
+3260,DAVID,Clotilde
+3261,ALLAIGRE,Joseph
+3262,GENAIS,Victoire Aimée Louise
+3263,ALLAIN,...
+3264,GAILLARD,Jehanne
+3265,ALLAIN,Alexandre
+3266,HUVELIN,Jeanne
+3267,ALLAIN,Alexandre
+3268,LEBLEU,Séraphie
+3269,ALLAIN,Alexandre
+3270,RAMPILLON,Marie
+3271,ALLAIN,Alexandre Marie
+3272,ARRIVE,Olympe Marie
+3273,ALLAIN,Alphonse Jean Marie
+3274,GUIBERT,Marie Augustine Julie
+3275,ALLAIN,Antoine
+3276,ALLAIN,Perrine
+3277,ALLAIN,Antoine
+3278,RENOLEAU,Bonnaventure
+3279,ALLAIN,Armand Gabriel
+3280,NOIREAU,Clémence Rose
+3281,ALLAIN,Armand Mathurin
+3282,FRAILON,Rosalie
+3283,SIMONNEAU,Eléonore
+3284,ALLAIN,Auguste
+3285,DESCHAMPS,Madeleine
+3286,ALLAIN,Auguste Alexandre
+3287,MERLET,Henriette Pauline
+3288,ALLAIN,Auguste Marie Elie
+3289,HERBRETEAU,Louise Valentine Constance
+3290,ALLAIN,Augustin François
+3291,BITAUDEAU,Jeanne Philomène
+3292,ALLAIN,Augustin Pierre
+3293,VERONNEAU,M.Jeanne
+3294,ALLAIN ,Augustin Séraphin
+3295,SARRAZIN ,Françoise Célina Florestine
+3296,ALLAIN,Charles
+3297,CHAUVET,Renée
+3298,ALLAIN,Charles
+3299,COSSAIS,Marie
+3300,ALLAIN,Charles
+3301,FAUCHARD,Jeanne
+3302,ALLAIN,Charles Isidore
+3303,AUDUREAU,Marie Bathilde
+3304,ALLAIN,Charles Pierre
+3305,MOREAU,Victoire Marie
+3306,ALLAIN,Dominique Marie Victor
+3307,PINEAU,Marie Louise
+3308,ALLAIN,Elie Joseph
+3309,DROUIN,Marie Céline
+3310,ALLAIN,Eugéne Alexandre
+3311,RAMBAUD,Marie Thérèse Victorine Eugénie
+3312,ALLAIN,Eugène Jean Baptiste
+3313,RAVELEAU,Célestine Marie
+3314,ALLAIN,Ferdinand Auguste
+3315,ROUFFINEAU,Constance Ernestine
+3316,YOU,Clémentine Céline Adélina
+3317,ALLAIN,François
+3318,BARREAU,Françoise
+3319,BAUDIN,Jeanne
+3320,BOURRON,Marguerite
+3321,BRETIN,Anne
+3322,CAILLON,Renée
+3323,ALLAIN,François
+3324,LORD,Joséphine
+3325,RAVELEAU,Jeanne Rose
+3326,ALLAIN,François
+3327,YOUX,Marie
+3328,ALLAIN,François Henri
+3329,SUAUDEAU,Céleste Séraphie
+3330,ALLAIN,François Louis
+3331,YOU,Laurence Arcène Joséphine
+3332,ALLAIN,Gabriel
+3333,GUERY,Marie Madeleine
+3334,ALLAIN,Gilles Victor
+3335,FONTENEAU,Marie Honorée Célestine
+3336,ALLAIN,Gustave
+3337,BILLAUD,Marie
+3338,ALLAIN,Henri
+3339,GIRARD,Marie Victorine
+3340,ALLAIN,Henri Eugene
+3341,ALLAIN,Marie Victorine
+3342,ALLAIN,Henri François
+3343,GIRARD,Marie Madeleine
+3344,ALLAIN,Henri Marie Gustave
+3345,CHALLET,Clémence Célestine
+3346,ALLAIN,Henry
+3347,JEANNIERE,Aimée
+3348,ALLAIN,Honoré
+3349,COUDRIAU,Marie
+3350,ALLAIN,Isaïe Pierre Victor
+3351,HUCHET,Mélanie Elise Florine
+3352,ALLAIN,Isidore Jacques
+3353,MOREAU,Marie
+3354,ALLAIN,Jacques
+3355,AUDUREAU,Rose Angélique
+3356,ALLAIN,Jacques
+3357,BARBOTEAU,Françoise
+3358,ALLAIN,Jacques
+3359,BASTY,Marie Victoire
+3360,ALLAIN,Jacques
+3361,GREGOIRE,Françoise
+3362,ALLAIN,Jacques
+3363,PIVETEAU,Marie Anne
+3364,ALLAIN,Jean
+3365,BADEREAU,Marguerite
+3366,ALLAIN,Jean
+3367,BARANGER,Catherine
+3368,ALLAIN,Jean
+3369,BERTRAND,Jeanne
+3370,ALLAIN,Jean
+3371,BOISSON,Jeanne
+3372,CAILLON,Marie
+3373,ALLAIN,Jean
+3374,CHAMPAIN,Jacquette
+3375,ALLAIN,Jean
+3376,DEBIEN,Marie
+3377,ALLAIN,Jean
+3378,DEVAUD,Madeleine
+3379,ALLAIN,Jean
+3380,DOUTEAU,Anne
+3381,ALLAIN,Jean
+3382,EPAUD,Marie Anne
+3383,ALLAIN,Jean
+3384,GABORIAU,Jeanne
+3385,LUCAS,Madeleine
+3386,ALLAIN,Jean
+3387,MOREAU,Françoise
+3388,ALLAIN,Jean
+3389,PAVAGEAU,Rose
+3390,ALLAIN,Jean
+3391,PIVETEAU,Françoise
+3392,RIDEAU,Perrin
+3393,ALLAIN,Jean
+3394,SACHOT,Mathurine
+3395,ALLAIN,Jean
+3396,SUIRE,Marie Anne
+3397,ALLAIN,Jean Alexis
+3398,BOISSELEAU,Marie Louise
+3399,ALLAIN,Jean Auguste
+3400,RABAUD,Marie Augustine
+3401,ALLAIN,Jean Augustin
+3402,COSSAIS,Jeanne Suzanne
+3403,ALLAIN,Jean Baptiste
+3404,BROCHOIRE,Julie Jeanne Ursule
+3405,BUCHET,Marie Magdeleine
+3406,ALLAIN,Jean Baptiste
+3407,CARTRON,Zélie Magdeleine
+3408,ALLAIN,Jean Baptiste
+3409,COSSON,Marie Françoise
+3410,ALLAIN,Jean Baptiste
+3411,DROUET,Rozalie Félicité
+3412,ALLAIN,Jean Baptiste
+3413,SUAUDEAU,Constance Henriette
+3414,ALLAIN,Jean Baptiste Auguste
+3415,GUIGNARDEAU,Rose Stéphanie
+3416,ALLAIN,Jean Célestin
+3417,AUDAIRE,Modeste Anastasie
+3418,ALLAIN,Jean Clément Célestin
+3419,RABAUD,Augustine Alphonsine
+3420,ALLAIN,Jean Désiré
+3421,SUIRE,Madeleine Henriette
+3422,ALLAIN,Jean François
+3423,BEGAUD,Marie Jeanne
+3424,ALLAIN,Jean Louis
+3425,COSSAIS,Marie Constante
+3426,ALLAIN,Jean Louis Armand
+3427,COINDET,Marianne Sophie
+3428,ALLAIN,Jean Marie
+3429,LIMOUSIN,Elise
+3430,ALLAIN,Jean Marie
+3431,REMAUD,Victoire
+3432,ALLAIN,Jean Marie Pierre
+3433,MALLARD,Julie Célina
+3434,ALLAIN,Jean Mathurin
+3435,BOISSON,Jeanne
+3436,ALLAIN,Jean Mathurin
+3437,ALLAIN,Jean Mathurin
+3438,PIVETEAU,Jeanne Mathurine
+3439,ALLAIN,Joseph
+3440,SAVARIT,Marie
+3441,ALLAIN,Joseph Elie
+3442,CHAMPAIN,Aimée Céleste
+3443,ALLAIN,Julien
+3444,MEURAIL,Louise
+3445,ALLAIN,Julien
+3446,ROUSSEAU,Marie
+3447,ALLAIN,Julien Jean Baptiste
+3448,GIRAUDET,Marie
+3449,ALLAIN,Louis
+3450,CHAGNEAU,Florence
+3451,CHAUVEAU,Louise
+3452,CLEON,Jeanne
+3453,DENIAU,Marguerite
+3454,MOREAU,Elisabeth
+3455,PETITEAU,Marie
+3456,ALLAIN,Louis
+3457,TESSIER,exlsterne??(f)
+3458,ALLAIN,Louis Alexandre
+3459,BLANCHET,Marie Hortense Emilie
+3460,ALLAIN,Louis Augustin
+3461,FAUCHET,M Madeleine
+3462,ALLAIN,Louis Clément Jean
+3463,HILLAIRET,Marie Rose Joséphine Angéline Fernande Annonciatio
+3464,ALLAIN,Marie Joseph
+3465,CHAMPAIN,Rose
+3466,ALLAIN,Marie Louis
+3467,CHARRIER,Cécile Honorée
+3468,ALLAIN,Mathurin
+3469,ALLAIN,Mathurin
+3470,BRETET,Jeanne
+3471,ALLAIN,Mathurin
+3472,DISLE,Marie
+3473,FONTENEAU,Jeanne
+3474,RENOLEAU,Renée
+3475,ALLAIN,Michel
+3476,NICOLLEAU,Marie
+3477,ALLAIN,Nicolas
+3478,VRIGNAUD,Jeanne
+3479,ALLAIN,Noël
+3480,MORNET,Marie Françoise Zoé
+3481,ALLAIN ,Octave Louis Henri
+3482,SOULLARD ,Marie Marguérite Angéline
+3483,ALLAIN,Philippe
+3484,GILBERT,Madeleine
+3485,ALLAIN,Philippe Jacques
+3486,LAISNE,Louise Rose
+3487,ALLAIN,Pierre
+3488,BERTRAND,Marie
+3489,ALLAIN,Pierre
+3490,BRETIN,Jeanne
+3491,CARADU,Marie Rose
+3492,ALLAIN,Pierre
+3493,CAUNEAU,Françoise
+3494,ALLAIN,Pierre
+3495,CHAILLOU,Mathurine
+3496,GIRAUD,Jeanne
+3497,GODARD,Julienne
+3498,JARD,Jeanne
+3499,ALLAIN,Pierre
+3500,LEMAITRE,Marguerite
+3501,ALLAIN,Pierre
+3502,MEUNIER,Louise Jeanne
+3503,ALLAIN,Pierre
+3504,MOREAU,Jeanne
+3505,ALLAIN,Pierre
+3506,MOREAU,Marie
+3507,ALLAIN,Pierre
+3508,OLLIVREAU,Perrine
+3509,ALLAIN,Pierre
+3510,PAIN,Louise
+3511,ALLAIN,Pierre
+3512,PROUTEAU,Rose Aimée
+3513,ALLAIN,Pierre Auguste
+3514,SEGUIN,Marie Sylvie
+3515,ALLAIN,Pierre Constant
+3516,COUTURIER,Jeanne Rose
+3517,ALLAIN,Pierre Constant
+3518,FONTENEAU,Marie Jeanne
+3519,ALLAIN,Pierre Henri
+3520,CAILLE,Jeanne
+3521,ALLAIN,Pierre Henri
+3522,FONTENEAU,Rose Marie
+3523,ALLAIN,Pierre Henri Alexis
+3524,BARRETEAU,Marie Victorine
+3525,ALLAIN,Pierre Henri Joseph
+3526,BARRETEAU,Marie Elise
+3527,ALLAIN,Pierre Marie
+3528,BRACHET,Henriette Victoire
+3529,ALLAIN,Pierre Marie
+3530,YOU,Marie Madeleine
+3531,ALLAIN,Pierre René
+3532,FONTENEAU,Marie Françoise
+3533,ALLAIN,René
+3534,ALLARD,Louise
+3535,ALLAIN,René
+3536,BARRY,Jeanne Julie
+3537,ALLAIN ,René Constant Jean Baptiste
+3538,PASQUIET,Marie Louise Joséphine
+3539,ALLAIN,Thomas
+3540,BRUNELIERE,Françoise
+3541,DRAPEAU,Jeanne
+3542,ALLAIN,Thomas
+3543,GUIBERT,Pélagie
+3544,ALLAIN,Thomas Marie
+3545,GLORIAU,Marie Rose
+3546,ALLAIN,Victor
+3547,ROUTHIAU,Rose Rosalie
+3548,ALLAIN,Victor Marie Alexis
+3549,YOU,Bernadette Emilienne Armance
+3550,ALLAIN,Yves
+3551,BEGAUD,Marie Magdelaine
+3552,ALLAIRE,?
+3553,FETIVEAU,?
+3554,ALLAIRE,Alexandre
+3555,DUCROCQ,Françoise
+3556,ALLAIRE,Alphonse
+3557,VINET,Augustine
+3558,ALLAIRE,André
+3559,DUGUE,Anne
+3560,ALLAIRE,André
+3561,GARNIER,Jeanne
+3562,HURTAUD,Françoise
+3563,MENUET,Marie Anne Françoise
+3564,ALLAIRE,André
+3565,RAFFIN,Rose
+3566,ALLAIRE,Antoine
+3567,HURTAUD,Marie
+3568,RAPIN,Marie Madeleine
+3569,ALLAIRE,Augustin
+3570,PONTOIZEAU,Marie Anne
+3571,ALLAIRE,Bastien
+3572,FLEURISSON,Perrine
+3573,ALLAIRE,Benjamin Hugues
+3574,BOILAIVE,Lucie
+3575,ALLAIRE,Benoist
+3576,TAUPIER,Anne
+3577,ALLAIRE,Célestin
+3578,BOURCIER,Marie Louise
+3579,ALLAIRE,Célestin
+3580,DOUTEAU,Célestine
+3581,ALLAIRE,Charles
+3582,BELAUD,Françoise
+3583,ALLAIRE,Charles
+3584,DUMESNIL,Gabrielle
+3585,ALLAIRE,Charles
+3586,DUMESNIL,Marie Gabrielle
+3587,LACROIX,Marie Modeste
+3588,PELLETIER,Marie Anne
+3589,ALLAIRE,Charles Damien
+3590,DUPONT,Jeanne Adèle
+3591,ALLAIRE,Charles Louis
+3592,GAY,Françoise Véronique
+3593,ALLAIRE,Charles Louis
+3594,JOUBERT,Henriette
+3595,ALLAIRE,Edmond Gustave
+3596,AMELINE,Marie Julienne
+3597,ALLAIRE,Esprit
+3598,MASSON,Marie Anne Aimée
+3599,ALLAIRE,Esprit Augustin
+3600,HURTAUD (HURTEAU),Suzanne
+3601,ALLAIRE,Esprit Augustin
+3602,HURTEAU,Suzanne
+3603,ALLAIRE,Étienne
+3604,COUDRIAU,Magdeleine Marguerite
+3605,ALLAIRE,Etienne
+3606,ALLAIRE,Félix
+3607,BÉNÉTEAU,Valentine Philomène Marie
+3608,ALLAIRE,Fidèle
+3609,DURANTEAU,Marie Céline Augustine
+3610,ALLAIRE,François
+3611,ALLIEN,Marie Louise
+3612,ALLAIRE,François
+3613,ANGIBAUD,Renée
+3614,ALLAIRE,François
+3615,DAVIEAU,Louise
+3616,ALLAIRE,François
+3617,GILLOT,Marie
+3618,ALLAIRE,François
+3619,JOUBERT,Aimée Marie Pulchérie
+3620,ALLAIRE,François
+3621,MARTIN,Marie
+3622,ALLAIRE,François
+3623,MARTIN,Marie
+3624,ALLAIRE,François
+3625,MEUNIER,M. Henriette
+3626,MOREAU,Anne
+3627,ALLAIRÉ,François
+3628,TOUZEAU,Victorine Françoise
+3629,ALLAIRE,François
+3630,TRICHET,Jeanne
+3631,TRICHET,Jeanne
+3632,ALLAIRE,François Pierre
+3633,JOLLY,Marie Jeanne
+3634,ALLAIRE,François René
+3635,GOURAUD,Charlotte
+3636,ALLAIRE,Gabriel
+3637,GUICHETEAU,Perrine
+3638,ALLAIRE,Gabriel
+3639,RAUTURIER,Renée
+3640,ALLAIRE,Gabriel Florent
+3641,ALLAIRE,Georges
+3642,METAIREAU,Marguerite
+3643,ALLAIRE,Germain
+3644,DELAVAUD,Marie Victoire
+3645,ALLAIRE,Gilles
+3646,MORIN,Charlotte
+3647,ALLAIRE,Guillaume Victor
+3648,BOCQUILLARD,Rose
+3649,ALLAIRE,Henri
+3650,COUGNAUD,Marie-Jeanne
+3651,ALLAIRE,Henri Victor
+3652,LASNONNIER,Geneviève
+3653,ALLAIRE,Honoré
+3654,PEROCHEAU,Adèle Joséphine
+3655,ALLAIRE,J.Baptiste
+3656,AUVINET,Jeanne Modeste
+3657,ALLAIRE,Jacques
+3658,ARRIVÉ,Magdelaine
+3659,ARRIVE,Magdeleine
+3660,BOISDE,Gabrielle
+3661,ALLAIRE,Jacques
+3662,CHARDONNEAU,Marie
+3663,COUTAUD,Marie Jeanne
+3664,ALLAIRE,Jacques
+3665,DUBOIS,Catherine
+3666,DURET,Félicité
+3667,MINAUD,Catherine
+3668,ALLAIRE,Jacques
+3669,RAPIN,Marie
+3670,ALLAIRE,Jacques
+3671,SOULARD,Marie
+3672,THIBAUDEAU,Laurence
+3673,ALLAIRE,Jacques Joseph
+3674,BRANGER,Marie Louise Hyacinthe
+3675,ALLAIRE,Jean
+3676,AUGUIN,Jeanne
+3677,BENOIST,Gabrielle
+3678,BOUET,Martine
+3679,ALLAIRE,Jean
+3680,BRANCARD,Louise
+3681,ALLAIRE,Jean
+3682,BRIDONNEAU,Anne
+3683,ALLAIRE,Jean
+3684,BROSSAUD,Anne
+3685,ALLAIRE,Jean
+3686,CHAIGNEAU,Anne
+3687,CHAUVET,Marie Rose
+3688,CHUPIN,Renée
+3689,COCHARD,Vincende
+3690,COUPRIE,Mathurine
+3691,DRAPRON,Marie Charlotte
+3692,DURANDET,Marie Anne
+3693,ALLAIRE,Jean
+3694,GILLET,Jeanne Victoire
+3695,ALLAIRE,Jean
+3696,GOURAUD,Aimée Catherine Honorée
+3697,ALLAIRE,Jean
+3698,GROLIER,Marie Louise
+3699,GUINEBAUD,Jeanne
+3700,HAY DE LA MARGERAUDIERE,Gabrielle
+3701,HILLAIRET,Marie
+3702,HUVELIN,Marie
+3703,MOUSSION,Jeanne
+3704,PAJAUD,Marie
+3705,ALLAIRE,Jean
+3706,PETITEAU,Adélaïde
+3707,ALLAIRE,Jean
+3708,PLUMET,Jeanne
+3709,SIMONNEAU,Marie
+3710,ALLAIRE,Jean
+3711,TEXIER,Marie
+3712,ALLAIRE,Jean ''Pierre''
+3713,BOUTEILLER,Marie Jeanne
+3714,ALLAIRE,Jean Baptiste
+3715,BERNON,Louise
+3716,ALLAIRE,Jean Baptiste
+3717,BLUTEAU,Marie Bonne
+3718,ALLAIRE,Jean Baptiste
+3719,BONNEAU,Véronique Jeanne
+3720,ALLAIRE,Jean Baptiste
+3721,CAIVEAU,Adélaïde Sévère
+3722,PENARD,Magdeleine
+3723,ALLAIRE,Jean Baptiste
+3724,PERRAUDEAU,Marie Jeanne
+3725,ALLAIRE,Jean Baptiste
+3726,REMBAUD,Jeanne Augustine
+3727,ALLAIRE,Jean Baptiste Henri Firmin
+3728,BLETEAU,Léonie Marie Mélanie
+3729,ALLAIRE,Jean Charles
+3730,MERCIER,Marie Anne
+3731,ALLAIRE,Jean François
+3732,ROUHAULT,Marguerite
+3733,ALLAIRE,Jean François
+3734,SORIN,Marie Anne
+3735,ALLAIRE,Jean Louis
+3736,BONNEAU,Aimée
+3737,ALLAIRE,Jean Louis
+3738,BOUCHEREAU,Louise Anastasie
+3739,ALLAIRE,Jean Louis
+3740,BOURMAUD,Marie Eléonore
+3741,ALLAIRE,Jean Louis Damien
+3742,DURANTEAU,Emilie Félicité Angèle
+3743,ALLAIRE,Jean Mathurin
+3744,MECHINEAU,Marie Marguerite
+3745,ALLAIRE,Jean Nicolas
+3746,BIAILLE,Marie Aimé
+3747,ALLAIRE,Jean Pierre
+3748,BLAIS,Marie
+3749,ALLAIRE,Jean Pierre
+3750,MARTINEAU,Marie Rose
+3751,ALLAIRE,Jean Pierre
+3752,NEAU,Jeanne
+3753,ALLAIRE,Jean Pierre
+3754,TESSIER,Jeanne
+3755,ALLAIRE,Joseph
+3756,GRELLIER,Rose
+3757,ALLAIRE,Joseph
+3758,HERBRETEAU,Pélagie
+3759,ALLAIRE,Joseph
+3760,HUGUET,Marie Anne
+3761,ALLAIRE,Joseph
+3762,MOSNIER,Catherine
+3763,ALLAIRE,Joseph
+3764,PAVAGEAU,Rose
+3765,ALLAIRE,Joseph Alexandre
+3766,DEMORISSON,Marie Anne Honorée Charlotte
+3767,ALLAIRE,Joseph François
+3768,ANGIBAUD,Jeanne
+3769,ALLAIRE,Joseph René
+3770,BARDON,Jeanne Émilie
+3771,ALLAIRE,Julien
+3772,COUTAUD,Marie Céline
+3773,PERVIER,Marie Philomène
+3774,ALLAIRE,Julien
+3775,ROY,Jeanne
+3776,ALLAIRE,Léon Edmond Firmin
+3777,GAUVRIT,Marie Olive Henriette
+3778,ALLAIRE,Louis
+3779,AUDUREAU,Jacquette
+3780,BONNEAU,Louise
+3781,ALLAIRE,Louis
+3782,BONNEAU,Louise Rose
+3783,BORLETEAU,Marguerite
+3784,ALLAIRE,Louis
+3785,BROCHARD,Jeanne
+3786,CHASTELIER,Louise
+3787,ALLAIRE,Louis
+3788,CHAUVET,Jeanne
+3789,ALLAIRE,Louis
+3790,GUIBERT,Marie
+3791,GUILLONNEAU,Marie
+3792,ALLAIRE,Louis
+3793,LOGEAIS,Bonne
+3794,LOGEAIS,Bonne
+3795,MASSONNEAU,Marie
+3796,ALLAIRE,Louis
+3797,PIVETEAU,Marie
+3798,PIVETEAU,Perrine
+3799,ALLAIRE,Louis
+3800,RABALLAND,Rose Louise Hortense
+3801,RABILLE,Catherine
+3802,ALLAIRE,Louis
+3803,RABILLER,Marie
+3804,RABILLER,Marie
+3805,ALLAIRE,Louis Alexandre
+3806,COUTURIER,Marguerite
+3807,ALLAIRE,Louis André
+3808,ROBIN,Jeanne Mélanie
+3809,ALLAIRE,Louis Clément
+3810,GOURSON,Eulalie Victoire Magdeleine
+3811,ALLAIRE,Louis Emile Auguste
+3812,CHAIGNE,Marie Henriette
+3813,ALLAIRE,Marie Louis
+3814,CAUNEAU,Marie Genevieve
+3815,ALLAIRE,Martin
+3816,MINAUD,Jeanne
+3817,ALLAIRE,Mathurin
+3818,BAUDOUIN,Céleste
+3819,PINETEAU,Jacquette
+3820,RAUTUREAU,Mathurine
+3821,ALLAIRE,Maurice
+3822,GUILLET,Perrine
+3823,ALLAIRE,Pierre
+3824,ANGIBAUD,Marie
+3825,ALLAIRE,Pierre
+3826,BÉTHYS,Marie Rose
+3827,ALLAIRE,Pierre
+3828,BILLON,Jeanne
+3829,ALLAIRE,Pierre
+3830,BLETEAU,Marie Henriette
+3831,ALLAIRE,Pierre
+3832,BOISSEAU,Jeanne
+3833,ALLAIRE,Pierre
+3834,BONNIN,Marie Magdeleine
+3835,ALLAIRE,Pierre
+3836,BOUHIER,Marie Aimée
+3837,BOULINEAU,Marie
+3838,ALLAIRE,Pierre
+3839,BOURASSEAU,Jeanne
+3840,BOURCIER,Perrine
+3841,ALLAIRE,Pierre
+3842,DELAVAUD,Mathurine
+3843,ALLAIRE,Pierre
+3844,DENOYER,Françoise
+3845,ALLAIRE,Pierre
+3846,DROUET,Jeanne
+3847,ALLAIRE,Pierre
+3848,GABORIAU,Jeanne
+3849,GILLET,Marie
+3850,GROIZARD,Jeanne Marie
+3851,ALLAIRE,Pierre
+3852,GROLLET,Félicité
+3853,GUICHETEAU,Marguerite
+3854,ALLAIRE,Pierre
+3855,HERBERT,Marie
+3856,ALLAIRE,Pierre
+3857,LELIEVRE,Marie
+3858,LUCAS,Marie-Rose
+3859,ALLAIRE,Pierre
+3860,MABIT,Marie Rose
+3861,ORIEUX,Ursule Marie
+3862,ALLAIRE,Pierre
+3863,PINSON,Clarisse Marie
+3864,ALLAIRE,Pierre
+3865,RENAUD,Marguerite
+3866,ROUAULT,Marguerite
+3867,ALLAIRE,Pierre
+3868,YOU,Mathurine
+3869,ALLAIRE,Pierre Alexandre
+3870,CROCHET,Marie Emilie Mélanie
+3871,RICOLLEAU,Aimée Rose Victoire
+3872,ALLAIRE,Pierre André
+3873,LHERITEAU,Jeanne
+3874,ALLAIRE,Pierre Augustin
+3875,COECHEAU,Marguerite
+3876,PINEAU,Marie
+3877,ALLAIRE,Pierre Charles Léon
+3878,JUILLET,Marie Victorine
+3879,ALLAIRE,Pierre Henry
+3880,TOUZEAU,Marie Jeanne
+3881,ALLAIRE,Pierre Jacques
+3882,DURAND,Clémence
+3883,ALLAIRE,Pierre Joseph
+3884,BOURCIER,Marie Anne
+3885,GAY,Marie Aimée
+3886,ALLAIRE,Pierre Mathurin Raymond
+3887,ARTUS,Lodoiska Aurélie Sévère
+3888,ALLAIRE,Pierre Paul
+3889,ORIEUX,Geneviève Ursule
+3890,ALLAIRE,Prudent
+3891,TARDY,Marie Anne
+3892,ALLAIRE,René
+3893,DESLANDES,Catherine
+3894,ALLAIRE,René
+3895,GRELIER,Geneviève
+3896,ALLAIRE,René
+3897,HERVOUET,Clémence
+3898,ALLAIRE,René
+3899,PIVETEAU,Marie
+3900,RAFFIN,Adélaïde
+3901,ALLAIRE,René
+3902,SAUNIER,Jeanne
+3903,ALLAIRE,Réverend
+3904,GUERIN,Vincende
+3905,ALLAIRE,Sébastien
+3906,FLURISON,Perrine
+3907,ALLAIRE,Victor Léon
+3908,CHESSE,Marie Magdelaine
+3909,ALLAIRE,Victor Léon
+3910,CHESSÉ,Marie Magdelaine
+3911,ALLAIRE,Vincent
+3912,DROUET,Jeanne
+3913,ALLAIS,François
+3914,COINDREAU,Françoise
+3915,ALLAIS,Jacques
+3916,ROBARD,Françoise
+3917,ALLAIS,Jean
+3918,DELAPREE,Elisabeth
+3919,FRIOU,Marie Madelaine
+3920,LABRUNE,Marie Anne
+3921,NAULEAU,Jeanne
+3922,SAUVIN,Marie
+3923,TESSIER,Marie
+3924,ALLAIS,Mathurin
+3925,BOUVRON,Marguerite
+3926,ALLAIS,Pierre
+3927,GUERESL,Catherine
+3928,THOMAS,Jeanne
+3929,ALLAIS,René
+3930,COUILLON,Marie
+3931,ALLAIZEAU,Aimé Auguste
+3932,BOUET,Baptistine Augustine Aglaé
+3933,ALLAIZEAU,Aimé Augustin
+3934,COUTANCEAU,Marie Louise Victorine
+3935,ALLAIZEAU,André
+3936,FAUCHER,Catherine
+3937,ALLAIZEAU,Auguste Aimé
+3938,CAIMEAU,Victoire Olive
+3939,ALLAIZEAU,Benjamin
+3940,LOUINEAU,Elise
+3941,ALLAIZEAU,Charles
+3942,RIDIEE,Marie
+3943,ALLAIZEAU,Clément
+3944,RIPAUD,Marie Anne
+3945,ALLAIZEAU,Etienne
+3946,LEDOUX,Marie
+3947,ALLAIZEAU,Jacques
+3948,BOUARD,Renée
+3949,ALLAIZEAU,Jacques
+3950,DURANDET,Marie
+3951,GENUSSON,Marie
+3952,RENAUDEAU,Renée
+3953,ALLAIZEAU,Jacques François
+3954,JOUSSAUME,Marie Magdelaine
+3955,ALLAIZEAU,Jean
+3956,GUERIT,Marie
+3957,ALLAIZEAU,Louis
+3958,BARADEAU,Louise
+3959,ALLAIZEAU,Louis Benjamin
+3960,PHELIPPEAU,Rose
+3961,ALLAIZEAU,Marie Auguste
+3962,TRIAU,Aimée Joséphine
+3963,ALLAIZEAU,Philippe
+3964,MARTINEAU,Marguerite Rosalie
+3965,ALLAIZEAU,Pierre
+3966,ARDOUIN,Angèle
+3967,BUTON,Hortense
+3968,CRESPEAU,Louise
+3969,ALLAIZEAU,Pierre
+3970,MATHE,Louise
+3971,MATHE,Marie Rose
+3972,ALLAIZEAU,Pierre Philippe
+3973,MAURIT,Jeanne
+3974,ALLAIZEAU,Pierre Philippe
+3975,ROCARD,Marie Rose Estelle
+3976,ALLAIZEAU,René
+3977,ALLAIZEAU,Samuel
+3978,REMAUD,Marie-Louise
+3979,ALLAIZEAU,Simon
+3980,ALLAIZEAU,Simon
+3981,TULLEAU,Jacquette
+3982,ALLAN,Pierre
+3983,BELAUD,Marie
+3984,ALLAND,Constant Philippe
+3985,GRISON,Zélie Adeline Françoise
+3986,ALLAND,Eugène Constant
+3987,BECCOT,Marie Lucie Eugénie
+3988,ALLAND,Jean
+3989,REMBAUD,Marie
+3990,ALLAND,Julien
+3991,ANGIBAUD,Ursule Louise
+3992,ALLAND,Pierre
+3993,GODIN,Marie
+3994,ALLAND,Pierre
+3995,GRENET,Jeanne
+3996,ALLANT,Pierre Eugène
+3997,GRISON,Victoire Louise
+3998,ALLARD,Adolphe
+3999,RIBRAUD,Esther
+4000,ALLARD,Alexandre
+4001,BESSIGNOL,Marie Célina
+4002,ALLARD,Alexandre
+4003,DOUILLARD,Jeanne
+4004,ALLARD,Alexis
+4005,BAUDOUIN,Marie
+4006,ALLARD,André
+4007,DUGAST,Renée
+4008,ALLARD,André
+4009,HERBERT,Jeanne
+4010,LANDAS,Marie
+4011,LEFORT,Jeanne
+4012,ALLARD,André Joachim
+4013,CHANTREAU,Marie
+4014,ALLARD,André Joachim
+4015,ROBIN,Marie Madeleine
+4016,ALLARD,André Vincent
+4017,PALVADEAU,Catherine Judith
+4018,ALLARD,Anthoine
+4019,BREQUIN,Renée
+4020,ALLARD,Anthoine
+4021,DELAVAU,Perrine
+4022,ALLARD,Antoine
+4023,BLANDIN,Charlotte
+4024,ALLARD,Antoine
+4025,BLANDIN,Marie
+4026,ALLARD,Antoine
+4027,BOURDET,Marie Françoise Pélagie
+4028,ALLARD,Antoine
+4029,CHRETIEN,Jeanne
+4030,ALLARD,Charles
+4031,LEVEILLÉ,Françoise
+4032,ALLARD,Charles
+4033,MOTAIZE,Catherine
+4034,MOTHAIS,Catherine
+4035,TAULPIER,Anne
+4036,ALLARD,Charles André
+4037,GUERIN,Marie Rose
+4038,ALLARD,Claude
+4039,DUVAUD,Charlotte
+4040,TESSIER/TEXIER,Marie
+4041,ALLARD,Constant Louis
+4042,AUGEREAU,Mélanie Arsène
+4043,SACHOT,Henriette Marie Victoire
+4044,ALLARD,Constantin Théophile
+4045,PEAULT,Marie Augustine
+4046,ALLARD,Emile Baptiste Marie
+4047,GOURAUD,Agathe Marie Anastasie
+4048,ALLARD,Etienne
+4049,CAILLAUD,Catherine
+4050,ALLARD,Etienne
+4051,EPIARD,Marie
+4052,GORGUEREAU,Marie
+4053,ALLARD,Eugène
+4054,AUGER,Justine
+4055,ALLARD,François
+4056,BOURGET,Marie
+4057,ALLARD,François
+4058,BREVET,Anne
+4059,ALLARD,François
+4060,CHENU,Marie
+4061,ALLARD,François
+4062,DRAPEAU,Marie
+4063,JOLLINIER,Jeanne
+4064,ALLARD,François
+4065,LE REDE,Jeanne
+4066,ALLARD,François
+4067,LEVESQUE,Catherine
+4068,ALLARD,François
+4069,MANDIN,Marguerite
+4070,RIVIERE,Louise
+4071,ALLARD,François
+4072,RIVIERE,Marie
+4073,ALLARD,François
+4074,ROUSSEAU,Joséphine
+4075,ROYER,Françoise
+4076,ALLARD,François
+4077,ROYER,Marie
+4078,ALLARD,François
+4079,SABLAIS,Marie
+4080,SOUCHARD,Marie
+4081,VACHON,Françoise
+4082,ALLARD,François Alexy
+4083,ALLARD,François Jean B
+4084,FAVREAU,Esther M Anne
+4085,ALLARD,Frédéric Pierre
+4086,BERTET,Eulalie Adrienne
+4087,ALLARD,Guillaume
+4088,BRETET,Mathurine
+4089,CHAUVITEAU,Hilaire
+4090,ALLARD,Henri
+4091,AYREAU,Jeanne
+4092,ALLARD,Henri René
+4093,THOUZEAU,Marie Anne
+4094,TOUZEAU,Marie Anne
+4095,ALLARD,Henry
+4096,LETARD,Jacquette
+4097,ALLARD,Henry
+4098,MERLET,Susanne
+4099,SAUVAGET,Marguerite
+4100,ALLARD,Hilaire
+4101,METAYRON,Marguerite
+4102,ALLARD,J.François
+4103,YOU,M.Françoise
+4104,ALLARD,J.Louis
+4105,CARTRON,M.Louise
+4106,JAUD,Louise
+4107,TRAVERT,M.Augustine Cécile
+4108,ALLARD,Jacque
+4109,ROTURIER,Perrine
+4110,ALLARD,Jacques
+4111,BLANDIN,Louise
+4112,ALLARD,Jacques
+4113,BREMAUD,Françoise
+4114,BRIANCEAU,Catherine
+4115,ALLARD,Jacques
+4116,BROCHOUERE,Catherine
+4117,CHARBONNEL,Rose Emilie Olympe
+4118,CHARRIER,Jacquette
+4119,ALLARD,Jacques
+4120,EGONNIERE,Rose
+4121,ESGONNIÈRE,Rose
+4122,ALLARD,Jacques
+4123,GALIOT,Marie
+4124,GODET,Marie
+4125,MAILLIER,Julienne
+4126,MAYNET,Marie Anne
+4127,MENANTEAU,Claudine
+4128,ALLARD,Jacques
+4129,MENEUX,Marie
+4130,MERRIÈRE,Jeanne
+4131,RICHARD,Marie Anne
+4132,ROUSSEAU,Jeanne
+4133,ALLARD,Jan
+4134,PAYTRÉ,Catherine
+4135,ALLARD,Jean
+4136,AIME,Françoise
+4137,ALLARD,Jean
+4138,AVOUREAU,Françoise
+4139,ALLARD,Jean
+4140,BIRAUD,Marie Perrine
+4141,BOBIN,Françoise
+4142,BOUDAUD,Perrine
+4143,ALLARD,Jean
+4144,BOUSSEAU,Marie Françoise
+4145,ALLARD,Jean
+4146,BROSSET,Julienne
+4147,CHAILLÉ,Gabrielle
+4148,ALLARD,Jean
+4149,CHENU,Suzanne
+4150,ALLARD,Jean
+4151,DÉNÉCHEAU,Jeanne
+4152,DIBON,Catherine
+4153,ALLARD,Jean
+4154,DOISNEAU,Thérèse Henriette
+4155,DUGUÉ,Anne
+4156,FERRET,Marie Rose
+4157,GELOT,Françoise
+4158,GIRAULT,Marie
+4159,ALLARD,Jean
+4160,GUERIN,Jeanne Louise
+4161,ALLARD,Jean
+4162,GUICHARD,Françoise
+4163,GUICHARD,Françoise
+4164,GUILLOT,Ozanne
+4165,JAMON,Marguerite
+4166,LABORIEUX,Rose
+4167,LOYRET,Marie
+4168,ALLARD,Jean
+4169,MANCEAU,Marie
+4170,ALLARD,Jean
+4171,MANCEAU,Marie Anne
+4172,ALLARD,Jean
+4173,MERLAND,Françoise
+4174,NEAU,Louise
+4175,ALLARD,Jean
+4176,PENOTEAU,Marie
+4177,PESNEAU,Marie
+4178,PESTRÉ,Catherine
+4179,RAISON,Jeanne
+4180,ALLARD,Jean
+4181,RIBOT,Marie-Rose
+4182,ALLARD,Jean
+4183,SUAULT,Mathurine
+4184,TILLET,Margueritte
+4185,TUAUD,Perrine
+4186,VALLAIN,Marie
+4187,ALLARD,Jean André Claude
+4188,GLORIA,Marie Cécile
+4189,ALLARD,Jean Baptiste
+4190,GOURAUD,Marie
+4191,ALLARD,Jean Baptiste
+4192,GOURAUD,Marie Louise
+4193,ALLARD,Jean Baptiste
+4194,LITOU,Rosalie
+4195,ALLARD,Jean Baptiste
+4196,MABIT,Marie Louise
+4197,ALLARD,Jean Baptiste
+4198,PIVETEAU,Marguerite
+4199,ALLARD,Jean Emile
+4200,MONNIER,Philomène
+4201,ALLARD,Jean Jacques
+4202,FALLOURD,Marie
+4203,ALLARD,Jean Marie
+4204,FONTENEAU,Cécile
+4205,ALLARD,Jean Marie
+4206,FONTENEAU,Joséphine
+4207,ALLARD,Jehan
+4208,FALLOURD,Jehanne
+4209,ALLARD,Jehan
+4210,GIRAUD,Catherine
+4211,PIGEON,Laurentine
+4212,RENAUDIN,Jehanne
+4213,ALLARD,Jehan
+4214,VERDON,Barbe
+4215,ALLARD,Joseph
+4216,MERAND,Perrine
+4217,ALLARD,Joseph Auguste
+4218,AUDET,Julie
+4219,ALLARD,Joseph François
+4220,HULLIN,Marie Anne
+4221,POIRON,Marie
+4222,ALLARD,Joseph Olivier
+4223,SOUZEAU,Marie Catherine
+4224,ALLARD,Joseph Raymond
+4225,DAVIERE,Elisabeth Maguerite Marie Louise
+4226,ALLARD,Julien
+4227,BOUSSEAU,Marie Modeste
+4228,ALLARD,Julien
+4229,NEAU,Françoise
+4230,ALLARD,Julien
+4231,RICHARD,Louise
+4232,ALLARD,L. J.Baptiste
+4233,LAURENT,M.Madeleine Jeanne
+4234,ALLARD,L. J.Baptiste
+4235,MACQUIGNEAU,M.Rose
+4236,MIGNONNEAU,M.Jeanne Mélanie
+4237,ALLARD,Laurent
+4238,MENAGER,Claire
+4239,ALLARD,Léonard
+4240,GERMON,Nicolle
+4241,ALLARD,Léonard
+4242,HERVE,Renée
+4243,ALLARD,Louis
+4244,ALLARD,Eugénie Marguerite
+4245,ALLARD,Louis
+4246,BALLANGER,Jeanne
+4247,ALLARD,Louis
+4248,GROLLEAU,Naise
+4249,ALLARD,Louis
+4250,MARTEL,Marie Hélène
+4251,ALLARD,Louis
+4252,PARION,Magdeleine
+4253,ALLARD,Louis
+4254,PENOTTEAU,Jeanne
+4255,SOULLET,Jeanne
+4256,ALLARD,Louis Alexis
+4257,SOURISSEAU,Marie Marguerite
+4258,ALLARD,Louis Emile
+4259,JAUNET,Marie Célestine
+4260,ALLARD,Luc
+4261,VEILLON,Françoise
+4262,ALLARD,M
+4263,POIRIER,F
+4264,ALLARD,Marie Eugène
+4265,POISBELAUD,Mélanie Françoise
+4266,ALLARD,Marie Louis
+4267,LIGER,Marie Mélina Victorine
+4268,ALLARD,Mathurin
+4269,BONNIER,Françoise
+4270,BOUCHET,Jeanne
+4271,CHAILLOLLEAU,Jeanne
+4272,ALLARD,Mathurin
+4273,VERDEAU,M Magdeleine
+4274,ALLARD,Michel
+4275,CHENIAU/CHEURIAU?,Françoise
+4276,COUERON,Catherine
+4277,PIERRE,Jeanne
+4278,POIRIER,Françoise
+4279,ALLARD,Michel
+4280,POUZIN,Marguerite
+4281,PURSEAULT,Hilaire
+4282,ALLARD,Michel
+4283,SUAUDEAU,Hilaire
+4284,SUIRE,Françoise
+4285,ALLARD,Nicolas
+4286,COUTHURIER,Marie
+4287,COYRIER,Jacquette
+4288,ALLARD,Nicolas
+4289,GOBIN,Jacquette
+4290,ROBINEAU,Charlotte
+4291,TOMAZEAU,Louise
+4292,ALLARD,P ?
+4293,GOYAUD,Jehanne
+4294,ALLARD,Pascal Joseph Emmanuel
+4295,POUPIN,Marie Adèle Florestine
+4296,ALLARD,Pierre
+4297,ANDRE,Marie
+4298,AVRIL,Marie
+4299,BATAILLAUD,Marie
+4300,BAUDRY,Jeanne
+4301,BELIAUD,Françoise
+4302,BELLUTEAU,Marie
+4303,ALLARD,Pierre
+4304,BESLEAU,Françoise
+4305,ALLARD,Pierre
+4306,BESSON,Léontine Adélaïde
+4307,ALLARD,Pierre
+4308,BODIN,Perrine
+4309,ALLARD,Pierre
+4310,BONNIN,Marie
+4311,ALLARD,Pierre
+4312,BOUCHAGE,Jeanne
+4313,BOUNIN,Perette
+4314,ALLARD,Pierre
+4315,BOUSSEAU,Marie Philomène
+4316,BOUTIN,Marie Jacquette
+4317,ALLARD,Pierre
+4318,DESFONTAINES,Anne
+4319,DORIN,Magdelaine
+4320,ALLARD,Pierre
+4321,DOUILLARD,Reine
+4322,ERAUDIERE,Marie
+4323,ESMEREAU,Louise
+4324,GIRARD,Jeanne
+4325,JOUIN,Marie
+4326,LEMOINE,Françoise
+4327,ALLARD,Pierre
+4328,LESIMPLE,Jeanne
+4329,MARTIN,Renée
+4330,ALLARD,Pierre
+4331,OUVRARD,Philomène
+4332,ALLARD,Pierre
+4333,PAQUEREAU,Jeanne
+4334,ALLARD,Pierre
+4335,PERRIN,Henriette Perrine
+4336,ALLARD,Pierre
+4337,RAMBAUD,Perrine
+4338,ALLARD,Pierre
+4339,RAVARD,Jeanne
+4340,ALLARD,Pierre
+4341,RICHARD,Marie
+4342,ALLARD,Pierre
+4343,ROGER,Sophie
+4344,TARIER,Renée
+4345,VINSONNEAU,Marie
+4346,ALLARD,Pierre
+4347,VINSONNEAU,Marie
+4348,ALLARD,Pierre Antoine
+4349,JOUSSERANT,Marie Monique
+4350,ALLARD,Pierre Etienne
+4351,HERBERT,Marie Louise
+4352,PERROCHEAU,Marie Louise Esther
+4353,ALLARD,Pierre Jean Baptiste
+4354,DROUET,Eugénie
+4355,ALLARD,Pierre Jean Léon
+4356,GRIVEAU,Adeline Vitaline
+4357,ALLARD,Pierre Louis
+4358,RIGAUD,Madeleine
+4359,ALLARD,Pierre Raphaël
+4360,DESIR,Julie Marie
+4361,ALLARD,René
+4362,BIBARD,Renée
+4363,ALLARD,René
+4364,BIRON,Françoise
+4365,BLAIZEAU,Renée
+4366,BOURASSEAU,Suzanne
+4367,ALLARD,René
+4368,CAILLAUD,Modeste
+4369,CLOPEAU,Marie
+4370,ALLARD,René
+4371,ERVOUET,Madeleine
+4372,ALLARD,René
+4373,FILLATRE,Marie
+4374,ALLARD,René
+4375,GOURAUD,Julienne
+4376,ALLARD,René
+4377,GUERY,Jeanne
+4378,ALLARD,René
+4379,HAIRAULT,Jeanne
+4380,ALLARD,René François
+4381,GAUTRET,Marie
+4382,ALLARD,Théophile Alexandre Joseph
+4383,MAURICE,Maria Rosalie
+4384,ALLARD,Thomas
+4385,GIRARD,Jeanne
+4386,ALLARD,Thomas
+4387,NICOLAZEAU,Jeanne
+4388,PERRAU,Jeanne
+4389,RAVIRON,Perine
+4390,ALLART,Estienne
+4391,BERNARD,Suzanne Rose
+4392,ALLAUME,Jacques
+4393,LE POU,Marie
+4394,ALLAY,Jacques
+4395,COUTARD,Jeanne
+4396,ALLAY,Mathieu
+4397,BLAY,Marie
+4398,ALLAYS,Benjamin
+4399,BESNARD,Anne
+4400,ALLAYZEAU,Jacques
+4401,PETITEAU,Marianne
+4402,ALLE,Mathieu
+4403,BURNET,Louise
+4404,ALLEAU,Antoine
+4405,GACHIGNARD,Marie Françoise
+4406,ALLEAU,Florentin Auguste Alphonse
+4407,ANGIBAUD,Clémentine Eugénie Louise
+4408,ALLEAU,P.Louis
+4409,PETREAU,Jeanne M.Louise
+4410,ALLEAU,Pierre
+4411,CHABOT,Cécile
+4412,ALLEAU,Pierre Louis
+4413,JAGUENEAU,Victorine Marie Augustine
+4414,ALLEAUME,Claude
+4415,BOUET,Marguerite
+4416,ALLEAUME,Claude
+4417,BUREAU,Marguerite
+4418,ALLEAUME,Eugène Aimé
+4419,GUEFFIER,Marie Françoise Désirée
+4420,ALLEAUME,François
+4421,GORY,Renée
+4422,ALLEAUME,François
+4423,LENCREVE,Jeanne
+4424,ALLEAUME,François René
+4425,JAUNET,Jeanne Julienne Catherine
+4426,ALLEAUME,Hylaire
+4427,MOTHAIS,Louise
+4428,ALLEAUME,Jacque
+4429,DEBIEN,Marie
+4430,ALLEAUME,Jacques
+4431,BOUCARD,Magdelaine
+4432,CHARRE,Françoise
+4433,ALLEAUME,Jacques
+4434,DE HERY,Marie
+4435,GIRAUDEAU,Marie
+4436,JODIER,Anne
+4437,ALLEAUME,Jacques
+4438,MOUSSION,Marie
+4439,PASQUEREAU,Michelle
+4440,POUPONNOT,Louise
+4441,ALLEAUME,Jacques
+4442,TESSON,Marie Jeanne
+4443,ALLEAUME,Jean
+4444,BOILIVEAU,Françoise
+4445,ALLEAUME,Jean
+4446,DESLANDES,Louise
+4447,ALLEAUME,Jean
+4448,DREILLET,Marie-Jeanne
+4449,GAUDIN,Marie
+4450,GRELIER,Marie
+4451,MASSE,Marie
+4452,ALLEAUME,Jean
+4453,MOREAU,Françoise
+4454,ALLEAUME,Jean
+4455,MOREAU,Françoise
+4456,ALLEAUME,Jean
+4457,POISSONNET,Louise
+4458,ALLEAUME,Jean
+4459,RICHE,Jeanne
+4460,ALLEAUME,Jean François
+4461,BUTAUD,Geneviève
+4462,ALLEAUME,Jean Pierre Aimé
+4463,MIGNE,Mari Louise
+4464,ALLEAUME,Jean-Baptiste
+4465,GENDRONNEAU,Marie-Anne Bénigne
+4466,ALLEAUME,Jehan
+4467,POUSSINEAU,Marie
+4468,ALLEAUME,Julien
+4469,RIFAULT,Catherine
+4470,ALLEAUME,Laurent
+4471,ALLEAUME,Françoise
+4472,ALLEAUME,Louis
+4473,BAZIREAU,Catherine
+4474,ALLEAUME,Louis
+4475,BAZIREAU,Catherine
+4476,BERTHOME,Marie
+4477,DELAUNAY,Catherine
+4478,ALLEAUME,Louis Prosper Eugène
+4479,PAJOT,Adèle Augustine Angèle
+4480,ALLEAUME,Mathurin
+4481,CASSINOT,Mathurine
+4482,DELAIRE,Françoise
+4483,ALLEAUME,Pierre
+4484,FILLUZEAU,Marie Aimée
+4485,ALLEAUME,Pierre
+4486,FILLUZEAU,Marie Aimée
+4487,GUIET,Renée
+4488,LAIDET,Catherine
+4489,RICHER,Marie-Jeanne
+4490,ALLEAUME,Jullien
+4491,PEPIN,Marie
+4492,ALLEAUME,Pierre Auguste
+4493,ROUX,Marie Rosalie
+4494,ALLEAUME,Pierre Fidèle Edouard
+4495,SIGOGNEAU,Césarine Augustine Elisabeth
+4496,ALLEAUME,Pierre Julien
+4497,GELLOT,Marie Modeste
+4498,ALLEAUME,René
+4499,BOUTAUD,Catherine
+4500,ALLEAUME,Venant
+4501,BOIVIN,Catherine
+4502,ALLEBERT,Allexandrine
+4503,HAY,Pierre
+4504,ALLEBERT,François
+4505,BERTONNEAU,Mathurine
+4506,BUCHAUD,Marie
+4507,ALLEBERT,Jacques
+4508,BOUTAILLER,Marie
+4509,ALLEBERT,Jacques
+4510,CIRE,Françoise
+4511,GOJON,Marguerite
+4512,ALLEBERT,Jean
+4513,BESLY,Mathurine
+4514,ALLEBERT,Jeanne
+4515,BIRROT,Antoine
+4516,ALLEBERT,Jehan
+4517,TARDE,Suzanne
+4518,ALLEBERT,Louis
+4519,COUTAUT,Marie
+4520,ALLEBERT,Louis
+4521,SOULLET,Guillemette
+4522,ALLEBERT,Louis Jacques
+4523,LIÈVRE,Jeanne
+4524,ALLEBERT,Pierre
+4525,CALTEN,Perrine
+4526,ALLEBERT,Pierre
+4527,CHAIGNEAU,Perrine
+4528,COURRION,Nicolle
+4529,DAVIAUD,Marie Magdelaine
+4530,ALLEBERT,Pierre
+4531,DEGRANGE,Elisabeth
+4532,ALLEBERT,Pierre
+4533,DELAVAUX,Marianne
+4534,MACHEREAU,Marie
+4535,ALLEBERT,Pierre
+4536,RABAUD,Louise
+4537,ALLEBERT,Pierre
+4538,SAUSSEAUX,Marie
+4539,ALLÈGRE,Jean Raymond
+4540,RIGAUDEAU,Françoise
+4541,ALLEGRE,Michel
+4542,TERRIERE,Elizabeth Marie
+4543,ALLÈGUEDE,Jean
+4544,FRANCHETEAU,Marie Victoire
+4545,ALLELE,Louis
+4546,GALA,Elisabeth
+4547,ALLELIS,Jacques
+4548,GIREAUD,Françoise Louise
+4549,ALLELY,Jean
+4550,MARTIN,Léontine
+4551,ALLELY,Louis
+4552,CAILTON,Françoise
+4553,ALLELY,Louis
+4554,GALAT,Louise
+4555,ALLEMAND,Alexandre
+4556,GUERIN,Célestine
+4557,ALLEMAND,Armand
+4558,BONNET,Henriette
+4559,ALLEMAND,Augustin
+4560,CHAILLOU,Mélanie
+4561,ALLEMAND,Augustin
+4562,VINET,Jeanne
+4563,ALLEMAND,Etienne
+4564,COUTAUD,Jeanne
+4565,ALLEMAND,Etienne
+4566,DUPONT,Marie
+4567,ALLEMAND,François Auguste
+4568,ROY,Eléonore
+4569,ALLEMAND,Hans Jacob
+4570,PENIGAULT,Claudine
+4571,BILLAUD,Renée Marthe
+4572,ALBERT,Charles
+4573,BRUNELIERE,Louise
+4574,ALBERT,Charles
+4575,CHAIGNEAU,Jeanne
+4576,ALBERT,Charles
+4577,DOUSSIER,Marie
+4578,ALBERT,Charles
+4579,DROUET,Henriette
+4580,ALBERT,Charles
+4581,GRATON,M. Rose
+4582,ALBERT,Charles
+4583,GUIBOT,Marie-Françoise
+4584,ALBERT,Charles
+4585,GUICHETEAUD,Jeanne
+4586,RENAUDEAU,Marie
+4587,ALBERT,Charles
+4588,RICHARD,Marie
+4589,ALBERT,Charles Adolphe
+4590,GIRARD,Reine Marie Valentine
+4591,ALBERT,Charles Esprit
+4592,JADEAU,Jeanne Modeste
+4593,ALBERT,Charles François
+4594,BARBAUD,Radégonde
+4595,ALBERT,Charles François
+4596,LEVRON,Félicité
+4597,RINEAU,Marie
+4598,ALBERT,Charles Hyppolite
+4599,PELLETIER,Rose Louise Philomène
+4600,ALBERT,Charles Hyppolitte
+4601,RAGONIT,Marie Rose Sophie
+4602,ALBERT,Charles Louis
+4603,GRIMAUD,Adeline Eugénie Mélanie
+4604,ALBERT,Charles René
+4605,RICHARD,Marie
+4606,ALBERT,Charles Théophile
+4607,GRENEAU,Joséphine
+4608,ALBERT,Clément Louis
+4609,MARSAULT,Marie Rose
+4610,ALBERT,Constant
+4611,BARBEREAU,Marie Rose
+4612,ALBERT,Constant Charles Maximin
+4613,ROUSSEAU,Aimée Louise
+4614,ALBERT,Edouard
+4615,DOUILLARD,Zélie
+4616,ALBERT,Elie
+4617,DOUILLARD,Euphrosine
+4618,ALBERT,Emile
+4619,GOBIN,Marie Gustine
+4620,ALBERT,Emile Gustave Hippolyte
+4621,CHAMPAUD,Marie Louise Célestine
+4622,ALBERT,Ernest
+4623,PAVAGEAU,Marguerite
+4624,ALBERT,Esprit
+4625,BECHAUD,Marie Mélanie
+4626,CHEVALLEREAU,Marie Henriette
+4627,ALBERT,Esprit
+4628,GAUTIER,Modeste
+4629,ALBERT,Esprit
+4630,SAUVION,Jeanne
+4631,ALBERT,Esprit Lucien
+4632,CHEVALLEREAU,Marie Henriette Philomène
+4633,ALBERT,Esprit Lucien
+4634,CHEVALLEREAU,Marie Henriette Philomène
+4635,ALBERT,Etienne
+4636,ASTANEAU,Marie Aimée
+4637,ALBERT,Etienne
+4638,GRIVET,Jeanne
+4639,ALBERT,Etienne
+4640,GUIGNARD,Marguerite
+4641,ALBERT,Etienne
+4642,GUINNEMENT,Jacquette
+4643,ALBERT,Etienne
+4644,MOSSION,Suzanne
+4645,ALBERT,Etienne François
+4646,ALBERT,Eugène René
+4647,CORNUAU,Marie Rosalie
+4648,ALBERT,Félix
+4649,BAUDRY,Philomène Emélie
+4650,ALBERT,Félix
+4651,GUIGNARD,Adelina
+4652,NOMMET,Céleste
+4653,ALBERT,Félix
+4654,ROUET,Louise
+4655,ALBERT,Félix Constant Eugène
+4656,GUILBOT,Marie Louise Augustine
+4657,ALBERT,Ferdinand
+4658,ALBERT,Angèle
+4659,ALBERT,Ferdinand
+4660,PLESSIS,Célestine
+4661,PLESSIS,Marie Joséphine
+4662,ALBERT,Firmin Alexandre
+4663,POUPIN,Marie
+4664,ALBERT,Florent Eugène
+4665,BONNEAU,Marie Louise
+4666,ALBERT,François
+4667,ANCELIN,Renée
+4668,ALBERT,François
+4669,AUBRIT,Catherine
+4670,AUDURIER,Marguerite
+4671,ALBERT,François
+4672,BABONNEAU,Jeanne Philomène
+4673,ALBERT,François
+4674,BARBOTIN,Marie
+4675,ALBERT,François
+4676,BARBOTIN,Marie
+4677,ALBERT,François
+4678,BAZIN,Marie Angélique
+4679,BAZIN,Marie Angélique
+4680,ALBERT,François
+4681,BECOT,Marie
+4682,BELY,Jeanne
+4683,ALBERT,François
+4684,BODET,Françoise
+4685,ALBERT,François
+4686,BONENFANT,Marie-Jeanne
+4687,BOULAIS,Marie
+4688,BREMAUD,Françoise
+4689,BRETAULT,Gabrielle
+4690,ALBERT,François
+4691,BROCHARD,Marie
+4692,BROCHARD,Marie
+4693,ALBERT,François
+4694,BUTREAU,Marie-Angélique
+4695,ALBERT,François
+4696,CAILLAUD,Renée
+4697,ALBERT,François
+4698,CANTETEAU,Marguerite
+4699,COUET,Marie
+4700,ALBERT,François
+4701,DENIAU,Anne
+4702,ALBERT,François
+4703,DESFONTAINES,Clementine
+4704,ALBERT,François
+4705,DESFONTAINES,Marie
+4706,DURAND,Françoise
+4707,ALBERT,François
+4708,DURAND,Joséphine
+4709,FAIVRE,Jeanne
+4710,FORTIN,Renée
+4711,ALBERT,François
+4712,FOUILLET,Marie Jeanne
+4713,ALBERT,François
+4714,GIRAUD,Françoise
+4715,ALBERT,François
+4716,GIRAUD,Perrine
+4717,GOURAUD,Françoise
+4718,ALBERT,François
+4719,GREGOIRE,Jeanne
+4720,ALBERT,François
+4721,GRIS,Marie Victoire
+4722,GROLLEAU,Florentine
+4723,GUERIN,Perrine
+4724,GUERY,Louise
+4725,ALBERT,François
+4726,GUITTON,Marie
+4727,HERBERT,Marie
+4728,ALBERT,François
+4729,JARRION,Françoise
+4730,LORET,Marie
+4731,ALBERT,François
+4732,LUMINEAU,Marie
+4733,ALBERT,François
+4734,MARSOLIER,Eléonore
+4735,ALLEMAND,Henri
+4736,PEQUIN,Marie Emélie
+4737,ALLEMAND,Henri Baptiste
+4738,ARNAUD,Marie Elise
+4739,ALLEMAND,Henri Clément Joseph
+4740,ROY,Prudence Marie
+4741,ALLEMAND,Henri Pierre
+4742,HERBRETEAU,Céline
+4743,ALLEMAND,Jacques
+4744,ANGIBERT,Marie Françoise
+4745,ALLEMAND,Jacques
+4746,BADREAU,Marie Madeleine
+4747,ALLEMAND,Jacques
+4748,CAILLET,Françoise
+4749,CAILLET,Françoise
+4750,ALLEMAND,Jacques
+4751,CANTETEAU,Anne Sophie
+4752,ALLEMAND,Jean
+4753,BROCHARD,Marie
+4754,ALLEMAND,Jean
+4755,CHAILLOU,Catherine
+4756,ALLEMAND,Jean
+4757,CHANCELIER,Gabrielle
+4758,ALLEMAND,Jean
+4759,GILLION,Marie
+4760,ALLEMAND,Jean
+4761,NEAU,Madeleine
+4762,ALLEMAND,Jean
+4763,RICHARD,Marie Victoire
+4764,ALLEMAND,Jean
+4765,ROBIN,Florence
+4766,ALLEMAND,Jean Baptiste
+4767,BAFFREAU,Marie
+4768,ALLEMAND ,Jean Baptiste Henri
+4769,MAITRE ,Maria Elisabeth Marguerite
+4770,ALLEMAND,Jean Eugène
+4771,CHARRIER,Marie Rosalie Françoise
+4772,ALLEMAND,Jean Louis
+4773,BOUTEILLER,Marie Anne
+4774,ALLEMAND,Louis
+4775,BOUET,Marie
+4776,ALLEMAND,Louis
+4777,CHAILLOU,Marie
+4778,ALLEMAND,Louis
+4779,DOUCET,Marie
+4780,ALLEMAND,Louis Etienne
+4781,DRAPEAU,Julie Ozanne
+4782,ALLEMAND,Mathurin
+4783,CHIRON,Jeanne
+4784,ALLEMAND,Matthieu
+4785,NEAU,Marie
+4786,ALLEMAND,Pierre
+4787,GOURAUD,Marie
+4788,ALLEMAND,René
+4789,MEUNIER,Mathurine
+4790,ALLEMANT,Gilles
+4791,PERDRIAU,Jacquette
+4792,ALLEMANT,Pierre
+4793,MARIA,Marie Perrine
+4794,ALLENEAU,Jean
+4795,GEAY,Anne
+4796,ALLENET,n/a
+4797,VIVIEN,n/a
+4798,ALLENET,Jean
+4799,CHARDOUBLAY,Marie
+4800,ALLENET,Pierre
+4801,DEVANNE,Rose
+4802,ALLENET,Xavier
+4803,MOREAU,Augustine
+4804,ALLERAUD,Pierre
+4805,CHAUVEAU,Renée
+4806,ALLERE,Louis
+4807,REVEILLAU,Michelle
+4808,ALLERE,René Hypolite
+4809,LANDEBERGERE,Françoise
+4810,ALLERE,René Hypolite
+4811,SOULLARD,Magdelaine
+4812,ALLERIN,René
+4813,GAUDIN,Anne
+4814,ALLESAU,Pierre
+4815,POTIER,Jeanne
+4816,ALLESEAU,François
+4817,BUTTAUD,Marie
+4818,ALLESEAU,Pierre
+4819,PITRA,Marie
+4820,ALLESTRU,François
+4821,MOREAU,Marie
+4822,ALLESTRU,François
+4823,SAVARIAU,Marguerite
+4824,ALLESTRU,Jacques
+4825,AUGUIN,Louise
+4826,ALLESTRU,Jean
+4827,DESLANDES,Renée
+4828,GISLE,Marie
+4829,ALLESTRU,Louis
+4830,HERY,Catherine
+4831,ALLESTRU,Louis
+4832,MICHOT,Marie
+4833,ALLESTRU,Mathurin
+4834,ALLESTRU,Pierre
+4835,ALLESTRU,Pierre
+4836,BRIDONNEAU,Marie
+4837,GUERRIN,Marguerite
+4838,VIEZ,Marie
+4839,ALLESTRU,René
+4840,BOUCHER,Marie
+4841,GENAIS,Marguerite
+4842,GUERIN,Louise
+4843,ALLET,Aimé
+4844,CHALUMEAU,Françoise
+4845,ALLETREUX,André
+4846,GAILLARD,Marie
+4847,ALLETRU,Alcide André Charles
+4848,JOUINEAU,Marie Berthe Philomène
+4849,ALLÉTRU,Alexandre Clément
+4850,BOUET,Victorine Angèle
+4851,ALLETRU,Alexis
+4852,PINEAU,Marie Louise
+4853,ALLETRU,André
+4854,ARGNON,Marie Magdeleine
+4855,ALLETRU,Anthoine
+4856,MORISSEAU,Perrine
+4857,ALLETRU,Antoine
+4858,BARAUD,Marie
+4859,ALLETRU,Antoine
+4860,DESCHAMPS,Michelle
+4861,ALLETRU,Auguste
+4862,CHEVREAU,Marie Henriette
+4863,ALLÉTRU,Augustin
+4864,THOMAS,Marie Louise Philomène
+4865,ALLETRU,Charles
+4866,BENOIT,Marguerite
+4867,ALLETRU,Eugéne Henri Elie
+4868,GOBARD,Marie-Jeanne
+4869,ALLETRU,François
+4870,GUILLOTEAU,Augustine
+4871,ALLÉTRU,François
+4872,MICHENOT,Marie Anne
+4873,ALLETRU,François
+4874,ROCHER,Jeanne
+4875,ALLÉTRU,Frédéric Emilien
+4876,THIBEAUD,Emilie Julienne Gabrielle
+4877,ALLETRU,Henry
+4878,GEFFARD,Louise
+4879,ALLETRU,Jacques
+4880,SARAZIN,Marie Jeanne
+4881,ALLETRU,Jean
+4882,ANNEREAU,Marie Joséphine
+4883,BACLE,Marie-Jeanne
+4884,ALLETRU,Jean
+4885,CHAUVET,Marie
+4886,ALLETRU,Jean
+4887,PRESEAU,Marie
+4888,PRESEAU,Marie
+4889,ALLETRU,Jean Alexis Emmanuel
+4890,MARTEAU,Florentine Marie Aurélie Euphrosine
+4891,ALLETRU,Jean Baptiste
+4892,GUINET,Marie Jeanne
+4893,ALLETRU,Jean Baptiste
+4894,PENAUD,Marie Anne
+4895,ALLÉTRU,Jean Baptiste
+4896,ROBIN,Françoise Catherine
+4897,ALLÉTRU,Jean Louis
+4898,BIRÉ,Emilie
+4899,ALLETRU,Jean Louis
+4900,BRIFFAUD,Marie Louise Clémence
+4901,TEXIER,Marie Louise
+4902,ALLETRU,Jean Pierre
+4903,LARGEAUD,Clémentine
+4904,ALLETRU,Joachin
+4905,GABORIT,Jeanne
+4906,ALLETRU,Louis
+4907,BUREAU,Françoise
+4908,ALLETRU,Louis
+4909,CHAUVET,Jeanne
+4910,ALLETRU,Louis
+4911,GROLLEAU,Marie Rosalie
+4912,ALLETRU,Louis
+4913,GUILBOT,Angélique
+4914,ALLETRU,Louis
+4915,HERAUD,Henriette Delphine Marie
+4916,ALLETRU,Louis Marie
+4917,BONNIN,Louise
+4918,ALLETRU,Louis Marie
+4919,THIBAUD,Marie Louise
+4920,ALLETRU,Louis Pierre Eugène
+4921,MOREAU,Marie Mathilde
+4922,ALLETRU,Nicholas
+4923,THIBAUD,Marie
+4924,ALLETRU,Onézime
+4925,BILLAUD,Marie Louise
+4926,ALLETRU,Pierre
+4927,BERGER,Marie
+4928,ALLETRU,Pierre
+4929,CHABOT,Thérèse
+4930,ALLÉTRU,Pierre
+4931,MOCQUAY,Renée
+4932,PASQUEREAU,Henriette
+4933,TOURNET,Marie Magdeleine
+4934,ALLETRU,Pierre Auguste Célestin
+4935,ORION,Hortense Mélanie Henriette
+4936,ALLETRU,René
+4937,BABIN,Marie-Rose
+4938,GAUTRON,Modeste
+4939,ALLETRU,René
+4940,SERVANT,Catherine
+4941,ALLÉTRUT,Baptiste Eugène Charles
+4942,MOREAU,Georgine Marie
+4943,ALLETRUT,Charles
+4944,BENOIT,Marguerite
+4945,ALLETRUT,Etienne
+4946,BOUET,Marie Jeanne
+4947,ALLETRUT,François
+4948,GUITTON,Magdeleine
+4949,SIMON,Renée
+4950,ALLETRUT,Jean Baptiste
+4951,PENAUD,Marie Anne
+4952,ALLETRUT,Jean Baptiste
+4953,RANDONNÉ,Rose
+4954,ALLÉTRUT,Jean Baptiste Pierre
+4955,BODIN,Jeanne Marguerite
+4956,ALLETRUT,Louis
+4957,HERY,Catherine
+4958,ALLETTRU,Célestin Alexis
+4959,MOURILLE,Marie Louise Florentine
+4960,ALLEU / ALLIN,Joichen /Joachim
+4961,MOINARD,Françoise
+4962,ALLÉZAU,Jacques
+4963,TARDY,Françoise
+4964,ALLÉZEAU,Aimé
+4965,TESSON,Marie Rose
+4966,ALLEZEAU,André
+4967,BEGAUDEAU,Marguerite
+4968,ALLEZEAU,Charles
+4969,BONNIOTEAU,Margueritte
+4970,ALLEZEAU,Charles
+4971,MOCQUILLON,Jeanne
+4972,ALLÉZEAU,François Jean
+4973,MARAUD,Marie Rosalie
+4974,ALLEZEAU,Gabriel
+4975,REAU,Marie
+4976,ALLÉZEAU,Henri Charles Aimé
+4977,PIVERT,Nathalie Louise Cécile
+4978,ALLEZEAU,Hilaire Louis
+4979,GUIGNARD,Victoire Anastasie
+4980,ALLÉZEAU,Jacques
+4981,BOURON,Marie Désirée
+4982,HOMLINEAU,Marie Rose
+4983,ALLÉZEAU,Jacques François
+4984,BUCHET/BUCHETTE,Marie Henriette Roze
+4985,ALLÉZEAU,Jacques Honoré
+4986,GUIGNARD,Euphrasie
+4987,ALLEZEAU,Louis Benjamin
+4988,PHILIPPEAU,Rose
+4989,ALLÉZEAU,Philippe
+4990,GROUNEAU,Colombe
+4991,ALLEZEAU,Pierre
+4992,GENDRONNEAU,Marie Rose
+4993,ALLEZEAU,René
+4994,FORGERIT,Charlotte
+4995,ALLIA,Pierre Marie
+4996,RASSINOU,Marie Jeanne
+4997,ALLIAU,René Ange François Marie
+4998,LELIEVRE,Marie Rosalie Honorine
+4999,ALLIÉ,Zacharie
+5000,YOUX,Marie
+5001,ALLIEN,Barnabé
+5002,JAHAN,Renée
+5003,ALLIEN,Charles René
+5004,FORTINEAU,Jeanne
+5005,ALLIEN,Charles René
+5006,THOMAZEAU,Françoise
+5007,ALLIEN,Etienne
+5008,BOUNO,Florence Marie
+5009,ALLIEN,Etienne
+5010,FRRADET,Marguerite
+5011,ALLIEN,Etienne
+5012,GABORIT,Françoise
+5013,ALLIEN,Etienne
+5014,GRONDIN,Marie
+5015,JONET,Jeanne
+5016,ALLIEN,Étienne
+5017,MILSANDEAU,Anne
+5018,ALLIEN,Etienne Louis
+5019,BONNO,Florence Marie
+5020,ALLIEN,Étienne Louis
+5021,COUTANCEAU,Louise Modeste
+5022,ALLIEN,François
+5023,BOCQUER,Marie
+5024,ALLIEN,François
+5025,CHIFOLEAU,Perrine
+5026,ALLIEN,Gabriel
+5027,ANDRE,Marguerite
+5028,ALLIEN,Gervais
+5029,CLOCHARD,Marie
+5030,ALLIEN,Jacques
+5031,MARTIN,Magdelene
+5032,MARTIN,Marie
+5033,ALLIEN,Jacques
+5034,ALLIEN,Jean
+5035,BOIZIEAU,Virginie Léontine
+5036,DELAPREE,Jeanne
+5037,TRIBALLEAU,Marie Rose
+5038,ALLIEN,Jean Louis Henri
+5039,MOSSARD,Marie Nathalie
+5040,ALLIEN,Mathurin
+5041,GR,Marie
+5042,ALLIEN,Mathurin
+5043,LORET,Catherine
+5044,ALLIEN,Pierre
+5045,BRAM,Jeanne
+5046,ALLIEN,Pierre François
+5047,MARTIN,Suzanne
+5048,ALLIEN,Zacharie
+5049,RECHIN,Jeanne
+5050,ALLIGNE,Auguste
+5051,LAUBRETON,Jeanne
+5052,ALLIGNÉ,Auguste François
+5053,BRODEAU,Louise
+5054,ALLIGNÉ,Augustin
+5055,LAUBRETON,Jeanne
+5056,ALLIGNE,Guillaume
+5057,AUMAND,Anne
+5058,RIFFAUT,Françoise
+5059,ALLIGNÉ,Henri Grégoire
+5060,COSSET,Marie Alice Louise
+5061,ALLIGNÉ,Henry
+5062,POUZET,Madeleine
+5063,ALLIGNE,Jacques
+5064,AUBERT,Marie
+5065,FALLOURD,Marie
+5066,ROBIN,Marguerite
+5067,ALLIGNÉ,Jean
+5068,ALLIGNE,Jean
+5069,BERTRAND,Jeanne Renée
+5070,BOBIN,Marie
+5071,BOURGEZEAU,Catherine
+5072,BOUTON,Marie Anne
+5073,BOUTON,Marie-Anne
+5074,DRAPPRON,Jeanne
+5075,FAIVRE,Marie
+5076,MICOU,Jacquette
+5077,ALLIGNÉ,Jean Henry Julien
+5078,SACRÉ,Marie Léontine
+5079,ALLIGNÉ,Jean Pierre
+5080,BOULONNEAU,Marie
+5081,GUIONNET,Marie Mélanie
+5082,ALLIGNÉ,Louis
+5083,GUILLON,Marie
+5084,ALLIGNÉ,Louis Eugène Ernest
+5085,BOUDEAU,Marie Louise
+5086,ALLIGNE,Marie Jean Auguste
+5087,BUSSONNIERE,Blanche Louise Marie
+5088,ALLIGNE,Pierre
+5089,MARECHAUD,Catherine
+5090,ALLIGNÉ,Pierre
+5091,SOULARD,Magdeleine
+5092,SOULLARD,Magdeleine
+5093,ALLIGNÉ,Pierre Augustin
+5094,CHARPENTIER,Marie Jeanne
+5095,ALLIGNÉ,Pierre Augustin
+5096,CHARPENTIER,Marie Jeanne
+5097,ALLIGNÉ/ALEIGNÉ,Pierre
+5098,PELLERIN,Marguerite
+5099,ALLIN,Aimé Jacques Constant
+5100,DERENNES,Emilie Adélina
+5101,ALLIN,André
+5102,MOREAU,Jeanne
+5103,ALLIN,Augustin
+5104,RAIZON,Thérèze
+5105,ALLIN,Charles
+5106,LESCOT,Anne
+5107,ALLIN,Fulgent Emile Auguste
+5108,BADREAU,Marie Angéline Flavie
+5109,ALLIN,Jacques
+5110,GAUFRETEAU,Jeanne
+5111,ALLIN,Jacques Louis Armand
+5112,BEGAUD,Clémentine Éléonore Juliette
+5113,ALLIN,Jean
+5114,CHARNEAU,Françoise
+5115,DIBOT,Françoise
+5116,ALLIN,Joachim
+5117,VIAU,Claire
+5118,ALLIN,Joshe
+5119,TRIAU,Marie
+5120,ALLIN,Julien
+5121,LEVIN,Jeanne
+5122,ALLIN,Philippe Emile Jacques
+5123,RAYNEAU,Georgette Marguerite Charlotte
+5124,ALLION,Charles
+5125,CARTERON,Renée
+5126,ALLION,Jean
+5127,BANCHEREAU,Jeanne
+5128,ALLION,Jean
+5129,CHARRIER,Angélique
+5130,DRAPEAU,Louise
+5131,ALLION,Louis
+5132,CHARRIER,Anne
+5133,ALLION,Louis
+5134,MORINIERE,Françoise
+5135,ALLION,Nicolas
+5136,CHARRIER,Jeanne
+5137,ALLION,Pierre
+5138,RIGAUDEAU,Marie
+5139,ALLION,Pierre
+5140,ALLION,Pierre
+5141,TEXIER,Marie Anne
+5142,ALLION,René
+5143,AMIOT,Jacques
+5144,ALLIOT,Nicolas Charles Marie
+5145,GOUAULT,Marie Estelle
+5146,ALLIS,Paul François
+5147,DUGAST,Françoise
+5148,ALLIX,Jacques
+5149,ROY,Marguerite
+5150,ALLIX,Pierre
+5151,GAUDIN,Louise
+5152,PLAIRE,Françoise
+5153,ALLIX,Simon
+5154,DURANCEAU,Suzanne
+5155,ALLIZEAU,Anthoine
+5156,ALLIZEAU,Jean
+5157,GOISMET,Andrée
+5158,ALLIZEAU,Pierre
+5159,VIAU,Louise
+5160,ALLO,François Mathurin
+5161,TRAINEAU,Henriette
+5162,ALLO,Françoise Marie Anne
+5163,RIDEAU,Marie Eugénie Rosella
+5164,ALLOCHET,Alexandre Pierre Hyacinthe
+5165,GROLLEAU,Eugénie Léonide Aimée
+5166,ALLONEAU,François
+5167,COTEREAU,Anne Louise
+5168,ALLONEAU,François
+5169,DANIAUD,Marie
+5170,ALLONIER,François
+5171,GARNIER,Renée
+5172,ALLONIER,François Ferdinand Arthur
+5173,BONNEAU,Eugénie Marie Louise Armande
+5174,ALLONIER,Jacques
+5175,ALBERT,Dorothée
+5176,ALLONIER,Jacques
+5177,GUILLOTEAU,Jeanne
+5178,GUILLOTTEAU,Jeanne
+5179,ALLONIER,Paul Louis Marie
+5180,COIRIER,Marie Elie
+5181,ALLONIER,Pierre
+5182,BELLION,Jeanne
+5183,ALLONNAU,Jean
+5184,SOULET,Louise
+5185,ALLONNEAU,Pierre
+5186,BOBIN,Marie Rose
+5187,ALLONNIER,François
+5188,MILLET,Madeleine
+5189,ALLONNIER,Jean
+5190,RAPHAEL,Marie Pauline
+5191,ALLONNIER,Jean Auguste Louis
+5192,DIEUMEGARD,Marie Hortence
+5193,ALLONNIER,Jean Sébastien
+5194,DUBÉ,Clémentine Rose
+5195,ALLOT,Henri François Lucien
+5196,LEFEBVRE,Marie Alexina
+5197,ALLUSON,Auguste
+5198,BAUDRY,Esther
+5199,DOUILLARD,Eulalie
+5200,ALLUSON,Auguste
+5201,GUITTON,Jeanne
+5202,ALLUSON,François
+5203,BAUBRY,Marie
+5204,PICHAUD,Angélique
+5205,ALLUSON,François
+5206,SOULARD,Joséphine
+5207,ALLUSON,Jean
+5208,BOURDET,Marie
+5209,ALLUSON,Jean
+5210,GABORIAU,Marie Anne
+5211,ALLUSON,Jean Baptiste
+5212,FRENEAU,Marie Jeanne
+5213,ALLUSON,Joseph
+5214,JOUI,Augustine
+5215,ALLUSON,Mathurin
+5216,GREAU,Marie
+5217,ALLUSON,Mathurin
+5218,MACE,Jeanne
+5219,ALLUSON,Pascal
+5220,BOURCIER,Marie
+5221,MENARD,Marie
+5222,ALLUSSON,Jacques
+5223,ÉPEAU,Suzanne
+5224,ALLY,Mathurin Alexandre
+5225,GUITOT,Jeanne Françoise
+5226,ALLY,Mathurin Alexandre
+5227,VANDRIN-BRETONNIERE,Marie Suzanne
+5228,ALNEAU,Théodore
+5229,JAY,Jeanne
+5230,ALNET,n/a
+5231,IMBERT,n/a
+5232,ALNET,André
+5233,GRELAUD,Rose
+5234,ALNET,Jean Victor
+5235,GUITTON,Marie Célestine
+5236,ALONET,Jean
+5237,ALONNIER,Pierre
+5238,GUIMARD,Marie
+5239,ALOUNIER,Jean
+5240,TOUCHETEAU,Anne
+5241,ALPHONSE,Gabriel
+5242,PLUMTOT,Jeanne
+5243,ALPHONSE,Pierre
+5244,DAUDIN,Anne
+5245,ALQUIER,Claude Alexis
+5246,PAILLOU,Marthe Jeanne
+5247,ALQUIER,Claude Louis
+5248,ALQUIER,Jean
+5249,BONNAMY,Marie Françoise
+5250,ALQUIER,Michel
+5251,ROBION,Suzanne
+5252,ALQUINET,Nicolas Augustin
+5253,SAVENAY,Elisabeth
+5254,ALQUINET,Pierre
+5255,BONNIN,Louise
+5256,ALTEAU,Aimé
+5257,FOUCHARD,Henriette
+5258,THIBAUDEAU,Marie Jeanne
+5259,ALTEAU,Aimé François Joseph
+5260,CUROTEAU,Marie Madeleine
+5261,ALTEAU,Joseph
+5262,LOISEAU,Marie
+5263,ALTEAU,Louis
+5264,MENARD,Marie
+5265,ALTEAU,Louis Alexandre
+5266,MAQUIGNEAU,Marie Alexandrine
+5267,ALTEAU,Michel
+5268,NICOLEAU,Jeanne
+5269,ALTEAU,Pierre
+5270,BRÉBION,Anne
+5271,NICOLEAU,Françoise
+5272,NICOLLEAU,Françoise
+5273,VILNEUVE,Marie
+5274,ALTIN,Xavier
+5275,DAVIET,Armantine Adeline
+5276,ALUÇON,Jacques
+5277,CHADENEAU,Jeanne
+5278,ALUÇON,René
+5279,POIRON,Marguerite
+5280,RICHER,Marie
+5281,ALUN,Louis
+5282,TEXIER,Catherine
+5283,ALUN,Louis
+5284,TEXIER,Catherine
+5285,ALUSSON,René
+5286,ALVAU,Nicolas
+5287,PROUST,Renée
+5288,ALY,Jacques
+5289,CAILLE,Marguerite
+5290,ALY,Jean
+5291,ROYER,Marie
+5292,ALYZEAU,Pierre
+5293,LAYON,Anne
+5294,ALBERT,François
+5295,MARTIN,Victoire Rosalie
+5296,ALBERT,François
+5297,MECHINAUD,Charlotte
+5298,ALBERT,François
+5299,MERZEAU,Anne Catherine
+5300,MORIN,Françoise
+5301,MURZEAU,Anne
+5302,ALBERT,François
+5303,PERCOT,Suzanne
+5304,ALBERT,François
+5305,PIGNON,Marie
+5306,ALBERT,François
+5307,POINT,Jeanne
+5308,ALBERT,François
+5309,POIRAUD,Marguerite
+5310,ALBERT,François
+5311,PRIFFETEAU,Marie
+5312,PROUST (LE),Suzanne
+5313,RACAUD,Marie
+5314,RAGON,Françoise
+5315,ALBERT,François
+5316,RAGON,Françoise
+5317,ALBERT,François
+5318,RAMPILLON,Stéphanie
+5319,RAVERSEAU,Marie
+5320,RENOU,Françoise
+5321,ALBERT,François
+5322,SANTERON,Françoise
+5323,ALBERT,François
+5324,SOULARD,Jeanne
+5325,ALBERT,François
+5326,TEXIER,Magdeleine
+5327,ALBERT,François Baptiste
+5328,RAHÉ,Marie Aimée
+5329,ALBERT,François Charles
+5330,GAUDINEAU,Marie Perrine
+5331,ALBERT,François Prosper
+5332,BONNEAU,Françoise Madelaine
+5333,ALBERT,François Zacharie
+5334,MERCIER,Julie
+5335,RICHARD,Marie
+5336,ALBERT,Françoise
+5337,BONNET,Jean
+5338,ALBERT,Gilles
+5339,AUTIN,Renée
+5340,ALBERT,Gilles
+5341,BOSSARD,Jeanne
+5342,BOSSARD,Renée
+5343,ALBERT,Grégoire
+5344,BOUCHET,Anne
+5345,ALBERT,Grégoire
+5346,RAISON,Marie
+5347,ALBERT,Guillaume
+5348,DAVID,Marie
+5349,DESFOUGERES,Marguerite
+5350,ALBERT,Guillaume
+5351,GUILLEBAUD,Renée
+5352,ALBERT,Henri
+5353,GAUTHIER,Jeanne Honorine
+5354,ALBERT,Henri Lucien
+5355,VRIGNAUD,Marie Clémentine Augustine
+5356,ALBERT,Henry
+5357,CHEVALLEREAU,Benigne
+5358,ALBERT,Hilaire
+5359,OGERON,Jeanne
+5360,PERIN,Nicole
+5361,RICHÉ/ROGER?,Mathurine
+5362,ALBERT,Isidore Emmanuel Placide
+5363,POUZIN,Marie Louise Eugénie
+5364,ALBERT,J
+5365,BICHON,M
+5366,ALBERT,Jacque
+5367,LUSAUD,Perrinne
+5368,ALBERT,Jacque
+5369,RENAUDIN,Jeanne
+5370,ALBERT,Jacque
+5371,SOULARD,Perrine
+5372,ALBERT,Jacques
+5373,ANGEVIN,Catherine
+5374,AUGEAU,Thérèse
+5375,ALBERT,Jacques
+5376,AUGUIN,Rose
+5377,AULMAND,Anne
+5378,ALBERT,Jacques
+5379,BAUBINET,Marie
+5380,BAUDET,Marie
+5381,ALBERT,Jacques
+5382,BAUDIN,Renée Marie Anne
+5383,ALBERT,Jacques
+5384,BAUDOUIN,Prudence
+5385,BELLUTEAU,Jehanne
+5386,ALBERT,Jacques
+5387,BIBARD,Marie Anne
+5388,BODIN,Marie-Aimée
+5389,ALBERT,Jacques
+5390,BOISSONNOT,Marie Madelaine
+5391,ALBERT,Jacques
+5392,BOURDILLON,Marie
+5393,BOUTET,Catherine
+5394,ALBERT,Jacques
+5395,BREMANT,Françoise
+5396,BRETET,Clémence
+5397,BRIDONNEAU,Marie
+5398,ALBERT,Jacques
+5399,BROSSET,Louise
+5400,CAILLER,Jeanne
+5401,ALBERT,Jacques
+5402,CHAMARD,Marie
+5403,CHAPELEAU,Françoise
+5404,CHAPITREAU,Marie
+5405,CHARPENTIER,Catherine
+5406,CHARRIER,Françoise
+5407,ALBERT,Jacques
+5408,CHARTIER,Jacquette
+5409,ALBERT,Jacques
+5410,CHOUCQ,Marie
+5411,CHOYAU,Françoise
+5412,CORNUAU,Nicolle
+5413,ALBERT,Jacques
+5414,DOUILLARD,Jeanne
+5415,FALLOURD,Louise
+5416,ALBERT,Jacques
+5417,GARRON,Rose
+5418,GEAY,Marie
+5419,ALBERT,Jacques
+5420,GIRARD,Jacquette
+5421,GOBIN,Marie Jeanne
+5422,ALBERT,Jacques
+5423,GRIMAUD,Marie Henriette
+5424,GUESDON,Marie
+5425,GUILBAUD,Louise
+5426,ALBERT,Jacques
+5427,GUILLOTEAU,Anne Aimée
+5428,ALBERT,Jacques
+5429,GUINAUDEAU,Rosalie
+5430,ALBERT,Jacques
+5431,HERBE,Marie
+5432,HURTAUD,Anne
+5433,JAUZEAU,Marie Madeleine
+5434,ALBERT,Jacques
+5435,JOLY,Marie
+5436,ALBERT,Jacques
+5437,JOSEAU,Marie Madeleine
+5438,ALBERT,Jacques
+5439,JOURDAIN,Marie
+5440,LHOMMEAU,Modeste
+5441,ALBERT,Jacques
+5442,LUCAS,Pélagie
+5443,MARCHAND,Marie Anne
+5444,MENANTEAU,Madeleine
+5445,MOINARD,Anne
+5446,NEAU,Anne
+5447,ALBERT,Jacques
+5448,PAILLAT,Jeanne Philomène
+5449,PALLARDY,Louise
+5450,ALBERT,Jacques
+5451,POINGT,Perrine
+5452,ALBERT,Jacques
+5453,PRISSET,Jeanne Perrine
+5454,RAGON,Marguerite
+5455,RANDONNET,Françoise
+5456,ALBERT,Jacques
+5457,RETAILLEAU,Jeanne
+5458,ALBERT,Jacques
+5459,ROUSSEAU,Marie
+5460,ALBERT,Jacques
+5461,ROY,Marie
+5462,SALÉ,Anne
+5463,ALBERT,Jacques
+5464,SAVARIAUD,Marie
+5465,SICOT,Jeanne
+5466,ALBERT,Jacques
+5467,SOUCHELOT,Françoise
+5468,ALBERT,Jacques
+5469,SOULARD,Mathurine
+5470,SOULET,Anne
+5471,ALBERT,Jacques
+5472,SOULET,Anne
+5473,ALBERT,Jacques
+5474,SOURISSEAU,Marie
+5475,ALBERT,Jacques
+5476,SUAUDEAU,Perrine
+5477,TEILLET,Rose
+5478,THIBAUDAU,Jeanne
+5479,TRICOT,Marie Geneviève
+5480,ALBERT,Jacques
+5481,TRIQUOT,Marie Geneviève
+5482,TUBLE,Marianne
+5483,ALBERT,Jacques
+5484,VRIGNAUD,Françoise
+5485,ALBERT,Jacques Alexis
+5486,PASQUIER,Jeanne
+5487,ALBERT,Jacques Edmond
+5488,CHARLOT,Marie Madelaine Séraphie
+5489,ALBERT,Jacques Edmond
+5490,CHARLOT,Marie Madeleine Séraphie
+5491,ALBERT,Jacques Esprit
+5492,BODIN,Clémentine Marie
+5493,CAILLAUD,Marie Elize
+5494,ALBERT,Jacques Remis
+5495,BRETHONNEAU,Marie Zélida
+5496,ALBERT,Jacques Severin
+5497,ROUX,Marie Henriette
+5498,ALBERT,Jacques-Auguste
+5499,ALBERT,Jean
+5500,AJON,Marie
+5501,ALBERT,Jean
+5502,ALARD,Marie
+5503,ALBERT,Jean
+5504,ALARD,Marie
+5505,ALBERT,Jean
+5506,ALBERT,Rosalie
+5507,ARDOUIN,Magdelaine
+5508,ARGNON,Jeanne
+5509,ALBERT,Jean
+5510,AUDOUIN,Rose Aimée
+5511,ALBERT,Jean
+5512,AUVINET,Marie
+5513,ALBERT,Jean
+5514,AVRIL,Joséphine
+5515,AVRIL,Marie Joséphine
+5516,ALBERT,Jean
+5517,BAILLY,Suzanne
+5518,ALBERT,Jean
+5519,BAREAU,Marie
+5520,ALBERT,Jean
+5521,BARON,Jeanne
+5522,ALBERT,Jean
+5523,BARON,Madeleine
+5524,BELLOUIN,Louise
+5525,ALBERT,Jean
+5526,BERNARD,Victoire
+5527,BICHON,Marie
+5528,ALBERT,Jean
+5529,BLAIN,Renée
+5530,BLANCHARD,Jeanne Modeste
+5531,BLEZEAU,Gabrielle
+5532,ALBERT,Jean
+5533,BLUTEAU,Louise
+5534,ALBERT,Jean
+5535,BONPAS,Marguerite
+5536,ALBERT,Jean
+5537,BOUJU,Renée
+5538,BOUNAUD,Marie
+5539,BOURGET,Anne
+5540,BOUTHIER,Marie
+5541,BREMAUD,Jeanne
+5542,ALBERT,Jean
+5543,BRETON,Renée
+5544,BROSSARD,Françoise
+5545,BROSSEAU,Marie
+5546,ALBERT,Jean
+5547,BROSSEAU,Perrine
+5548,BRUNET,Catherine
+5549,BUGEAU,Jeanne
+5550,ALBERT,Jean
+5551,BUROT,Mathurine
+5552,ALBERT,Jean
+5553,CARTAUD,Françoise
+5554,ALBERT,Jean
+5555,CARTERON,Louise
+5556,ALBERT,Jean
+5557,CHARDONNEAU,M. Anne
+5558,COCUAU,Claude
+5559,ALBERT,Jean
+5560,CORNUAU,Marie Anne
+5561,COSSET,Gabrielle
+5562,COSSET,Renée
+5563,D'AMBREUIL,Jacquette
+5564,ALBERT,Jean
+5565,DELIGNÉ,Marie
+5566,ALBERT,Jean
+5567,DENIS,Marie
+5568,ALBERT,Jean
+5569,DOUILLARD,Jeanne
+5570,ALBERT,Jean
+5571,DOUILLARD,Louise
+5572,DROUET,Marie Pélagie
+5573,ALBERT,Jean
+5574,DUBLET,Marie
+5575,DUBLET,Marie
+5576,ALBERT,Jean
+5577,DURET,Catherine
+5578,ALBERT,Jean
+5579,ECUPE,Therese
+5580,ECUPE,Thérèse
+5581,ALBERT,Jean
+5582,FAUCON,Felicite
+5583,FERLAND,Louise
+5584,ALBERT,Jean
+5585,FEVRIER,Marie Anne
+5586,ALBERT,Jean
+5587,FONTENEAU,Catherine
+5588,ALBERT,Jean
+5589,FONTENEAU,Marie
+5590,ALBERT,Jean
+5591,FORTIN,Joséphine
+5592,ALBERT,Jean
+5593,FROUIN,Marie
+5594,ALBERT,Jean
+5595,GABORIAU,Jeanne
+5596,GAY,Françoise
+5597,ALBERT,Jean
+5598,GIRARD,Marie
+5599,ALBERT,Jean
+5600,GIRARD,Marie
+5601,GIRAUDET,Anne Madeleine
+5602,ALBERT,Jean
+5603,GREGOIRE,Françoise
+5604,ALBERT,Jean
+5605,GRELIER,Jeanne
+5606,GRESAY,Jacquette
+5607,GRIGNON,Louise
+5608,ALBERT,Jean
+5609,GROLEAU,Louise
+5610,GUERRY,Renée
+5611,ALBERT,Jean
+5612,HARDY,Françoise
+5613,HERVOIT,Rose Aimée
+5614,ALBERT,Jean
+5615,JADAU,Marie
+5616,JAMMARD,Marie
+5617,JARRIAU,Marguerite
+5618,ALBERT,Jean
+5619,JAUNET,Madeleine
+5620,LOUBÉ,Marie Jeanne
+5621,MALATIER,Françoise
+5622,ALBERT,Jean
+5623,MEUNIER,Marie
+5624,MOREAU,Jacquette
+5625,NAUDIN,Jeanne
+5626,ALBERT,Jean
+5627,NOUET,Jeanne
+5628,OLIVIER,Marie
+5629,OUVRARD,Marie
+5630,PERRIN,Françoise
+5631,PILLARD,Jacquette
+5632,ALBERT,Jean
+5633,PINEAU,Jeanne
+5634,PINEAU,Marie
+5635,PINEAU,Mélanie Rosalie
+5636,ALBERT,Jean
+5637,POTIER,Marie
+5638,ALBERT,Jean
+5639,POTTIER,Marie
+5640,ALBERT,Jean
+5641,PREZEAU,Marie
+5642,PREZEAU,Marie
+5643,PUBERT,Louise
+5644,ALBERT,Jean
+5645,QUILLET,Catherine
+5646,ALBERT,Jean
+5647,RAFFLEGEAU,Jeanne
+5648,ALBERT,Jean
+5649,RAFFLEGEAU,Marie
+5650,RAMBAUD,Magdeleine
+5651,ALBERT,Jean
+5652,RAUTUREAU,Mathurine
+5653,ALBERT,Jean
+5654,RENOU,Marie
+5655,REPARON,Marguerite
+5656,ALBERT,Jean
+5657,RIMBAULT,Marie
+5658,ALBERT,Jean
+5659,RONDEAU,Marianne
+5660,ROULLEAU,Marie-Jeanne
+5661,ROY,Louise
+5662,SAVIN,Marie
+5663,SICARD,Marie Madeleine
+5664,SOURIT,Marie
+5665,SUZENET,Suzanne
+5666,TEXIER,Jeanne
+5667,ALBERT,Jean
+5668,TEXIER,Marie
+5669,THEAU,Renée
+5670,THORE,Marie
+5671,TRIAUD,Marie
+5672,VIGNAUD,Marie Rose
+5673,ALBERT,Jean
+5674,VINET,Jeanne
+5675,ALBERT,Jean
+5676,YOU,Marie Madeleine
+5677,ALBERT,Jean Alexis
+5678,ALBERT,Jean Alexis
+5679,BRIDONNEAU,Jeanne Rose
+5680,ALBERT,Jean Antoine
+5681,LEGEAIS,Marie Victoire
+5682,ALBERT,Jean Augustin
+5683,DUPOIRON,M. Philoméne
+5684,ALBERT,Jean Augustin
+5685,POIRON,Marie Marguerite
+5686,ROUSSEAU,Clémence
+5687,ALBERT,Jean Baptiste
+5688,AUVINET,Marie
+5689,ALBERT,Jean Baptiste
+5690,BACLE,Angeline Florentine
+5691,ALBERT,Jean Baptiste
+5692,BARBEAU,Marie Emélie
+5693,ALBERT,Jean Baptiste
+5694,BAUDRY,Marie Madeleine
+5695,ALBERT,Jean Baptiste
+5696,BICHON,Angélique
+5697,ALBERT,Jean Baptiste
+5698,BICHON,Angélique
+5699,ALBERT,Jean Baptiste
+5700,ALBERT,Jean Baptiste
+5701,BITAUDEAU,Honorine
+5702,BLONDIN,Louise
+5703,ALBERT,Jean Baptiste
+5704,BOISSINOT,Clarisse
+5705,ALBERT,Jean Baptiste
+5706,CHIRON,Mélanie
+5707,ALBERT,Jean Baptiste
+5708,COQUET,Anne
+5709,ALBERT,Jean Baptiste
+5710,DELAVAUD,Véronique
+5711,ALBERT,Jean Baptiste
+5712,DOUILLARD,Angélique
+5713,ALBERT,Jean Baptiste
+5714,HUCHET,M. Angélique
+5715,ALBERT,Jean Baptiste
+5716,MALVAULT,Marie Euphrosine
+5717,POPONOT,Elisabeth
+5718,REZEAU,Gustine
+5719,ALBERT,Jean Baptiste
+5720,ROUSSEAU,Augustine Célestine
+5721,ALBERT,Jean Baptiste
+5722,TEILLET,Marguerite
+5723,ALBERT,Jean Chrysostome
+5724,BONIN,Marie Louise Françoise
+5725,ALBERT,Jean François
+5726,LOIRET,Louise
+5727,ALBERT,Jean Hippolyte
+5728,FÈVRE,Marie Jeanne Françoise
+5729,ALBERT,Jean Jacques
+5730,MARET,Marie Justine
+5731,ALBERT,Jean Jacques
+5732,PHILIPPON,Jeanne Modeste
+5733,ALBERT,Jean Joseph
+5734,BOISSONNEAU,Marie Suzanne
+5735,ALBERT,Jean Joseph Emmanuel
+5736,BRAUD,Marie Modeste Louise
+5737,ALBERT,Jean Jules
+5738,ALBERT,Marie Louise Radégonde
+5739,ALBERT,Jean Louis
+5740,GUERRY,Jeanne Prudence
+5741,ALBERT,Jean Marie
+5742,GUICHETEAU,Marie Virginie
+5743,ALBERT,Jean Mathurin
+5744,REMPILLON,Louise
+5745,ALBERT,Jean PIerre
+5746,GUIGNAUD,Marie Louise
+5747,ALBERT,Jean Pierre
+5748,REZEAU,Henriette Honorée
+5749,ALBERT,Jean René
+5750,HERY,Marie Angélique
+5751,ALBERT,Jean Théodore
+5752,MINGUENEAU,Jeanne
+5753,ALBERT,Jean-Baptiste
+5754,TOUZY,Antoinette
+5755,ALBERT,Joseph
+5756,BOUANCHEAU,Marie Anne
+5757,ALBERT,Joseph
+5758,BROCHARD,M. Clotilde
+5759,ALBERT,Joseph
+5760,CLOCHARD,Madelaine
+5761,ALBERT,Joseph
+5762,CLOCHARD,Suzanne Madelaine
+5763,ALBERT,Joseph
+5764,DOUAIZI,Marie
+5765,ALBERT,Joseph
+5766,DURAND,Jeanne
+5767,ALBERT,Joseph
+5768,DURET,Rose
+5769,FILLAUDEAU,Radégonde
+5770,ALBERT,Joseph
+5771,FONTENEAU,Jeanne
+5772,ALBERT,Joseph
+5773,GIRARDEAU,Adélaide
+5774,ALBERT,Joseph
+5775,LECOMTE,Françoise
+5776,ALBERT,Joseph
+5777,LEFORT,Jeanne
+5778,LITOU,Jeanne
+5779,ALBERT,Joseph
+5780,MARCHAND,Marie Renée
+5781,ALBERT,Joseph
+5782,MECHINAUD,Monique
+5783,PERDRIAU,Françoise
+5784,PICOT,Marie Victorine
+5785,ALBERT,Joseph
+5786,QUERION,Marie Thérèse
+5787,ALBERT,Joseph
+5788,ALBERT,Joseph
+5789,VILLARD,Marie
+5790,ALBERT,Joseph Antoine
+5791,CHAUVIN,Germaine Marie
+5792,ALBERT,Joseph François
+5793,GEAY,Marie Philomène
+5794,ALBERT,Joseph Hyppolite
+5795,GIRARDEAU,Adélaide Jeanne
+5796,ALBERT,Joseph Louis
+5797,LABOUREUX,Marie
+5798,ALBERT,Joseph Valentin
+5799,DELAHAYE,Marie
+5800,ALBERT,Jules
+5801,CAILLET,Marie Madeleine
+5802,MALVAUD,Florentine
+5803,ALBERT,Jules Augustin
+5804,PALLARD,Marie Louise
+5805,ALBERT,Jules Firmin Marie
+5806,GARON,Florine Augustine Adeline
+5807,ALBERT,Julien
+5808,BAILLARGEAU,Augustine
+5809,ALBERT,Julien
+5810,BARON,Jeanne
+5811,ALBERT,Julien
+5812,CHIRON,Henriette Victoire
+5813,ALBERT,Julien
+5814,DELIRE,Perrine
+5815,ALBERT,Julien
+5816,JOSEAU,Louise
+5817,ALBERT,Julien
+5818,LAUNAY,Marie
+5819,ALBERT,Julien
+5820,LEGENDRE,Jeanne
+5821,ALBERT,Julien Désiré
+5822,MICHARDIERE,Louise Augustine Alexandrine
+5823,ALBERT,Julien Michel
+5824,BECHAU,Marie Madeleine
+5825,ALBERT,Julien Michel
+5826,BECHAU,Marie Magdelaine
+5827,ALBERT,Léon Baptiste
+5828,GABARD,Geneviève Marie
+5829,ALBERT,Léon Baptiste
+5830,GUERIS,Marie Céleste Françoise
+5831,ALBERT,Léon Clément Louis
+5832,CHAUMET,Charlotte Julienne
+5833,ALBERT,Léon Joséphane
+5834,PASQUIER,Marie Joséphine Clémentine
+5835,ALBERT,Louis
+5836,ANGEVIN,Marie
+5837,ALBERT,Louis
+5838,AUVINET,Marie
+5839,BARD,Marie
+5840,ALBERT,Louis
+5841,BILLY,Catherine
+5842,BODIN,Jeanne
+5843,ALBERT,Louis
+5844,BOUSSEAU,Angélique
+5845,ALBERT,Louis
+5846,BREMAUD,Louise
+5847,ALBERT,Louis
+5848,BRILLOUET,Marie
+5849,BROCHARD,Renée
+5850,ALBERT,Louis
+5851,CHAILLOU,Rose
+5852,ALBERT,Louis
+5853,CHARGIS,Jeanne
+5854,ALBERT,Louis
+5855,CHAUVIERE,Jeanne
+5856,ALBERT,Louis
+5857,CHEVALLEREAU,Marie Anne
+5858,ALBERT,Louis
+5859,CHIRON,Jeanne
+5860,COUTANT,Catherine Germaine
+5861,ALBERT,Louis
+5862,EPAUD,Marie
+5863,ALBERT,Louis
+5864,ERI,Céleste
+5865,FAYOU,Eugènie
+5866,ALBERT,Louis
+5867,FOUCAULT,Marie Rose
+5868,ALBERT,Louis
+5869,FOUQUETIERE,Marie Anne
+5870,ALBERT,Louis
+5871,GAUVIN,Marie
+5872,ALBERT,Louis
+5873,GIRARD,Joséphine
+5874,ALBERT,Louis
+5875,GOURMAUD,Marie Magdelaine
+5876,ALBERT,Louis
+5877,GRASSET,Françoise Pélagie
+5878,ALBERT,Louis
+5879,GROLLAUD,Jeanne
+5880,ALBERT,Louis
+5881,GROLLEAU,Catherine
+5882,GUESDON,Marie
+5883,ALBERT,Louis
+5884,GUILBAUD,Rosalie
+5885,ALBERT,Louis
+5886,GUILLET,Marie
+5887,ALBERT,Louis
+5888,JADAU,Marie
+5889,ALBERT,Louis
+5890,LECLAIR,Celeste
+5891,LECOMPTE,Toussaine
+5892,ALBERT,Louis
+5893,LETARD,Marie Jeanne
+5894,MANTEAU,Marie
+5895,ALBERT,Louis
+5896,MENARD,Marguerite
+5897,ALBERT,Louis
+5898,MILLEAU,Marie-Anne
+5899,MORIN,Marie Magdeleine
+5900,ALBERT,Louis
+5901,OGERON,Jeanne
+5902,ALBERT,Louis
+5903,PAILLAT,Philomène
+5904,ALBERT,Louis
+5905,PINEAU,Marie
+5906,ALBERT,Louis
+5907,POINT,Rose
+5908,ALBERT,Louis
+5909,REVEAU,Marie Céleste
+5910,ALBERT,Louis
+5911,RIPAUD,Marie
+5912,RIPAUD,Marie
+5913,ALBERT,Louis
+5914,SALLÉ,Pélagie
+5915,ALBERT,Louis
+5916,SOULARD,Marie Esther
+5917,ALBERT,Louis
+5918,THIBAU,Renée
+5919,ALBERT,Louis
+5920,TURPAULT,Marie
+5921,ALBERT,Louis
+5922,VINET,Joséphine
+5923,ALBERT,Louis Auguste
+5924,GUIGNARD,Marie Louise Victorine
+5925,ALBERT,Louis Auguste
+5926,MAINGOURD,Anne Marie
+5927,RENAUDIN,Marie Louise
+5928,ALBERT,Louis Auguste Zacharie
+5929,RENAUD,Marie Félicité
+5930,ALBERT,Louis Charles
+5931,BRUNEAU,Jeanne Thérèse
+5932,ALBERT,Louis Charles
+5933,COUSSEAU,Marie Rose
+5934,ALBERT,Louis Ernest
+5935,JADEAU,Marie Louise Eugénie
+5936,ALBERT,Louis Eugène
+5937,MARSAULT,Marie Josephine
+5938,ALBERT,Louis François
+5939,AUDINEAU,Marie
+5940,ALBERT,Louis François
+5941,AUDINNEAU,Marie Jeanne
+5942,ALBERT,Louis Henri
+5943,TEMPEREAU,Marie Magdeleine
+5944,ALBERT,Louis Jacques
+5945,MARQUIS,Julie Scholastique
+5946,ALBERT,Louis Jean Baptiste
+5947,DELAVAUD,Louise
+5948,ALBERT,Louis Joseph Maurice
+5949,GUICHETEAU,Marie Françoise Appoline
+5950,ALBERT,Louis Marie
+5951,DESFONTAINES,Augustine
+5952,ALBERT,Louis Marie
+5953,SICARD,Marie Philomène
+5954,ALBERT,Louis Michel
+5955,DELONNÉ,Catherine
+5956,ALBERT,Louis Michel
+5957,GUILLEMINEAU,Perrine
+5958,ALBERT,Louis René Constant
+5959,JADEAU,Séraphine Jeanne
+5960,ALBERT,Lous
+5961,AUDINNEAU,Marie Jeanne
+5962,ALBERT,Loüis
+5963,CLERGEAU,(Jeanne)
+5964,ALBERT,Luc
+5965,CHAUVEAU,Suzanne
+5966,ALBERT,Marc
+5967,BAILLY,Louise
+5968,ALBERT,Marc
+5969,PORTON,Françoise
+5970,TEISSIER,Marie
+5971,ALBERT,Marie
+5972,GIRARD,Angèle
+5973,ALBERT,Marie Auguste
+5974,GABORIEAU,Louise
+5975,ALBERT,Marie Eugène
+5976,BEAUGEAULT,Marie Louise
+5977,ALBERT,Marie Gustin Joseph
+5978,GUIBERT,Marie Louise
+5979,ALBERT,Marie Isidore
+5980,BORDRON,Jeanne Madeleine
+5981,PIVETEAU,Jeanne Marie
+5982,ALBERT,Marie Jacque
+5983,BERSON,Marie
+5984,ALBERT,Marie Joseph
+5985,BACLE,Marie Louise Célestine
+5986,ALBERT,Marie Jules Chrisostome
+5987,ARNOUX,Marie Bertille
+5988,ALBERT,Marie Pierre
+5989,ALBERT,Marie Rose
+5990,VRIGNAUD,Marie Rose
+5991,ALBERT,Martial Pierre
+5992,CHARRIER,Marie Hortense
+5993,ALBERT,Mathieu
+5994,GAUDINEAU,Perrine
+5995,ALBERT,Mathieu
+5996,GUERIN,Louise
+5997,ALBERT,Mathurin
+5998,BONNAUD,Anne
+5999,ALBERT,Mathurin
+6000,BOSSARD,Louise
+6001,ALBERT,Mathurin
+6002,BOURIAU,Marianne
+6003,ALBERT,Mathurin
+6004,BROCHARD,Angéle
+6005,COUSTAND,Jeanne
+6006,ALBERT,Mathurin
+6007,COUTAND,Jeanne
+6008,ALBERT,Mathurin
+6009,FALLOURD,Anne
+6010,ALBERT,Mathurin
+6011,GABORIAU,Françoise
+6012,ALBERT,Mathurin
+6013,GIRARD,Louise
+6014,ALBERT,Mathurin
+6015,GIRARD,Renée
+6016,GIRAUDON,Anne
+6017,ALBERT,Mathurin
+6018,GODET,Marie Jeanne
+6019,LEROY,Marie
+6020,ALBERT,Mathurin
+6021,MECHINEAU,Jeanne
+6022,ALBERT,Mathurin
+6023,PUAUD,Jeanne Françoise
+6024,ALBERT,Mathurin
+6025,RENAUDIN,Perrine
+6026,ALBERT,Mathurin
+6027,ROBIN,Françoise
+6028,ROBIN,Marie
+6029,ALBERT,Mathurin
+6030,VINET,Jeanne
+6031,ALBERT,Mathurin
+6032,VINET,Marguerite
+6033,ALBERT,Michel
+6034,CHIRON,Philoméne
+6035,ALBERT,Michel
+6036,CLENET,Marie
+6037,FRANCHETEAU,M. Madeleine
+6038,ALBERT,Michel
+6039,HERAULT,Marie
+6040,ALBERT,Michel
+6041,MECHINEAU,Françoise
+6042,ALBERT,Narcisse Félix Aristide
+6043,BONNEAU,Marie Louise Clémentine
+6044,ALBERT,Nicolas
+6045,n/a,Catherine
+6046,BARBAREAU,Suzanne
+6047,BRUNET,Marie Antoinette
+6048,COUSSEAU,Toussaine
+6049,FERRIER,Marguerite
+6050,GUINOT,Françoise
+6051,ALBERT,Nicolas
+6052,TEXIER,Mathurine
+6053,ALBERT,Olivier
+6054,ORSONNEAU,Marie Anne
+6055,ALBERT,Philippe
+6056,GAY,Louise
+6057,ALBERT,Pierre
+6058,AGENEAU,Philoméne Augustine
+6059,ALBERT,Pierre
+6060,ALBERT,Jeanne
+6061,ALBERT,Pierre
+6062,AMIAUD,Jeanne
+6063,ARNOULT,Françoise
+6064,ARSICAUD,Jeanne
+6065,ALBERT,Pierre
+6066,AUDUGE,Marianne
+6067,AUDUGER,Marianne
+6068,AUDUGER,Marie Anne
+6069,AUGER,Marie Anne
+6070,ALBERT,Pierre
+6071,BARBAUD,Jeanne Joséphine
+6072,ALBERT,Pierre
+6073,BARBEAU,Clémentine
+6074,ALBERT,Pierre
+6075,BARON,Jeanne
+6076,ALBERT,Pierre
+6077,BARON,Perrine
+6078,ALBERT,Pierre
+6079,BARREAU,Arsenne
+6080,ALBERT,Pierre
+6081,BARREAU,M. Genevieve
+6082,BATIOT,n/a
+6083,ALBERT,Pierre
+6084,BAUDRY,Modeste
+6085,ALBERT,Pierre
+6086,BERNARD,Marie
+6087,ALBERT,Pierre
+6088,BILLAUD,Marie
+6089,ALBERT,Pierre
+6090,BILLAUD,Marie
+6091,ALBERT,Pierre
+6092,BITEAU,Jeanne
+6093,BLANCHARD,Suzanne
+6094,ALBERT,Pierre
+6095,BODIN,Hélenne
+6096,BODIN,Marie
+6097,ALBERT,Pierre
+6098,BOISSINOT,Marie Herminie
+6099,ALBERT,Pierre
+6100,BONNIN,Marie
+6101,BOSSARD,Marie
+6102,ALBERT,Pierre
+6103,BOUGRA,Marie
+6104,BOUREAU,Marie
+6105,ALBERT,Pierre
+6106,BRIAND,Marie
+6107,ALBERT,Pierre
+6108,CHABIRON,Marie
+6109,ALBERT,Pierre
+6110,CHAUVEAU,Marie
+6111,CHAUVEAU,Marie
+6112,CHIRON,Marie
+6113,ALBERT,Pierre
+6114,CHOUC,Charlotte
+6115,ALBERT,Pierre
+6116,CHUPIN,Jeanne
+6117,CHUPIN,Jeanne
+6118,ALBERT,Pierre
+6119,CLENET,Jeanne
+6120,COQUIN,Marie
+6121,ALBERT,Pierre
+6122,COUTAND,Françoise Thérèse
+6123,ALBERT,Pierre
+6124,CROISE,Marie
+6125,ALBERT,Pierre
+6126,DAVIAUD,Marie-Magdelaine
+6127,ALBERT,Pierre
+6128,DELHUMEAU,Sophie
+6129,DELIGNE,Rose
+6130,ALBERT,Pierre
+6131,DENIS,Marie
+6132,DESCHAMPS,Anne
+6133,ALBERT,Pierre
+6134,DROUET,Marie
+6135,DUGAST,Marie
+6136,ALBERT,Pierre
+6137,DURET,Jeanne
+6138,ALBERT,Pierre
+6139,DURET,Rose
+6140,ALBERT,Pierre
+6141,FAVREAU,Renée
+6142,FLEURISSON,Jeanne
+6143,FLURISSON,Marie
+6144,FOUCAUD,Jeanne
+6145,FRAUD,Marie
+6146,ALBERT,Pierre
+6147,GABORIT,Marie Marguerite
+6148,GANRY,Catherine
+6149,ALBERT,Pierre
+6150,GARCIAUD,Jeanne
+6151,ALBERT,Pierre
+6152,GARNIER,Marie
+6153,GATEAU,Rose Hyacinthe
+6154,GAUCHER,Renée
+6155,ALBERT,Pierre
+6156,GAUTIER,Renée
+6157,ALBERT,Pierre
+6158,GEFFARD,Rose
+6159,GENDRONNEAU,Marie Modeste
+6160,ALBERT,Pierre
+6161,GIRARD,Perrine
+6162,GIRARDEAU,Françoise
+6163,ALBERT,Pierre
+6164,GIRAUD,Mathurine
+6165,ALBERT,Pierre
+6166,GOUIN,Marie-Rose
+6167,ALBERT,Pierre
+6168,GOURAUD,Marie
+6169,ALBERT,Pierre
+6170,GROLEAU,Renée
+6171,GUIBERT,M.Rose
+6172,ALBERT,Pierre
+6173,GUINEHUT,Marianne
+6174,ALBERT,Pierre
+6175,HERBRETTEAU,Marie
+6176,HURTAUD,Jeanne
+6177,JOBARD,Marie
+6178,JOBARD,Marie
+6179,ALBERT,Pierre
+6180,LANDRY,Marie
+6181,ALBERT,Pierre
+6182,LEVEAU,Madeleine
+6183,LHÉRIN,Perrine
+6184,ALBERT,Pierre
+6185,MACE,Jeanne
+6186,MACOUIN,Marie-Anne
+6187,MARTIN,Françoise
+6188,ALBERT,Pierre
+6189,MAUGEAIS,Perrine
+6190,MERAND,Jeanne
+6191,MICHENEAU,Jeanne
+6192,ALBERT,Pierre
+6193,MIGEON(NE),Louise
+6194,ALBERT,Pierre
+6195,MONTACIER,Perrine
+6196,ALBERT,Pierre
+6197,MOREAU,Françoise
+6198,ALBERT,Pierre
+6199,MORTEAU,Modeste Victorine
+6200,MUDET,Anne
+6201,ALBERT,Pierre
+6202,PABOEUF,Marie
+6203,PAIRAUD,Julie
+6204,ALBERT,Pierre
+6205,PAIRAUD,Julie
+6206,PALLARD,Marie
+6207,PINEAU,Jeanne
+6208,ALBERT,Pierre
+6209,PIQUART,Marie
+6210,ALBERT,Pierre
+6211,PLESSIS,Jeanne
+6212,PLOQUIN,Jacquine
+6213,ALBERT,Pierre
+6214,POTIER,Françoise
+6215,POTIER,Françoise
+6216,ALBERT,Pierre
+6217,QUERQUIS,Jeanne
+6218,RAMBERT,Renée
+6219,ALBERT,Pierre
+6220,REMIGEREAU,Louise
+6221,ALBERT,Pierre
+6222,RENAUDIN,Catherine
+6223,ALBERT,Pierre
+6224,RENNETEAU,Marie Jeanne
+6225,ALBERT,Pierre
+6226,RENOU,Marie
+6227,RENTEAU,Marie Jeanne
+6228,RIDEAU,Jeanne
+6229,ALBERT,Pierre
+6230,RIGAUD,Marie Rose
+6231,ALBERT,Pierre
+6232,ROUSSEAU,Marie
+6233,SAINTE ESPECE,Nipoline Julie
+6234,SAUSSEAU,Marie
+6235,TEXIER,Françoise
+6236,THIBAULT,Marie
+6237,THUDEAU,Louise
+6238,VENEAU,Marie
+6239,ALBERT,Pierre
+6240,VINET,Anne
+6241,ALBERT,Pierre
+6242,VUAULT,Marie
+6243,ALBERT,Pierre Auguste
+6244,MORIN,Louise Marie Adelina
+6245,ALBERT,Pierre Baptiste
+6246,CAILLAUD,Marie-Anne
+6247,ALBERT,Pierre Benoit
+6248,ALBERT,Marie Jeanne
+6249,ALBERT,Pierre Casimir
+6250,MACOUIN,Marie Aimée
+6251,ALBERT,Pierre Constant
+6252,GARON,Marie Rose Ursule
+6253,ALBERT,Pierre Désiré
+6254,GUEDON,Louise Henriette
+6255,ALBERT,Pierre Eugène
+6256,BILLY,Honorine Alphonsine
+6257,ALBERT,Pierre Eugène
+6258,GUILLOTEAU,Marie Louise
+6259,ALBERT,Pierre Felix
+6260,CHAUVEAU,Josephine Emelie
+6261,ALBERT,Pierre Félix
+6262,CHAUVEAU,Joséphine Emelie
+6263,CHAUVEAU,Marie Anne Emelie
+6264,ALBERT,Pierre François
+6265,CLERGEAU,Charlotte
+6266,PIGEAUD,Jeanne
+6267,ALBERT,Pierre Frédéric
+6268,BERNARD,Bénigne Rose
+6269,ALBERT,Pierre Isaïe
+6270,BIRET,Valentine Eulalie
+6271,ALBERT,Pierre Jacques
+6272,ROCHAIS,Angélique Clémentine
+6273,ALBERT,Pierre Julien
+6274,DEBORDE,Marie Henriette
+6275,ALBERT,Pierre Louis
+6276,DEVAUD,Angélique
+6277,ALBERT,Pierre Louis
+6278,LARGEAU,Marie Anne
+6279,ALBERT,Pierre Louis
+6280,MITARD,Rosalie Euphrosine
+6281,ALBERT,Pierre Louis Eugène
+6282,ALBERT,Pierre Louis Marie
+6283,ROUET,Céline Berthe
+6284,ALBERT,Pierre Valentin
+6285,VRIGNAUD,Marie Arteline Célina
+6286,ALBERT,Prosper
+6287,DIXNEUF,Marie Louise
+6288,ALBERT,René
+6289,AUDOÜIT,Marie
+6290,ALBERT,René
+6291,AUDUREAUD,Adélaide
+6292,AUGÉ (?),Marie Anne
+6293,AUGEAU,Louise
+6294,ALBERT,René
+6295,AUVINET,Jeanne
+6296,ALBERT,René
+6297,BENOIST,Marie
+6298,ALBERT,René
+6299,BIRET,Jeanne Françoise
+6300,ALBERT,René
+6301,BLAIN,Françoise
+6302,BONENFAN,Marie
+6303,ALBERT,René
+6304,BOUTET,Marie
+6305,ALBERT,René
+6306,BREMAUD,Angélique
+6307,BRUNET,Marie
+6308,ALBERT,René
+6309,BRUNET,Marie
+6310,ALBERT,René
+6311,CHARBONNEAU,Françoise
+6312,ALBERT,René
+6313,CLENET,Marie
+6314,ALBERT,René
+6315,CORQUETEAU,Jeanne
+6316,COUZIN,Marie
+6317,FRANCHETEAU,Perrine Philomène
+6318,GABOREAU,Marie-Anne
+6319,GALLOT,Marie Adélaïde
+6320,GUERY,Jeanne
+6321,GUIGNARD,Jacquette
+6322,ALBERT,René
+6323,MECHINEAU,Marie
+6324,METAY,Marie
+6325,ALBERT,René
+6326,MITARD,Marguerite
+6327,ALBERT,René
+6328,POUTIERE,Marie
+6329,RENAUDEAU,Jacquette
+6330,ALBERT,René
+6331,ALBERT,René
+6332,SORIN,Mathurine
+6333,ALBERT,René
+6334,SOURISSEAU,Marie Louise
+6335,THORE,Catherine
+6336,ALBERT,René
+6337,THOREAU,Renée
+6338,ALBERT,René François
+6339,ALBERT,Marie Françoise Célestine
+6340,ALBERT,René Jean
+6341,PAULEAU,Pauline Marie
+6342,ALBERT,René Louis
+6343,GREGOIRE,Marie Pélagie
+6344,ALBERT,Renné
+6345,TISSEAU,Mathurine
+6346,ALBERT,Sébastien
+6347,CHANSON,Marie
+6348,ALBERT,Simon
+6349,COFFINEAU,Marie
+6350,NOGUET,Marie
+6351,ALBERT,Théodore
+6352,CLENET,Jeanne
+6353,ALBERT,Théodore Frédéric
+6354,PROQUIN,Louise Adélaïde Victorine
+6355,ALBERT,Théodore Théophile
+6356,LEVIN,Flavie Victoire Marguerite
+6357,ALBERT,Urbain
+6358,CHAILLE,Marie
+6359,ALBERT,Urbin
+6360,CHAILLÉ,Marie
+6361,ALBERT,Victor Henry
+6362,CHEVALLEREAU,Bénine
+6363,ALBERT,Victor Henry
+6364,CHEVALLEREAU,Prudence Benigne
+6365,ALBERT,Victor Pierre Octave
+6366,DAGUZE,Eugénie
+6367,ALBERT,Victor Valentin Louis
+6368,DAHAYE,Marie Florentine
+6369,ALBERT,Victor Valentin Louis
+6370,RAINETEAU,Marie Louise Antoinette
+6371,ALBERT,Vincent
+6372,MOULINEAU,Marie
+6373,ALBERT,Yves
+6374,DIXNEUF,Perrine
+6375,ALBERT(ou HERBERT),François
+6376,GAUTIER,Renée
+6377,ALBERT/HERBERT,Jacques
+6378,TRUYAU,Jeanne
+6379,ALBERTAU,Alexis Béiamin
+6380,POUSIN,Modeste
+6381,ALBERTAU,Jean Alexis
+6382,RUAULT,Marie Constance
+6383,ALBERTAU,Louis
+6384,BERTELO,Marie
+6385,ALBERTEAU,Auguste Charles
+6386,BROSSEAU,Augustine Hortense
+6387,ALBERTEAU,François
+6388,BEAUNEVEU,Constance
+6389,ALBERTEAU,Jean Baptiste
+6390,BROSSARD,Marie
+6391,ALBERTEAU,Joseph
+6392,GUILLON,Rose
+6393,ALBERTEAU,Louis
+6394,HERISSET,Marie
+6395,ALBERTEAU,Louis
+6396,MENANTEAU,Justine Eugénie
+6397,AMADE,Joseph
+6398,GALLOT,Perrine
+6399,GALOT (GUALOT),Perrine
+6400,AMADE,Jozeph
+6401,ROUVIERE,Marie Marguerite
+6402,AMADES,Pierre Gabriel
+6403,DOILLARD,Marie Jeanne
+6404,AMAIL,François
+6405,AMBROISE,Catherine
+6406,AMAILLAN,Jacques
+6407,MICHEAU,Jeanne
+6408,AMAILLAND,Jacques
+6409,LEBLOIS,Catherine
+6410,AMAILLAND,Julien
+6411,AMAILLANT,Jacque
+6412,BRUNET,Marie
+6413,AMALERIC,Joseph
+6414,NEVEU,Marie Rose
+6415,AMALERIE,François Alexandre Mathurin
+6416,RIGAGNEAU,Marie Rose Elise
+6417,AMALRYC,Arnault
+6418,MOTHE,Anne
+6419,AMAND,Antoine Didier
+6420,SORTANT,Julie Amelina
+6421,AMAND,Léon
+6422,ANNEREAU,Marguerite
+6423,AMANS,Jean
+6424,FEVRE,Jeanne
+6425,AMANT,Jean
+6426,BRUNET,Elisabeth
+6427,AMANT,Jean
+6428,CHABOT,Marie
+6429,AMAR,Bernard
+6430,CHAUVITEAU,Marie
+6431,AMAUD,Pierre
+6432,LEVEILLE,Perrine/Marie
+6433,AMAUS,Jean
+6434,BALQUET,Jeanne
+6435,AMBLARD,Antoine Vincent
+6436,CHAUVET,Louise Suzanne
+6437,AMBLARD,Jean
+6438,PROUT,Marie Rose
+6439,AMBLAUD,Mathieu
+6440,TURPAULT,Marie
+6441,AMBOURIEU,Joseph
+6442,MERCIER,Elise Marie Joséphine
+6443,AMBROISE,Henri Alphonse
+6444,AUGER,Estelle Germaine
+6445,AMBROISE,Iréne
+6446,MERCIER,Marie Aurélie
+6447,AMBROISE,Jacques Alphonse Célestin
+6448,JARRY,Maria Clémentine Eugénie
+6449,JOUIN,Flavie Xavérine Elise
+6450,AMBROISE,Jean Auguste Hyacinthe
+6451,GABORIT,Désirée Célestine Eugénie
+6452,AMBROISE,Justin
+6453,MARIONNEAU,Marie Rose
+6454,AMBROISE,Martial Alfred
+6455,AME,Pierre
+6456,BOURSIER,Perrine
+6457,PHILIPPEAU,Andrée
+6458,AME,René
+6459,TALUT ou LALUT,Jeanne
+6460,AMEIL,Anthoine
+6461,DOUGE,Jacquette
+6462,PHELIPPEAU,Louise
+6463,AMEIL,Etienne
+6464,GUERIN,Jeanne
+6465,AMEIL,Jacques
+6466,CORNUAU,Renée
+6467,GANNEAU,Marie
+6468,PIVETEAU,Gabrielle
+6469,AMEIL,Jean
+6470,GAULTIER,Hilairette
+6471,GORON,Marie
+6472,HERBERT,Marguerite
+6473,LANDRET,Jeanne
+6474,AMEIL,Joseph
+6475,GALLOT,Louise
+6476,AMEIL,Joseph
+6477,MAUPETIT,Suzanne
+6478,AMEIL,Louis
+6479,IVELIN,Louise
+6480,AMEIL,Mathurin
+6481,MOREAU,Jeanne
+6482,AMEIL,Pierre
+6483,DAVID,Françoise
+6484,AMEIL,Pierre
+6485,FEVRE,Hilaire
+6486,AMEIL,Pierre
+6487,PHELIPPEAU,Marie
+6488,AMEIL,René
+6489,AMELAND,Jacques
+6490,THOMAS,Madeleine
+6491,AMELET,Jacques
+6492,MOUNEREAU,Marie
+6493,PAGEOT,Catherine
+6494,AMELET,Jean
+6495,BUFFECHOU,Jacquette
+6496,AMELIN,André
+6497,CHOUX,Marie
+6498,MAROLLEAU,Jeanne
+6499,AMELIN,François
+6500,FALLOUX,Louise
+6501,AMELIN,Gratien
+6502,DENAY,Françoise
+6503,AMELIN,Hilaire
+6504,CHARUAULT,Renée
+6505,AMELIN,Hilaire
+6506,GRIMAUD,Jaquette
+6507,AMELIN,Jean-François
+6508,DORE,Véronique
+6509,AMELIN,Mathurin
+6510,AMELIN,Pierre
+6511,GUEDON,Thérèse
+6512,GUEDON,Therese
+6513,AMELIN,Pierre
+6514,POTTIER,Jeanne
+6515,AMELIN,René
+6516,DELHUMEAU,Renée
+6517,AMELIN,René
+6518,MOYROUX,Catherine
+6519,AMELINAU,François
+6520,VIAUD,Françoise
+6521,AMELINE,Edmond Joseph
+6522,VALOGNES,Marie Adolphine
+6523,AMELINE,Jules
+6524,COUASNON,Louise
+6525,AMELINE,Victor Joseph
+6526,MERLET,Marie Victoire
+6527,AMELINEAU,...
+6528,n/a,...
+6529,AMÉLINEAU,Aimé François
+6530,RAFFIN,Louise
+6531,AMELINEAU,André
+6532,CHAVIGNOIS,Jeanne
+6533,AMELINEAU,André
+6534,RICHARD,Marie Jeanne
+6535,AMÉLINEAU,André
+6536,SIRE,Catherine
+6537,AMELINEAU,Célestin Baptiste Alfred
+6538,POISSONNET,Marie Henriette Emilienne
+6539,AMELINEAU,Charles
+6540,AMELINEAU,Catherine
+6541,BARRAUD,Jeanne Louise Aimée
+6542,BASSIGNON,Marie
+6543,AMELINEAU,Charles
+6544,MORISSON,Marie
+6545,AMELINEAU,Charles
+6546,RABAUD,Marie Françoise
+6547,ROCHETEAU,Marie Louise Théonie
+6548,AMELINEAU,Charles Aimé Honoré
+6549,GENDRONNEAU,Marie Victoire
+6550,AMELINEAU,Charles Désiré
+6551,BARREAU,Louise Henriette
+6552,AMÉLINEAU,Charles Désiré
+6553,LOGEAIS,Marie Bathilde
+6554,AMELINEAU,Charles François
+6555,BRECHOTTEAU,Marie Louise Augustine
+6556,AMÉLINEAU,Charles Henri Eugène
+6557,GAUTIER,Alphonsine Léontine Henriette
+6558,AMELINEAU,Charles Nicolas Joseph
+6559,BARRAUD,Jeanne Louise Aimée
+6560,AMÉLINEAU,Clovis
+6561,DUDIT,Marie-Armance
+6562,AMELINEAU,Daniel
+6563,LOGEOIS,Catherine
+6564,AMÉLINEAU,Emile Théophile Benjamin
+6565,RAFFIN,Marie Louise Adéline
+6566,AMELINEAU,Estienne
+6567,ARDENAY,Simonne
+6568,AMELINEAU,Eugène
+6569,POIRAUDEAU,Esther
+6570,AMELINEAU,Eugène Baptiste Auguste
+6571,RICHARD,Marie Armance Augustine
+6572,AMÉLINEAU,Eugène Pierre Isidore
+6573,GADÉ,Marie Augustine
+6574,AMÉLINEAU,Ferdinand Samuel Édouard
+6575,DANIAU,Marie Louise Augustine
+6576,AMELINEAU,François
+6577,BARREAU,Marie
+6578,AMELINEAU,François
+6579,BONNEAU,Marie Thérèse
+6580,AMELINEAU,François
+6581,CLERJAUD,Rose
+6582,GARAU,Marion
+6583,GUILBAUD,Angélique
+6584,GUILLOTEAU,Marie
+6585,GUYAU,Perrine
+6586,AMÉLINEAU,François
+6587,MALLET,Jeanne
+6588,AMELINEAU,François
+6589,MASSE,Aimée
+6590,REVERSEAU,Françoise
+6591,RIVOISY,Anne
+6592,AMELINEAU,François Aimé
+6593,MANDIN,Marie Henriette Désirée
+6594,AMELINEAU,François Alexandre
+6595,PROUTEAU,Marie Rose
+6596,AMÉLINEAU,François Benjamin
+6597,GILLAIZEAU,Maria Victoire Augustine
+6598,AMELINEAU,Gabriel Louis François
+6599,RAMBAUD,Eugénie Augustine Aimée
+6600,AMELINEAU,Gilles
+6601,LIBAUDIÈRE,Louise
+6602,AMELINEAU,Guillaume
+6603,RICHARD,Marie
+6604,AMELINEAU,Henri Eugène
+6605,JOUBERT,Marie Rose Victorine
+6606,AMELINEAU,Hilaire
+6607,CROISNEAU,Ozanne
+6608,VINCENT,Bérengère ?
+6609,AMELINEAU,Hillaire
+6610,LESNE,Margueritte
+6611,AMELINEAU,Hugues
+6612,PUBERT,Marie
+6613,AMELINEAU,Jacque
+6614,GINARD,Rose Théraize
+6615,AMELINEAU,Jacques
+6616,ARNAUD,Marie
+6617,AMELINEAU,Jacques
+6618,BARBAUD,Marie Jeanne
+6619,AMELINEAU,Jacques
+6620,BARRE,Renée
+6621,BOURSEREAU,Michelle
+6622,CHAVINOIS,Catherine
+6623,COILLARD,Françoise
+6624,AMELINEAU,Jacques
+6625,DODIN,Louise
+6626,AMELINEAU,Jacques
+6627,GALERNEAU,Marie
+6628,GERVEREAU,Marie
+6629,GUILLOTEAU,Thomase
+6630,AMELINEAU,Jacques
+6631,MATHE,Louise
+6632,AMELINEAU,Jacques
+6633,PORTELLEAU,Magdeleine
+6634,POTTIER,Anne
+6635,AMELINEAU,Jacques André Baptiste
+6636,CHAILLOU,Louise Laure
+6637,AMELINEAU,Jacques Augustin
+6638,RAPITEAU,Angélique
+6639,AMELINEAU,Jacques François
+6640,BUFFET,Généreuse
+6641,AMELINEAU,Jacques Louis
+6642,CHUSSEAU,Marie Anne
+6643,AMELINEAU,Jacques Louis
+6644,FRUCHARD,Marie Victoire
+6645,AMELINEAU,Jean
+6646,ALLAIZEAU,Magdelaine
+6647,AMELINEAU,Jean
+6648,ARGNON,Renée
+6649,BEGAUD,Marie
+6650,AMELINEAU,Jean
+6651,BESSONNET,Renée Louise
+6652,BIRET,Marie
+6653,BOUTIN,Suzanne
+6654,AMELINEAU,Jean
+6655,COURCIER,Andrée
+6656,AMELINEAU,Jean
+6657,COUTOUIS,Marguerite
+6658,DORIE,Louise
+6659,DURAND,Marie Célestine
+6660,FORTI,Marie
+6661,GALERNEAU,Catherine
+6662,AMELINEAU,Jean
+6663,GIRAUDET,Marie Henriette
+6664,AMELINEAU,Jean
+6665,GRONDIN,Jacquette
+6666,AMELINEAU,Jean
+6667,GUYON,Véronique
+6668,AMELINEAU,Jean
+6669,MERIAUD,Marie
+6670,AMELINEAU,Jean
+6671,MOISAUD,Françoise
+6672,MOISEAU,Michèle
+6673,AMELINEAU,Jean
+6674,MONTASSIER,Jeanne
+6675,AMELINEAU,Jean
+6676,ORCEAU,Modeste Thérèse
+6677,ORDONNEAU,Louise Henriette
+6678,PONDEVIE,Magdelaine
+6679,PROUSTEAU,Magdelaine
+6680,AMELINEAU,Jean
+6681,REMAUD,Jeanne
+6682,ROUSSEAU,Florence
+6683,ROUX,Catherine
+6684,SIONNEAU,Marie
+6685,AMELINEAU,Jean
+6686,SIRE,Rosalie
+6687,SIRE,Rose Elie
+6688,AMELINEAU,Jean
+6689,TRICHET,Marie Magdeleine
+6690,AMELINEAU,Jean Baptiste
+6691,GRAIZEAU,Marie Henriette Angélique
+6692,AMELINEAU,Jean Baptiste
+6693,MATHE,Marie Rose Victoire Léontine
+6694,AMELINEAU,Jean François
+6695,MICHON,Philomène Marie
+6696,AMELINEAU,Jean François
+6697,SIONNEAU,Suzanne
+6698,AMELINEAU,Jean Jacques
+6699,PENARD,Félicité Marie
+6700,AMÉLINEAU,Jean Joseph
+6701,LUCAS,Marie Jeanne
+6702,AMELINEAU,Jean Joseph Casimir
+6703,DELAVEAU,Marie Louise Françoise
+6704,AMELINEAU,Jean Louis
+6705,MICHON,Marie Madeleine
+6706,AMELINEAU,Jean Louis
+6707,PONDEVIE,Marie
+6708,AMELINEAU,Jean Louis Manuel
+6709,TROUSICOT,Marie Louise Pélagie
+6710,AMELINEAU,Jean Pierre
+6711,ARIGNON,Marie Françoise
+6712,AMÉLINEAU,Jean-Louis
+6713,BARRETEAU,Léonide
+6714,AMELINEAU,Jérôme
+6715,FORGEREAU,Marie
+6716,AMELINEAU,Joseph
+6717,BARITEAU,Marie Rose
+6718,AMELINEAU,Joseph
+6719,FAVREAU,Marie
+6720,AMELINEAU,Joseph
+6721,GOULPEAU,Marie Aimée
+6722,AMELINEAU,Joseph
+6723,MALLET,Louice
+6724,AMELINEAU,Joseph
+6725,RETAIL,Magdelaine
+6726,RICHARD,Marie
+6727,AMELINEAU,Joseph Henri Aimé
+6728,BERTHOME,Alexandrine Clémentine Aimée
+6729,AMELINEAU,Joseph Jean
+6730,AMELINEAU,Marie
+6731,AMELINEAU,Joseph Victor
+6732,RABILLER,Marie Aimée
+6733,AMELINEAU,Jules
+6734,FOURNIER,Henriette
+6735,AMELINEAU,Jules Joseph
+6736,THORAVAL,Marie Suzanne
+6737,AMELINEAU,Louis
+6738,BOUET,Jeanne
+6739,AMELINEAU,Louis
+6740,BOUGRAS,Jeanne
+6741,AMELINEAU,Louis
+6742,COUPRIE,Françoise
+6743,AMELINEAU,Louis
+6744,FOUCAUD,Ursule
+6745,AMELINEAU,Louis
+6746,FRADET,Magdelaine
+6747,GALERNEAU,Renée
+6748,JOLLY,Magdelaine
+6749,ROUSSEAU,Charlotte
+6750,THIBAUDEAU,Marie Anne
+6751,AMELINEAU,Louis Auguste
+6752,MATHÉ,Marie Louise Léontine Clémence
+6753,PIVERT,Marie Henriette
+6754,AMELINEAU,Louis Exavier
+6755,CHARRIER,Marie Bellonie
+6756,AMÉLINEAU,Louis Jean
+6757,AUGEREAU,Marie Françoise
+6758,AMELINEAU,Martin
+6759,MOUSSION,Jeanne
+6760,AMELINEAU,Noël
+6761,RICHARD,Marguerite
+6762,AMELINEAU,Olivier
+6763,MARTIN,Susanne
+6764,AMELINEAU,Philbert
+6765,GUIGNARDEAU,Janne
+6766,AMELINEAU,Pierre
+6767,BESSEAU,Jeanne
+6768,AMELINEAU,Pierre
+6769,BOURON,Renée
+6770,CHATELIER,Marie
+6771,AMELINEAU,Pierre
+6772,CHIRON,Marie
+6773,AMELINEAU,Pierre
+6774,GODINEAU,Louise
+6775,GUILBAUD,Marie
+6776,AMELINEAU,Pierre
+6777,GUILLOU,Madeleine
+6778,MAGAUD,Anne
+6779,AMELINEAU,Pierre
+6780,MASSE,Louise
+6781,AMELINEAU,Pierre
+6782,MATHE,Marie Louise
+6783,AMELINEAU,Pierre
+6784,MOREAU,Anne
+6785,MOUSSION,Marie
+6786,AMELINEAU,Pierre
+6787,PORTELLEAU,Françoise
+6788,AMELINEAU,Pierre
+6789,RABILLER,Marie Louise
+6790,RAINAUD,Marie Françoise
+6791,RAYNEAU,Louise
+6792,ROY,Marie Anne
+6793,AMELINEAU,Pierre
+6794,SORIN,Jeanne
+6795,TABARD,Marie Rose
+6796,VILAIN,Hélène
+6797,AMELINEAU,Pierre André
+6798,GUIBERT,Lucie Pélagie
+6799,AMELINEAU,Pierre Constant
+6800,CHARRIER,Marie Louise
+6801,AMELINEAU,Pierre Jacques
+6802,ROUX,Flavie
+6803,AMELINEAU,Pierrre alexandre
+6804,CHENU,Marie Louise Célina
+6805,AMELINEAU,PIierre Jacques
+6806,PIVETEAU,Françoise
+6807,AMELINEAU,René
+6808,CAVAIL,Anne
+6809,MAROIS,Françoise
+6810,AMELINEAU,René
+6811,MOISEAU,Catherine
+6812,PELTIER,Renée
+6813,AMELINEAU,Similien
+6814,BERNAUDEAU,Louise
+6815,CHIRON,Louise Félicité
+6816,AMELINEAU,Simon
+6817,GAUTIER,Magdeleine Marie
+6818,AMELINEAU,Simon
+6819,SIMONNEAU,Marguerite
+6820,AMELINEAU,Théophile Placide
+6821,BIRON,Rose Henriette Alexandrine
+6822,AMELINEAU,Toussaint
+6823,BOURON,Perrine
+6824,AMELINEAU,Tranquille Clément
+6825,MICHON,Aglae Euphrosine Henriette
+6826,AMELINEAU,Vincent
+6827,CANTIN,Anne
+6828,CHABOT,Thomase
+6829,PENISSON,Marie
+6830,AMELINEAU (AMELLINEA,Pierre Joseph
+6831,BROSSARD,Jeanne Françoise
+6832,AMELINEAU / OMNINEAU,Louis
+6833,POTIER,Marguerite
+6834,AMELINEAU/OMLINEAU,Louis
+6835,ARRIVÉ,Louise
+6836,AMELINEAU/OMLINEAU,Louis
+6837,LEBOEUF,Marie
+6838,AMELINNEAU,André
+6839,CLEMANCEAU,Jeanne
+6840,COUTURIER,Jeanne
+6841,AMELINNEAU,Charles
+6842,RIGOLAGE,Renée
+6843,AMELLIN,Pierre
+6844,RENAULT,Michelle
+6845,AMELON,François
+6846,MESNARD,Séraphique Ursule
+6847,AMENINEAU,Jean
+6848,FOURNIER,Perrine
+6849,AMENINEAU,Sébastien
+6850,FEVRE,Anne
+6851,AMERAND,Amand Constant Auguste
+6852,JOLY,Marie Rose Sévère
+6853,AMERAND,Armand Jean Baptiste
+6854,BOURON,Victorine Marie
+6855,AMERAND,Baptiste Elie
+6856,MOUILLEAU,Victoire
+6857,AMERAND,Charles
+6858,FERRE,Gilette
+6859,TRICHET,Rose
+6860,AMERAND,Edouard François Xavier
+6861,MICHINEAU,Bonne Léocadie
+6862,AMERAND,Eugène Denis
+6863,BECHET,Véronique
+6864,AMERAND,François Ferdinand
+6865,GUYARD,Ludivine Germaine Clémentine
+6866,AMERAND,François Théophile
+6867,GUILLONNEAU,Marie Philomène
+6868,AMERAND,Henry Prudent Marie
+6869,PAJOT,Virginie
+6870,AMERAND,Hippolyte
+6871,MENUET,Marie Rose Aimée
+6872,AMÉRAND,Jacques
+6873,BOURIAU,Marie Angélique
+6874,AMERAND,Jacques
+6875,JOLY,Anne
+6876,AMERAND,Jacques
+6877,THIBAUDEAU,Jeanne
+6878,AMERAND,Jacques Hipolite Désiré
+6879,GERVIER,Marie Françoise
+6880,AMERAND,Jacques Hipplite
+6881,GERVIER,Marie
+6882,AMERAND,Jacques Samuel Henri
+6883,MARTINEAU,Marie Rose Adèle
+6884,AMERAND,Jean
+6885,CHARRIER,Louise
+6886,AMERAND,Jean
+6887,CLAUTOUR,Marie
+6888,CLAUTOUR,Marie
+6889,AMERAND,Jean Léon Hyppolite
+6890,CAIREAU,Marie Adélaïde
+6891,AMERAND,Joseph
+6892,VAIRON,Marie Magdeleine
+6893,AMERAND,Louis Auguste
+6894,ROBIN,Jeanne Esther
+6895,AMERAND,Louis Ferdinand
+6896,BERNARD,Véronique Pauline
+6897,AMERAND,Louis Vincent
+6898,BARANGER,Marie Rose
+6899,AMERAND,Marie Romain
+6900,BASTARD,Angélina
+6901,AMERAND,Pierre
+6902,BESSEAU,Rose
+6903,AMERAND,Pierre
+6904,BOUHIER,Marguerite
+6905,AMERAND,Pierre
+6906,CHEVRIER,Marie Jeanne
+6907,AMERAND,Pierre
+6908,TOUGERON,Jeanne
+6909,AMERAND,Pierre
+6910,TRIBALEAU,Anne
+6911,AMERAND,Pierre Charles Louis
+6912,MICHON,Antoinette Eléonore
+6913,AMERAND,Pierre François
+6914,PAJOT,Adélaïde
+6915,AMERAND,Pierre François
+6916,SIMONNEAU,Rose
+6917,AMERAND,Pierre François Philippe
+6918,BARANGER,Marie Rose
+6919,AMERAND,Théodore Alphonse François
+6920,PONTOIZEAU,Lucie Ludivine Marie
+6921,AMERANT,Germain Louis
+6922,PERIN,Marie Jeanne
+6923,AMERANT,Jacques
+6924,BARETEAU,Marie Adélaïde
+6925,AMERANT,Pierre François
+6926,PAJOT,Adélaïde
+6927,AMERAUD,Auguste Victor
+6928,FRAPPIER,Victorine
+6929,AMERRAND,Pierre François
+6930,BONNIN,Marie Jeanne
+6931,AMETEAU,Louis
+6932,GUILLARD,Louise
+6933,AMETEAU,Louis
+6934,MORIN,Louise
+6935,AMETEAU,Louis Charles
+6936,LUMINEAU,Marie
+6937,AMETEAU,René
+6938,CHAIGNEAU,Marie Aimée
+6939,AMETHEAU (UVETHAU),Charles
+6940,MONIQ,Renée
+6941,AMEUIL,Pierre
+6942,BIGOT,Marie Anne
+6943,AMIAND,Alexandre Louis Marie
+6944,RAMBAUD,Marie Rose
+6945,AMIAND,Honoré
+6946,BLANCHARD,Honorée
+6947,AMIAND,Jacques
+6948,PERAUD,Catherine
+6949,AMIAND,Philbert Pierre
+6950,DORE,Marie-Philomène Eugénie Jeanne
+6951,AMIAND,Pierre
+6952,MERCIER,Anne
+6953,AMIAU,François
+6954,BOBERT,Marie
+6955,AMIAU,Jacques
+6956,ROBIN,Marie
+6957,AMIAU,Pierre
+6958,BOUTOLLEAU,Cécille
+6959,AMIAUD,Adam
+6960,LANDRIAU,Françoyse
+6961,AMIAUD,Aimé
+6962,GAUTRON,Marie Louise
+6963,AMIAUD,Alexandre
+6964,MARAIS,Marie Augustine
+6965,AMIAUD,Alexandre Arsène
+6966,DUGAST,Marie Madeleine
+6967,AMIAUD,Alexandre Charles
+6968,RENAUD,Jeanne Eulalie Adélaïde
+6969,AMIAUD,André
+6970,AURIEAU,Françoise
+6971,AMIAUD,André
+6972,FONTENEAU,Marie
+6973,AMIAUD,André
+6974,GALLOT,Marie
+6975,MANDIN,Marie
+6976,PILET,Catherine
+6977,AMIAUD,Antoine
+6978,BOUDAUD,Françoise
+6979,CANTIN,Catherine
+6980,AMIAUD,Antoine
+6981,DRAPEAU,Élisabeth
+6982,AMIAUD,Antoine
+6983,GIRARD,Judith
+6984,AMIAUD,Antoine
+6985,TRICHET,Françoise
+6986,AMIAUD,Antoine
+6987,TRICHET,Françoise
+6988,AMIAUD,Armand Félix
+6989,DUGAST,Ozanne Madeleine
+6990,AMIAUD,Auguste Pierre Alexandre
+6991,ERIEAU,Marie Virginie
+6992,AMIAUD,Charles
+6993,CLAVEAU,Jeanne
+6994,LAMBERT,Marie Rose
+6995,AMIAUD,Charles
+6996,PIVETEAU,Marie
+6997,AMIAUD,Charles
+6998,PROUTEAU,Marie
+6999,VERDON,Marie
+7000,AMIAUD,Charles Alexandre
+7001,RENAUD,Marie Hyacinthe
+7002,AMIAUD,Charles Cyprien
+7003,LOISEAU,Marie Anne
+7004,PELARD,Rose
+7005,PIVETEAU,Jeanne
+7006,AMIAUD,Clément Eugène Maximin
+7007,AUDINEAU,Marie-Madeleine Clémence
+7008,AMIAUD,Denis
+7009,AMIAUD,Émile Henri Jean
+7010,BÉTAUD,Léontine Marie Philomène Séraphie
+7011,AMIAUD,Etienne
+7012,BRETET,M. Hélène
+7013,AMIAUD,Evariste Eugène
+7014,BABINOT,Marie Aimée
+7015,AMIAUD,François
+7016,AUDUREAU,Marie
+7017,AMIAUD,François
+7018,AUVINET,Michelle
+7019,AMIAUD,François
+7020,BIZET,Marguerite
+7021,AMIAUD,François
+7022,BOIRAUD,Victoire
+7023,AMIAUD,François
+7024,BOUDAUD,Françoise
+7025,BOUILLAUD,Marie
+7026,CHAGNEAU,Françoise
+7027,AMIAUD,François
+7028,CHAPELEAU,Jeanne
+7029,COSSAIS,Catherine
+7030,AMIAUD,François
+7031,DURET,Marie Anne
+7032,AMIAUD,François
+7033,FLEURISSON,Catherine
+7034,AMIAUD,François
+7035,AMIAUD,François
+7036,FRANCHETEAU,Louise
+7037,AMIAUD,François
+7038,FRELAND,Marie
+7039,AMIAUD,François
+7040,MORENNE,Louise Renée
+7041,MORTEAU,Louise Pauline
+7042,MORTEAU,Marie Rose
+7043,RAVON,Aimée
+7044,RICARD,Jeanne
+7045,SIRE,Jeanne
+7046,VINSONNEAU,Catherine
+7047,AMIAUD,François Elie Henri
+7048,MACQUIGNEAU,Rosalie Alexandrine
+7049,AMIAUD,François Joseph
+7050,TRICHET,Marie
+7051,AMIAUD,François Mathurin
+7052,BILLAUD,Marie Françoise
+7053,AMIAUD,François Pierre Jacques
+7054,BRECHOTEAU,Jeanne Françoise Aimée
+7055,AMIAUD,Gabriel
+7056,VIDARD,Louise
+7057,AMIAUD,Gilles
+7058,BOUTEILLER,Marguerite
+7059,AMIAUD,Henri
+7060,GRAVOUIL,Marie-Mélina
+7061,AMIAUD,Honoré
+7062,BAUDIN,Marie
+7063,AMIAUD,Jacques
+7064,AMIAUD,Jacques
+7065,ARRIVE,Jeanne
+7066,AULYER,Isabeau
+7067,AMIAUD,Jacques
+7068,AURIEAU,Marie
+7069,AMIAUD,Jacques
+7070,BEAUVINEAU,Jeanne
+7071,BESSON,Jeanne
+7072,AMIAUD,Jacques
+7073,BODIN,Madeleine
+7074,AMIAUD,Jacques
+7075,CHAPELEAU,M. Anne
+7076,AMIAUD,Jacques
+7077,CHARTIER,Marie-Magdeleine
+7078,CORDIN,Catherine
+7079,AMIAUD,Jacques
+7080,DOUILLARD,Jeanne
+7081,AMIAUD,Jacques
+7082,DOUILLARD,M Anne Victoire
+7083,AMIAUD,Jacques
+7084,DUGAST,Marie
+7085,AMIAUD,Jacques
+7086,GAYNEAU,Renée
+7087,AMIAUD,Jacques
+7088,GIRAUD,Magdeleine
+7089,GODARD,Tranquille
+7090,GOUPIL,Marie
+7091,GUILLEBAUD,Jeanne
+7092,HURTAUD,Catherine
+7093,AMIAUD,Jacques
+7094,JAUD,M.Renée
+7095,AMIAUD,Jacques
+7096,LIMOUZAIN,Marguerite
+7097,LIMOUZIN,Marguerite
+7098,LOUINEAU,Jeanne
+7099,MAINDRON,Louise
+7100,AMIAUD,Jacques
+7101,PAYRAUDEAU,Marie
+7102,PEIGNÉ,Luce
+7103,AMIAUD,Jacques
+7104,PIVETEAU,Jeanne
+7105,QUIERTON,Jeanne
+7106,QUILLET,Toussainte
+7107,AMIAUD,Jacques
+7108,REDOIS,Jeanne
+7109,ROUSSEAU,Marie
+7110,TEXIER,Louise
+7111,TRIPOTEAU,Marie
+7112,VERDEAU,Marguerite
+7113,VERDEAU,Marie
+7114,AMIAUD,Jacques
+7115,VIAUD,Modeste Marianne Magdeleine
+7116,VIDARD,Marie
+7117,AMIAUD,Jacques
+7118,YOU,Marie
+7119,AMIAUD,Jacques Jean Tranquille
+7120,BERIAU,Perrine
+7121,AMIAUD,Jean
+7122,ALBERT,Jeanne
+7123,AMIAUD,Jean
+7124,AMIAUD,Renée
+7125,ANGIBAUD,Marie
+7126,AMIAUD,Jean
+7127,AUMAND,Anne
+7128,AMIAUD,Jean
+7129,AUMAND,Anne
+7130,AMIAUD,Jean
+7131,BAILLY,Louise
+7132,BAILLY,Louise
+7133,BARANGER,Hélène
+7134,AMIAUD,Jean
+7135,BITAUD,Perrine
+7136,AMIAUD,Jean
+7137,BOUVINEAU,Catherine
+7138,AMIAUD,Jean
+7139,BRIZARD,Marie
+7140,BROSSAUD,Renée
+7141,AMIAUD,Jean
+7142,CHAILLOU,Marie
+7143,AMIAUD,Jean
+7144,CHARRIER,Catherine
+7145,AMIAUD,Jean
+7146,CHARRIER,Jeanne
+7147,AMIAUD,Jean
+7148,CHATAIGNER,Marie
+7149,CORNARDEAU,Louise
+7150,AMIAUD,Jean
+7151,COUSINET,Marie
+7152,AMIAUD,Jean
+7153,DAVID,Angélique Marie Anne
+7154,DESVALLEES,Marie
+7155,AMIAUD,Jean
+7156,DOUILLARD,Anne
+7157,DOUILLARD,Anne
+7158,AMIAUD,Jean
+7159,DRONNEAU,Augustine
+7160,AMIAUD,Jean
+7161,DUPE,Jeanne
+7162,DURANCEAU,Marguerite
+7163,AMIAUD,Jean
+7164,FAVEREAU,Jeanne
+7165,AMIAUD,Jean
+7166,GORBEIL,Jeanne
+7167,AMIAUD,Jean
+7168,GREAU,Jeanne
+7169,GRÉAU,Jeanne
+7170,JUGIAU,Jeanne
+7171,AMIAUD,Jean
+7172,MAINDRON,Marie
+7173,MARCHETEAU,Suzanne
+7174,AMIAUD,Jean
+7175,MARTINEAU,Marguerite
+7176,AMIAUD,Jean
+7177,MONEREAU,Françoise
+7178,AMIAUD,Jean
+7179,PATARIN,Marie
+7180,AMIAUD,Jean
+7181,PATARIN,Marie
+7182,AMIAUD,Jean
+7183,PAYRAUDEAU,Marguerite
+7184,AMIAUD,Jean
+7185,PEROTTEAU,Marie
+7186,AMIAUD,Jean
+7187,PILLET,Jacquette
+7188,AMIAUD,Jean
+7189,PORCHERON,Marie
+7190,AMIAUD,Jean
+7191,RABREAU,Jeanne
+7192,SAGOT,Marie Rose
+7193,SAGOT,Marie-Rose
+7194,AMIAUD,Jean
+7195,TRICHET,Amainthe
+7196,AMIAUD,Jean
+7197,VERDON,Louise
+7198,AMIAUD,Jean Baptiste
+7199,BERNARD,Marie Anne
+7200,AMIAUD,Jean Baptiste
+7201,BIGNON,M. Esther
+7202,AMIAUD,Jean Baptiste
+7203,FONTENEAU,Jeanne Désirée
+7204,AMIAUD,Jean Baptiste
+7205,ROBIN,Marie Madeleine
+7206,AMIAUD,Jean Baptiste Marie
+7207,MARTINEAU,Marie Anne Adélaïde Rosalie
+7208,AMIAUD,Jean Charles
+7209,BOSSU,Marie
+7210,AMIAUD,Jean Charles
+7211,DRAPEAU,Jeanne
+7212,AMIAUD,Jean Charles
+7213,GILBERT,Marie Angélique
+7214,RONDEAU,Jeanne Marie
+7215,AMIAUD,Jean Florent
+7216,GIRAUDEAU,Joséphine
+7217,LACHAMBRE,Rose Véronique
+7218,AMIAUD,Jean Pierre
+7219,GRANDET,Henriette
+7220,AMIAUD,Jean Pierre Joseph
+7221,DOUILLARD,Marie Anastasie
+7222,AMIAUD,Jean-Baptiste
+7223,BOUHIER,Marie-Adèle
+7224,AMIAUD,Jean-François
+7225,RENOLLEAU,Marie-Olympe
+7226,AMIAUD,Jean-François Eugène
+7227,LOISEAU,Louise Séraphie
+7228,AMIAUD,Jehan
+7229,BLAIS,Jehanne
+7230,BONNAUD,Louise
+7231,CHARRIEAU,Marie
+7232,REZEAU,Philippine
+7233,AMIAUD,Joseph
+7234,GRIMAUD,Gabrielle
+7235,AMIAUD,Joseph Constant
+7236,FAUCHARD,Victorine Henriette Clémentine
+7237,AMIAUD,Jules
+7238,GUILBAUD,Constance
+7239,AMIAUD,Jules Adolphe
+7240,RELET,Angélina Marie Patiente
+7241,AMIAUD,Jules Auguste
+7242,AUGER,Hortense Juliette
+7243,AMIAUD,Julien
+7244,BASTY,Marie Anne
+7245,AMIAUD,Julien
+7246,GILLAUD,Marie
+7247,AMIAUD,Julien
+7248,MOCQUET,Marie Anne
+7249,AMIAUD,Julien Eugène Maximin
+7250,PAIN,Marie-Louise Hortense
+7251,AMIAUD,L.André
+7252,DRAPEAU,M.Aimée
+7253,AMIAUD,Louis
+7254,ANGIBAUD,Françoise
+7255,AMIAUD,Louis
+7256,AURIEAU,Jeanne
+7257,BROCHET,Louise Félicitée
+7258,CHAIGNEAU,Adélaïde
+7259,CHARRIER,Marie-Anne
+7260,AMIAUD,Louis
+7261,COUSINET,Julie
+7262,DAVID,Rose
+7263,AMIAUD,Louis
+7264,FAGOT,Germaine
+7265,AMIAUD,Louis
+7266,GRASSET,Gabrielle
+7267,AMIAUD,Louis
+7268,GRASSET,Jeanne
+7269,GRASSET,Jeanne
+7270,GROLLIER,Marie
+7271,MANDIN,Marguerite
+7272,AMIAUD,Louis
+7273,MAZOUE,Marie Victoire
+7274,AMIAUD,Louis
+7275,PILLET,Catherine
+7276,RENAUDIN,Louise
+7277,RIOU,Marie
+7278,AMIAUD,Louis
+7279,SOULARD,Marie
+7280,AMIAUD,Louis Alexandre
+7281,GALLOT,Marie Émilie Clémentine
+7282,AMIAUD,Louis Constant Marie
+7283,OCTEAU,Eugénie Marie
+7284,AMIAUD,Louis Émile
+7285,GANDEMER,Eugénie Philomène
+7286,AMIAUD,Louis François
+7287,GLAMAUD,Marie Louise Désirée
+7288,AMIAUD,Louis Jean
+7289,BAFFEREAU,Marie Rose
+7290,AMIAUD,Louis Math.
+7291,CHASSELOUP,Victoire
+7292,ORIEUX,Alphonsine
+7293,AMIAUD,Louis Prosper
+7294,GOIS,Marie Anne Victoire
+7295,AMIAUD,Lucien Louis
+7296,RENAUD,Marie Célestine
+7297,AMIAUD,Lucien Louis Alexandre
+7298,AMIAUD,Angèle Esther Rosalie
+7299,AMIAUD,Lucien Paul Emile
+7300,AMIAUD,Marie Prosper
+7301,MORILLOT,Jeanne
+7302,AMIAUD,Mathurin
+7303,ARNAUD,Marie Anne
+7304,AMIAUD,Mathurin
+7305,BAUDRY,Perrine
+7306,AMIAUD,Mathurin
+7307,BOSSARD,Jeanne
+7308,AMIAUD,Mathurin
+7309,CHARRIER,Jeanne
+7310,AMIAUD,Mathurin
+7311,COFFINEAU,Françoise
+7312,AMIAUD,Mathurin
+7313,FRENEAU,Clotilde
+7314,AMIAUD,Mathurin
+7315,GILBERT,Marie Anne
+7316,GILBERT,Marie Anne
+7317,GIRAUD,Mathurine
+7318,GUILBAUD,Jacquette
+7319,AMIAUD,Mathurin
+7320,HUCHET,Jeanne
+7321,AMIAUD,Mathurin
+7322,JUGIAU,Jacquette
+7323,MICHEAUD,Jeanne
+7324,AMIAUD,Mathurin
+7325,PEQUIN,Marie Anne
+7326,RENAUD,Anne
+7327,RENAUD,Perrine
+7328,AMIAUD,Mathurin
+7329,RENAUDINEAU,Michelle
+7330,AMIAUD,Mathurin
+7331,TEXIER,Marie
+7332,AMIAUD,Mathurin
+7333,TEXIER,Marie
+7334,AMIAUD,Maurice
+7335,BASTY,Perrine
+7336,AMIAUD,Maurice
+7337,THOMAZEAU,Rose Angélique
+7338,AMIAUD,Michel
+7339,POTIER,Madeleine
+7340,AMIAUD,Nicolas
+7341,BEDON,Renée
+7342,JOLY,Madeleine
+7343,LHOMMEAU,Renée
+7344,AMIAUD,Philippe
+7345,DURANCEAU,Mathurine
+7346,AMIAUD,Pierre
+7347,AUDUREAU,Jeanne
+7348,AMIAUD,Pierre
+7349,BARDIN,Louise
+7350,BAUDOUIN,Jeanne
+7351,BEDOUIT,Madelanie
+7352,BOISSEAU,Marie
+7353,AMIAUD,Pierre
+7354,BOISSELEAU,Françoise
+7355,AMIAUD,Pierre
+7356,BOISSELEAU,Jeanne
+7357,BOUTEAU,Marguerite
+7358,BOUTET,Rose
+7359,AMIAUD,Pierre
+7360,BRANCARD,Andrée
+7361,BRISSEAU,Marguerite
+7362,AMIAUD,Pierre
+7363,CAILLON,Magdelaine
+7364,DAVIET,Rose
+7365,AMIAUD,Pierre
+7366,DRENEAU,Jeanne
+7367,AMIAUD,Pierre
+7368,DUGAST,Jeanne Adèle
+7369,FUMOLEAU,Perrine
+7370,GILBERT,Marie
+7371,GORON,Catherine
+7372,GUICHETEAU,Marie-Euphrosine
+7373,GUIGNARD,Marie Radégonde
+7374,JOUSSEAUME,Marie Jeanne
+7375,AMIAUD,Pierre
+7376,JOYAU,Catherine
+7377,AMIAUD,Pierre
+7378,LABBÉ,Jeanne
+7379,LINYER,Marie
+7380,LOIZEAU,Marie
+7381,AMIAUD,Pierre
+7382,MINAUD,Clarisse Rose Esther
+7383,MOINARD,Louise
+7384,PERRIN,Marguerite
+7385,AMIAUD,Pierre
+7386,PERRIN,Marguerite
+7387,PORTRON,Jeanne
+7388,AMIAUD,Pierre
+7389,RAMBAUD,Marie
+7390,AMIAUD,Pierre
+7391,RENAUD,Jeanne
+7392,AMIAUD,Pierre
+7393,RENAUDIN,Magdeleine
+7394,RIBLAUD,Marie
+7395,AMIAUD,Pierre
+7396,ROUSSEAU,Marie Anne
+7397,AMIAUD,Pierre
+7398,SELLIER,Marie Anne
+7399,AMIAUD,Pierre
+7400,THOMAS,Jeanne
+7401,AMIAUD,Pierre
+7402,VERDEAU,Jeanne
+7403,VILLAIN,Marie Rose
+7404,AMIAUD,Pierre Auguste
+7405,DOUINEAU,Marie Rose Pélagie
+7406,AMIAUD,Pierre Auguste
+7407,PERVIER,Anastasie Marie Rosalie
+7408,AMIAUD,Pierre Baptiste Auguste
+7409,ALLAIN,Marie Gabrielle Elise
+7410,AMIAUD,Pierre Désiré
+7411,PILLET,Vivtoire Joséphine
+7412,AMIAUD,Pierre Eugène
+7413,LESIMPLE,M. Augustine
+7414,AMIAUD,Pierre Jacques
+7415,AMIAUD,Pierre Jean
+7416,BOULIAU,Marie Anne
+7417,AMIAUD,Pierre Louis
+7418,FOLIOT,Victoire Marie
+7419,AMIAUD,Raymond Isaïe Narcisse
+7420,GRIMAUD,Thaïse Clémence Alexandrine
+7421,AMIAUD,René
+7422,BRISARD,Françoise
+7423,CHEVOLLEAU,Marie
+7424,CREMOIS,Gabrielle
+7425,AMIAUD,René
+7426,SOULARD,Perrine
+7427,AMIAUD,Simon
+7428,GIRAUDEAU,Anne
+7429,AMIAUD,Toussaint
+7430,GRELAUD,Suzanne
+7431,AMIAUD,Vincent
+7432,BROCHARD,Marguerite
+7433,AMIAUD,Vincent
+7434,TROTIN,Suzanne
+7435,VERDEAU,Jeanne
+7436,AMIAULT,Adam
+7437,LANDRIAU,Françoise
+7438,AMIAULT,Jacque
+7439,BIBARD,Françoisse
+7440,AMIAULT,Jean
+7441,PARPAILLON,Nicole
+7442,AMIAULT,Jehan
+7443,TIFFEREAU,Andrée
+7444,AMIAUT,Louys
+7445,ARNAULT,Jeanne
+7446,AMIBIEN,André
+7447,MASSE,Françoise
+7448,AMIEAU,Louis
+7449,COUSINET,Julie
+7450,AMIEL,Antoine
+7451,RIBOULEAU,Rose
+7452,AMIEL,Etienne Pierre
+7453,PHELIPPEAU,Marie
+7454,AMIEL,Jacques
+7455,BERTON,Isabelle
+7456,AMIEL,Pierre
+7457,FAIVRE,Hilairette
+7458,AMIEN,n/a
+7459,COLIN,n/a
+7460,AMIEN,Charles
+7461,THIBAUDEAU,Angèle
+7462,AMIEN,Pierre
+7463,GIRARD,Marie Jeanne
+7464,AMIEN,Pierre Auguste Marie
+7465,ARNAUD,Marie-Mélanie
+7466,AMIL /AMEIL?,Jean
+7467,POINT,Marie Françoise
+7468,AMILASSEAU,André
+7469,GRELEAU,Léone
+7470,AMILIEN,François
+7471,FOURE,Madeleine
+7472,AMINOT,François
+7473,TILLRIT,Louisse
+7474,AMIOT,Alexis
+7475,GABARD,Marie
+7476,AMIOT,Augustin François
+7477,FERRE,Françoise Elisabeth
+7478,AMIOT,Charles
+7479,SOULLARD,Françoise
+7480,AMIOT,Charles Benjamin Dieudonné
+7481,BARDON,Prudence
+7482,AMIOT,Charles Victor
+7483,ARTEL,Marie Julie
+7484,GUIBERT,Julie
+7485,AMIOT,Clement Theodore
+7486,BOUCHEREAU,Clotilde Clemantine
+7487,AMIOT,Etienne
+7488,CHARIER,Marie
+7489,AMIOT,François
+7490,LALAIRE,Catherine
+7491,AMIOT,François
+7492,PAPIN,Marie
+7493,POIRON,Rosalie
+7494,AMIOT,François
+7495,POIRON,Rosalie
+7496,AMIOT,Guillaume
+7497,ARNAUD,Jacquette Louise Gabrielle
+7498,AMIOT,Henri Marie
+7499,GIRAUD,Marie Hirma Célestine
+7500,AMIOT,Jacques
+7501,COUSINEAU,Renée
+7502,AMIOT,Jacques
+7503,HULIN,Jeanne
+7504,AMIOT,Jacques
+7505,MICHAUD,Louise
+7506,AMIOT,Jacques
+7507,POIRIER,Marie Anne
+7508,AMIOT,Jacques
+7509,RETAILLEAU,Jeanne
+7510,AMIOT,Jacques
+7511,TEXIE,Marie Anne
+7512,AMIOT,Jacques
+7513,TRIPOTEAU,Marie
+7514,AMIOT,Jacques
+7515,VIGNERON,Marie
+7516,AMIOT,Jacques Louis
+7517,TRIPOTEAU,Marie Jeanne
+7518,AMIOT,Jacques Michel
+7519,BLOUIN,Jeanne Marie
+7520,AMIOT,Jean
+7521,BABARIT,Françoise
+7522,AMIOT,Jean
+7523,POUPELIN,Françoise
+7524,AMIOT,Jean Alexis Marie
+7525,GIRAUD,Marie Clémence Alexandrine
+7526,AMIOT,Jean Baptiste
+7527,GIRARD,Marianne
+7528,AMIOT,Jean François
+7529,POIDEVINEAU,Rose Thérèse
+7530,AMIOT,Joseph Jean Baptiste
+7531,BREMOND,Adeline Marie
+7532,AMIOT,Justin Jean
+7533,PINEAU,Marie Modeste
+7534,AMIOT,Laurent
+7535,BABARIT,Jeanne
+7536,AMIOT,Laurent
+7537,DUBOURG,Renée
+7538,AMIOT,Louis
+7539,ANGIBAUD,Françoise
+7540,AMIOT,Louis
+7541,BOISSONNEAU,Jeanne
+7542,AMIOT,Louis
+7543,GABARD,Jeanne
+7544,AMIOT,Louis
+7545,GABARD,Jeanne
+7546,GODET,Marguerite
+7547,GOURDON,Louise
+7548,AMIOT,Louis
+7549,PICHARD,Rosalie
+7550,AMIOT,Louis
+7551,POIRIER,Louise
+7552,AMIOT,Louis
+7553,VIGNERON,Renée
+7554,AMIOT,Louis Jacques
+7555,GUSTON,Marie Anne
+7556,AMIOT,Louis Pierre
+7557,PINET,Constance Victorine
+7558,AMIOT,Luc
+7559,COUDRIN,Marie
+7560,AMIOT,Marie Victor
+7561,BOUGLÉ,Rose
+7562,AMIOT,Martin
+7563,GUITTON,Jeanne
+7564,AMIOT,Martin
+7565,POUPIN,Jeanne
+7566,AMIOT,Mathurin
+7567,PAPIN,Perrine
+7568,AMIOT,Nicolas
+7569,ARNAUD,Perrine
+7570,AMIOT,Pierre
+7571,AGENEAU,Jeanne
+7572,BARANGER,Jeanne
+7573,BARANGER,Marie Rose
+7574,AMIOT,Pierre
+7575,BARANGER,Marie Rose
+7576,AMIOT,Pierre
+7577,BOURASSEAU,Marie Brigitte
+7578,AMIOT,Pierre
+7579,BOURCHIS,Jeanne
+7580,CASSIN,Françoise
+7581,AMIOT,Pierre
+7582,GARREAU,Marie
+7583,AMIOT,Pierre
+7584,GROLLEAU,Marie
+7585,GUILLET,Marie
+7586,GUILMINEAU,Jeanne
+7587,AMIOT,Pierre
+7588,LANDREAU,Françoise
+7589,POIRIER,Jeanne
+7590,AMIOT,René
+7591,BOUTTET,Marie-Madeleine
+7592,AMIOT,René
+7593,DRAPPEAU,Perrine
+7594,AMIOT,René
+7595,GEINDREAU,Marie Anne
+7596,AMIOT,René
+7597,JAHAN,Marie
+7598,AMIOT,René
+7599,NICOLLE,Anne
+7600,AMIOT,René
+7601,SOULARD,Pélagie
+7602,AMIOT,Vincent
+7603,BIZON,Marie
+7604,AMISSE,Laurent
+7605,MARTINEAU,Marie
+7606,AMISSE,René Julien
+7607,LEAUTE,Thérèse
+7608,AMMELINEAU,Daniel
+7609,AMMELINEAU,Louis
+7610,AMMELINEAU,Marie
+7611,AMMELINEAU,Pierre
+7612,MORISSON,Jeanne
+7613,AMMOLINEAU,Jean
+7614,DAUNIX,Françoise
+7615,AMNIAU,Vincent
+7616,RENAUD,Marie
+7617,AMON,Henry Philémon
+7618,CHOTARD,Jeanne
+7619,AMON,Jacques
+7620,MOUNEAU,Marie
+7621,AMON,Thomas
+7622,YOUTEAU,Jeanne
+7623,AMOND,André
+7624,BERNARD,Mathurine
+7625,AMOND,Germain
+7626,GAUVRIT,Hortance Virginie
+7627,AMONIER,Jean
+7628,MICHAUD,Catherine
+7629,AMORY,André
+7630,DES HERBIERS,Hyacinthe
+7631,AMOSSE,Benjamin
+7632,POIRON,M. Virginie
+7633,AMOSSÉ,Firmin Célestin
+7634,BLANCHET,Marie Louise
+7635,AMOSSE,Guillaume
+7636,BAUDRY,Marie Magdeleine
+7637,AMOSSÉ,Jean Baptiste
+7638,CHIRON,Victoire Henriette
+7639,AMOUREUX,Denis
+7640,CHAUVEAU,Catherine
+7641,AMOUREUX,Jan
+7642,JAMON,Marie
+7643,RENAUD,Françoise
+7644,AMOUREUX,René
+7645,JAMON,Elizabeth
+7646,AMOUROUX,Pierre
+7647,BOUQUIN,Marie Françoise
+7648,AMOZENOVA,Gaston
+7649,BRETAGNE,Aimée Eugénie Isabelle
+7650,AMRAUD,Mathurin
+7651,MAS,Jehanne
+7652,AMUSAT,André
+7653,BOURDEAU,Suzanne
+7654,AMUSSAC,André
+7655,LARGEAU,Perrine
+7656,SOUCHET,Jeanne
+7657,AMUSSAC,François
+7658,FERCHAUD,Elizabeth
+7659,AMUSSAC,Jean
+7660,MAROT,Gabrielle
+7661,PIPET,Jacquette
+7662,AMUSSAC,Louis
+7663,BOUYER,Marie
+7664,AMUSSAC,Pierre
+7665,SOUCHET,Marie
+7666,AMUSSACQ,François
+7667,BIENVENU,Jeanne
+7668,AMUSSARD,Charles
+7669,BABIN,Marie Anne
+7670,GRIMAUD,Catherine
+7671,TRUAUT,Susanne
+7672,AMUSSARD,Louis
+7673,PRUNIER,Jeanne
+7674,SOULISSE,Hélène
+7675,AMUSSARD,Nicolas
+7676,DALET,Marianne
+7677,AMUSSARD,Pierre
+7678,VINCENDEAU,Marie
+7679,AMUSSART,Jean
+7680,TURPAULT,Marie
+7681,AMUSSAT,Antoine
+7682,ARNAUD,Marie
+7683,AMUSSAT,Eugène François
+7684,INCONNU,Fidèle Marie
+7685,AMUSSAT,Jacques
+7686,BENOIST,Mandée
+7687,DAZELLE,Marie
+7688,AMUSSAT,Louis
+7689,CERCLERON,Marie Augustine
+7690,AMUSSAT,Louis
+7691,GRAND,Marie
+7692,RIVET,Jeanne
+7693,AMUSSAT,Pierre
+7694,COCHARD,Marie Madelaine
+7695,GARNIER,Jeanne
+7696,AMUSSAT,Pierre
+7697,MARTAIN,Louise
+7698,AMUSSAT,Pierre
+7699,MARTIN,Louise
+7700,AMUSSAT,René
+7701,GUITARD,Marie
+7702,AMYAU,Claude
+7703,BIBARD,Jeanne
+7704,AMYAUD,Antoine
+7705,MERLAUD,Marie
+7706,AMYAUD,François
+7707,FRELAND,Marie
+7708,AMYAUD,Jacques
+7709,COUTURIER,Suzanne
+7710,AMYAUD,Mathurin
+7711,LUMINEAU,Rosalie
+7712,AMYAUD,René
+7713,TEXIER,Marguerite
+7714,AMYAULT,Jacques
+7715,COUSIN,Marie
+7716,AMYAUT,Antoine
+7717,VIGE,Renée
+7718,AMYET,Jehan
+7719,YOU,Louise
+7720,AMYOT,Jacques
+7721,PIVETEAU,Louise
+7722,AMYOT,Jean
+7723,HUVELIN,Mathurine
+7724,AMYOT,Joseph Alexandre Clovis Léon
+7725,GIRAUDET,Augustine Marie Jeanne
+7726,AMYOT,Vincent
+7727,PIVETEAU,Mathurine
+7728,ANCEL,Jean Joseph Louis
+7729,MIQUEL,Marie Delphine
+7730,ANCEL,Joseph
+7731,LEPRELLE,Valentine
+7732,ANCEL,Louis
+7733,POINTRE,Marie Fleurentine Alphonsine
+7734,ANCELAIN,Jacques
+7735,CLERJAUD,Jeanne
+7736,ANCELAIN,Jean Baptiste
+7737,HERY,Marie Jeanne
+7738,ANCELAIN,Olivier
+7739,RENELIER,Marie
+7740,ANCELAIN,Pierre
+7741,AUDOUIN,Marie
+7742,ANCELIN,André
+7743,ABRAHAM,Marie Madeleine
+7744,DULFILS,Marie
+7745,ROBERT,Anne
+7746,SEGUINOT,Jeanne
+7747,TRIAU,Madeleine
+7748,TRIOU,Madeleine
+7749,ANCELIN,Antoine
+7750,ANCELIN,Charle
+7751,GIRARDEAU,Marie
+7752,ANCELIN,Charles
+7753,CHABOT,Marie
+7754,ANCELIN,Etienne
+7755,FAVEREAU,Jeanne
+7756,ANCELIN,Etienne
+7757,ANCELIN,François
+7758,BERTRAND,Marie
+7759,ANCELIN,François
+7760,CHARRIER,Marianne
+7761,CHARRIER,Marie
+7762,CHAUVEAU,Charlotte
+7763,GARNIER,Anne
+7764,GAUVAIN,Marie Françoise
+7765,GAUVIN,Françoise
+7766,LINARD,Marie
+7767,TRIEAU,Louise
+7768,ANCELIN,François Pierre
+7769,BROUARD,Marie Anne Rose
+7770,ANCELIN,Geoffroy
+7771,MASSÉ,Jeanne
+7772,ANCELIN,Jacques
+7773,BARBOT,Louise
+7774,BONENFANT,Marie
+7775,BOURDET,Marie
+7776,COSSET,Anne
+7777,FLEURISSON,Jeanne
+7778,FORT,Renée
+7779,JOBET,Marie Catherine
+7780,ANCELIN,Jacques
+7781,JUBIEN,Marie Anne
+7782,ANCELIN,Jacques
+7783,LEGERON,Jeanne
+7784,MICHOT,Elisabeth
+7785,MOULIN,Marie Jeanne
+7786,ANCELIN,Jean
+7787,BEAUBEAU,Marie Jeanne
+7788,ANCELIN,Jean
+7789,BEAUNAIS,Catherine
+7790,ANCELIN,Jean
+7791,BERTON,Marie Madelaine
+7792,ANCELIN,Jean
+7793,BORDEVERE,Jeanne
+7794,DENIS,Marie
+7795,ANCELIN,Jean
+7796,FLEURISSON,Mathurine
+7797,ANCELIN,Jean
+7798,GREZAY,Gabrielle
+7799,GREZAY,Gabrielle
+7800,MARCHANT,Sébastienne
+7801,MOTTE,Louise
+7802,PASQUET,Marie
+7803,PILLET,Marie Henriette
+7804,RAGUENEAU,Renée
+7805,ANCELIN,Jean
+7806,TAUD,Renée
+7807,THIRE,Marie Rose
+7808,ANCELIN,Jean
+7809,THIRE,Marie Rose
+7810,TIRBOIS,Louise
+7811,ANCELIN,Jean Baptiste
+7812,GRASSIN,Marie Anne Françoise
+7813,ANCELIN,Jean Baptiste
+7814,MALARD,Marie
+7815,ANCELIN,Jean-Baptiste
+7816,PLUMANT,Rose
+7817,ANCELIN,Jehan
+7818,MOSNEREAU,Louise
+7819,ANCELIN,Joseph
+7820,ROUSSELET,Rose
+7821,ANCELIN,Louis
+7822,FRETE,Marie
+7823,JARE,Marie
+7824,JOUARRY,Anthoinette
+7825,JOUBERT,Perrine
+7826,LAFORIE,Jeanne
+7827,POMMEREAU,Jeanne
+7828,ANCELIN,Louis
+7829,POMMEREAU,Jeanne
+7830,POUMEREAU,Jeanne
+7831,ANCELIN,Louis
+7832,ROBREAU,Françoise
+7833,ROUSSEAU,Marguerite
+7834,ANCELIN,Martin
+7835,SEGUINOT,Anne
+7836,ANCELIN,Mathurin
+7837,BICHON,Louise
+7838,MARGOTTON,Suzanne
+7839,THIBAUD,Louise
+7840,ANCELIN,Michel
+7841,ROUSSEAU,Suzanne
+7842,ANCELIN,Nicolas
+7843,BERNARD,Jeanne
+7844,ANCELIN,P
+7845,BOUQUET,G
+7846,ANCELIN,Paul Augustin
+7847,GOUSSEAU,Marie
+7848,ANCELIN,Paul Jean
+7849,ROUSSEAU,Julie Eléonore
+7850,ANCELIN,Pierre
+7851,AUMAND,Jeanne
+7852,ANCELIN,Pierre
+7853,AUMAND,Jeanne
+7854,ANCELIN,Pierre
+7855,BAUBRIAU,Jeanne
+7856,BAUDRY,Marie
+7857,ANCELIN,Pierre
+7858,BESLY,Marguerite
+7859,BOUFFECHOU,Catherine
+7860,BOUILLAUD,Jeanne
+7861,BOUILLAUD,Magdelaine
+7862,BOUILLEAU,Madeleine
+7863,BOUQUET,Gabrielle
+7864,BOUTET,Jacquotte
+7865,BOUTIN,Françoise
+7866,ANCELIN,Pierre
+7867,CART,Catherine
+7868,ANCELIN,Pierre
+7869,CHARLOT,Françoise Angélique
+7870,CHARTIER,Françoise
+7871,CHESSERAND,Catherine
+7872,DELAUNAY,Marie-Françoise
+7873,GAUTRON,Louise
+7874,GIRARDEAU,Jeanne
+7875,GOTERON,Louise
+7876,GRIZEAU,Marie
+7877,GUYOT,Marie
+7878,JADAULT,Jeanne
+7879,ANCELIN,Pierre
+7880,JUBIEN,Rosalie
+7881,LAFORIS,Jeanne
+7882,ANCELIN,Pierre
+7883,LALERE,Françoise
+7884,ANCELIN,Pierre
+7885,LAUVERGNAT,Marie Renée
+7886,LUSSAUD,Marie
+7887,LUSSAULT,Marie
+7888,ANCELIN,Pierre
+7889,MARITEAU,Jeanne
+7890,MORISSET,Françoise
+7891,ANCELIN,Pierre
+7892,PAGEAUD,Marie
+7893,ANCELIN,Pierre
+7894,PORTON,Marie-Louise
+7895,REMBAUD,Janne
+7896,ROSTURIER,Jeanne
+7897,ANCELIN,Pierre
+7898,ROTURIER,Jeanne
+7899,SERVANT,Marguerite
+7900,ANCELIN,Pierre François
+7901,DURANCEAU,Anne
+7902,ANCELIN,Pierre Jacques
+7903,RICHARD,Marie Madelaine Françoise
+7904,ANCELIN,Pierre Jules Constant
+7905,BOUDET,Marie Rose Clémentine
+7906,ANCELIN,René
+7907,BARITEAU,Marie
+7908,ANCELIN,René
+7909,BICHON,Jeanne
+7910,ANCELIN,René
+7911,BICHON,Jeanne
+7912,FRELAND,Marie
+7913,ANCELIN,René
+7914,GIRARD,Marguerite Rose
+7915,ANCELIN,René
+7916,PAILLAT,Marie Magdelaine
+7917,ANCELIN,René
+7918,SAVINEAU,Marie
+7919,ANCELIN,Thomas
+7920,SAGOT,Jeanne
+7921,SANTIER,Marianne
+7922,ANCELIN,Victor André
+7923,AVRIL,Jeanne
+7924,ANCELIN/ARSELIN,François
+7925,CLISSON,Jehanne
+7926,ANCELLIN,Arthur
+7927,DURAND,Eugénie
+7928,ANCELLIN,Jean
+7929,BOISDÉ,Marie
+7930,ANCELLIN,Louis
+7931,ROBREAU,Françoise
+7932,ANCELLIN,René
+7933,ANCIAUX,Gustave
+7934,TALÉ,Berthe Lucie Blandine
+7935,ANCREVE,François
+7936,AIME,Marie
+7937,ANCREVE,François
+7938,GOYON,Jeanne
+7939,ANCREVE,Gabriel
+7940,GUITTON,Anne
+7941,ANCREVE,Jean
+7942,CHAIGNEAU,Marie
+7943,ANCREVE,Pierre
+7944,FROMAGET,Marie
+7945,ANCREVÉ,René
+7946,AUGER,Marie
+7947,ANDAIN,Anthoine
+7948,LIGNE,Marie
+7949,ANDAIN,Jacques
+7950,AUGER,Françoise
+7951,FABIEN,Jeanne
+7952,MORICET,Jeanne
+7953,ANDAIN,Jean
+7954,GARCONNET,Marie-Françoise
+7955,ANDAIN,Jean
+7956,THOUMAZEAU,Françoise
+7957,ANDAIN,Jehan
+7958,RIDEAU,Jehanne
+7959,ANDAIN,Julien
+7960,ARTARIT,Marguerite
+7961,ANDAIN,Louis
+7962,BACLET,Louise
+7963,LEGER,Marie
+7964,ANDAIN,Michel
+7965,BODIN,Marie-Madeleine
+7966,BOUILLAUD,Marie
+7967,FAVREAU,Catherine
+7968,ANDAIN,Pierre
+7969,BRUSSEAU,Renée
+7970,ANDAIN,René
+7971,BARDET,Marie
+7972,LIGNE,Louise
+7973,ANDEBRAUD,André
+7974,AUBRY,Marie
+7975,ANDIN,Augustin
+7976,CHAIGNEAU,Marie Louise
+7977,ANDIN,Baptiste
+7978,MARQUIER,Marie
+7979,ANDIN,Baptiste Michel
+7980,MARQUIER,Marie Magdeleine
+7981,ANDIN,Charles Eugène Louis
+7982,COSSET,Marie Eugénie Célina
+7983,ANDIN,Clément François
+7984,ANNEREAU,Louise Cécile
+7985,ANDIN,Eugène François
+7986,CHABIRAND,Marie-Modese
+7987,ANDIN,François
+7988,ANDIN,Françoise
+7989,ANDIN,François
+7990,ANDIN,Marie Madeleine
+7991,ANDIN,François
+7992,ANDIN,Marie-Magdeleine
+7993,ANDIN,François
+7994,ARTARIT,Angélique
+7995,ANDIN,François
+7996,GAUTRON,Françoise
+7997,ANDIN,François
+7998,GELOT,Thérèse
+7999,ANDIN,François
+8000,MIAUD,Madeleine
+8001,ANDIN,Henri Jean Octave
+8002,TURCOT,Marie Victorine Eloise
+8003,ANDIN,Hilaire
+8004,DRAPRON,Magdeleine
+8005,ANGIBAUD,Louis
+8006,CHATEGNIER,Louise
+8007,COSSET,Marie
+8008,ANGIBAUD,Louis
+8009,CRETE,Anne
+8010,DELAVEAU,Marie
+8011,ANGIBAUD,Louis
+8012,FRAPPIER,Jeanne
+8013,ANGIBAUD,Louis
+8014,GASTEAU,Anne
+8015,ANGIBAUD,Louis
+8016,GAUVRIT,Ursule
+8017,GROLLIER,Renée
+8018,GUILLEBAUD,Marthe
+8019,ANGIBAUD,Louis
+8020,GUITTET,Marie
+8021,LANDAIS,Marguerite
+8022,MALET,Marie
+8023,ANGIBAUD,Louis
+8024,MERIAUD,Marguerite
+8025,NOUZILLE,Jeanne
+8026,OLIVEAU,Marie
+8027,ANGIBAUD,Louis
+8028,OLIVIER,Louise
+8029,ORCEAU,Marie Anne
+8030,ANGIBAUD,Louis
+8031,OUVRARD,Jeanne
+8032,PARPAILLON,Charlotte
+8033,PORTEAU,Marie Louise
+8034,PURZEAU,Marie Angélique
+8035,RAMPILLON,Julie
+8036,RICOLEAU,Françoise
+8037,ANGIBAUD,Louis
+8038,RIVASSEAU,Jeanne
+8039,ANGIBAUD,Louis
+8040,SAUVAGET,Jeanne
+8041,SIRE,Marie
+8042,ANGIBAUD,Louis
+8043,SYRE,Jeanne
+8044,ANGIBAUD,Louis
+8045,TESSON,Marie Françoise
+8046,ANGIBAUD,Louis
+8047,THIBAUDEAU,Renée
+8048,ANGIBAUD,Louis
+8049,TRAINEAU,Modeste
+8050,VILNOT,Marie
+8051,ANGIBAUD,Louis Auugste
+8052,PETREAU,Marie Louise
+8053,ANGIBAUD,Louis Désiré
+8054,HILAIRET,Victoire
+8055,ANGIBAUD,Louis Dominique
+8056,BULTEAU,Henriette Ursule
+8057,ANGIBAUD,Louis François
+8058,GAULY,Marie Anne Charlotte Aimée Rose
+8059,ANGIBAUD,Louis Honoré
+8060,GRELIER,Marie Anne
+8061,ANGIBAUD,Louis Honoré
+8062,HUGUET,Magdeleine
+8063,ANGIBAUD,Louis Prosper
+8064,MUCIDAN,Marie
+8065,ANGIBAUD,Luc
+8066,BARBEAU,Marguerite
+8067,ANGIBAUD,Luc
+8068,BOISARD,Jeanne Françoise
+8069,CHARIAU,Catherine
+8070,TEXIER,Renée
+8071,THIBAUDEAU,Anne
+8072,ANGIBAUD,Maixent
+8073,ANGIBAUD,Marc
+8074,JACOLEAU,Jeanne
+8075,ANGIBAUD,Marc Antoine
+8076,RAUD,Marie
+8077,ANGIBAUD,Marie Gaspard
+8078,LAINARD,Rosalie
+8079,ANGIBAUD,Mathurin
+8080,FERCHAUD,Perrine
+8081,FOURESTIER,Janne
+8082,ANGIBAUD,Mathurin
+8083,GAIGNERON,Catherine
+8084,ANGIBAUD,Mathurin
+8085,GASTEAU,Marie
+8086,ANGIBAUD,Mathurin
+8087,GUITTON,Périne
+8088,HERVEAU,Anne
+8089,ANGIBAUD,Mathurin
+8090,PAIROCHIN,Sébastienne
+8091,POTIER,Catherine
+8092,ANGIBAUD,Maximin Gustave Bénoni
+8093,MORINEAU,Amélie Rosella Irma
+8094,ANGIBAUD,Michel
+8095,JARRIAU,Louise
+8096,MESSINE,Renée
+8097,ANGIBAUD,Michel
+8098,POUPET,Renée
+8099,ANGIBAUD,Michel
+8100,RENAUD,Honorée
+8101,ANGIBAUD,Michel Jean
+8102,BOUTIN,Jeanne Anne
+8103,ANGIBAUD,Nicolas
+8104,BORDAGE,Hélène
+8105,ANGIBAUD,Nicolas
+8106,GUITTON,Perrine
+8107,LEGLAT,Louise
+8108,SICARD,Elisabeth
+8109,ANGIBAUD,Nicolas François
+8110,CARDINAUD,Françoise
+8111,HURTAUD,Marie Anne
+8112,ANGIBAUD,Noel
+8113,BRAUDON,Gabrielle
+8114,BRENEREAU,Marie
+8115,ANGIBAUD,Olivier
+8116,AVRILLEAU,Judith
+8117,ANGIBAUD,Olivier Émile
+8118,JAUNATRE,Marie Élisabeth
+8119,ANGIBAUD,Olivier Jean
+8120,RABILLER,Adèle Aimée
+8121,ANGIBAUD,P.Martial
+8122,ANGIBAUD,Paul
+8123,GUERINEAU,Marguerite
+8124,ANGIBAUD,Philippe
+8125,ROGER,Jeanne
+8126,ANGIBAUD,Philippe Marie
+8127,NOBIRON,Marie Victoire
+8128,ANGIBAUD,Pierre
+8129,n/a,n/a
+8130,ANGIBAUD,Pierre
+8131,ANGIBAUD,Magdeleine
+8132,ARNAUD,Perrine
+8133,ANGIBAUD,Pierre
+8134,AUTIN,Marie-Françoise
+8135,BALANGER,Françoise
+8136,BERJONNEAU,Marie Françoise
+8137,ANGIBAUD,Pierre
+8138,BIRE,Renée
+8139,BLUSSEAU,Marie
+8140,BODIN,Marie Jeanne
+8141,ANGIBAUD,Pierre
+8142,BONNIN,Louise
+8143,ANGIBAUD,Pierre
+8144,BOUCARD,Louise
+8145,ANGIBAUD,Pierre
+8146,BRAUD,Marie
+8147,CAMUS,Jacquette
+8148,CANQUETEAU,Françoise
+8149,ANGIBAUD,Pierre
+8150,CHAUCHET,Jeanne
+8151,CHENU,Jeanne
+8152,COFFINEAU,Marie
+8153,ANGIBAUD,Pierre
+8154,DUPONS,Agathe
+8155,ANGIBAUD,Pierre
+8156,FERON,Marie
+8157,FERRAND,Jehanne
+8158,ANGIBAUD,Pierre
+8159,FESTIVEAU,Françoise
+8160,ANGIBAUD,Pierre
+8161,FORTINEAU,Françoise
+8162,FRESNEAU,Suzanne
+8163,GABIRON,Louise
+8164,GABORIT,Victorine
+8165,ANGIBAUD,Pierre
+8166,GENAUDEAU,Marie Renée
+8167,ANGIBAUD,Pierre
+8168,GENDRONNEAU,Jeanne
+8169,GERBAUD,Françoise
+8170,GERMAIN,Jeanne
+8171,ANGIBAUD,Pierre
+8172,GUINET,Louise
+8173,ANGIBAUD,Pierre
+8174,HYLERITEAU,Jeanne
+8175,ANGIBAUD,Pierre
+8176,JOLLY,Marie
+8177,ANGIBAUD,Pierre
+8178,MARAIS,Françoise
+8179,MARTEAU,Suzanne
+8180,ANGIBAUD,Pierre
+8181,MASSE,Rose
+8182,MENANTEAU,Marie
+8183,MERCIER,Catherine
+8184,MORAIN,Catherine
+8185,ANGIBAUD,Pierre
+8186,MORICEAU,Louise
+8187,MORIN,Catherine
+8188,NICOLLEAU,Jeanne
+8189,ORDONNEAU,Marie Egyptienne Françoise
+8190,PALLARDY,Marie
+8191,ANGIBAUD,Pierre
+8192,PEROCHEAU,Victorine Marie
+8193,PRAUD,Anne
+8194,ANGIBAUD,Pierre
+8195,RABALLAND,Marie
+8196,RATOUIT,Marie
+8197,RAUD,Catherine
+8198,RELET,Marie Marguerite
+8199,RENARD,Jeanne
+8200,ANGIBAUD,Pierre
+8201,RENAUD,Jeanne
+8202,ANGIBAUD,Pierre
+8203,RIDIER,Michelle
+8204,ANGIBAUD,Pierre
+8205,ROBIN,Marie Anne Aimée
+8206,ROGE,Marie Anne
+8207,ROUX,Anne
+8208,SICARD,Mathurine
+8209,ANGIBAUD,Pierre
+8210,SIMONET,Françoise
+8211,SIONNAU,Catherine
+8212,ANGIBAUD,Pierre
+8213,SYRE,Marie
+8214,ANGIBAUD,Pierre
+8215,TOUZEAU,Michelle
+8216,ANGIBAUD,Pierre
+8217,VILNOT,Marie
+8218,ANGIBAUD,Pierre Auguste
+8219,BARANGER,Alexandrine Eugénie Rosalie
+8220,ANGIBAUD,Pierre Benjamin
+8221,CHAUVEAU,Eugénie Clémence Anastasie
+8222,RABAUD,Marie Rose Louise
+8223,ANGIBAUD,Pierre Edouard
+8224,POULLAILLEAU,Hyacinthe
+8225,ANGIBAUD,Pierre François
+8226,CHOLLET,Marie Hyacinthe
+8227,ANGIBAUD,Pierre Jacques
+8228,CHOBLET,Madeleine Eulalie Clémence
+8229,ANGIBAUD,Pierre Jacques
+8230,FAGOT,Pélagie Véronique
+8231,ANGIBAUD,Pierre Jacques Olivier
+8232,POGU,Louise Adèle
+8233,ANGIBAUD,Pierre Jean Marie
+8234,BOIZIAU,Marie Célestine Bernadette
+8235,ANGIBAUD,Pierre Jean Olivier
+8236,GUILBAUD,Rosalie Henriette
+8237,ANGIBAUD,Pierre Julien
+8238,BARDET,Anne
+8239,ANGIBAUD,Pierre Louis Joseph
+8240,LOUÉ,Louise Olive
+8241,ANGIBAUD,Pierre Louis Joseph
+8242,ROULEAU,Marie Radégonde Emélie Prudente Valentine
+8243,ANGIBAUD,Pierre Pasckal
+8244,GUYHEUX,Marie
+8245,ANGIBAUD,Pierre Victor
+8246,LEGUÉ,Mélanie Rose Clémantine

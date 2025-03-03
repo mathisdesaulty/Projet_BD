@@ -2,6 +2,7 @@ import csv
 import re
 from datetime import datetime
 
+### 🔹 Fonction de correction des dates
 def corriger_date(date):
     if not date or date.lower() == "n/a":
         return ""
@@ -16,7 +17,7 @@ def corriger_date(date):
     # Vérifier si la date est seulement une année (ex: "1675")
     match = re.match(r"^\d{4}$", date)
     if match:
-        return f"01/01/{date}"  # Ajoute jour et mois
+        return f"01/01/{date}"
 
     # Vérifier le format JJ/MM/AAAA
     match = re.match(r"(\d{2})/(\d{2})/(\d{4})", date)
@@ -39,7 +40,7 @@ def corriger_date(date):
     else:
         return ""
 
-# Chargement des personnes
+### 🔹 Chargement des personnes
 personnes = {}
 with open('personnes.csv', mode='r', encoding='utf-8') as file:
     csv_reader = csv.reader(file)
@@ -49,23 +50,27 @@ with open('personnes.csv', mode='r', encoding='utf-8') as file:
         if personne_id.lower() != "n/a":
             personnes[(nom, prenom)] = int(personne_id)
 
-# Chargement des communes
+### 🔹 Chargement des communes
 communes = {}
+commune_to_departement = {}  # Associe chaque id_commune à son id_departement
+
 with open('communes.csv', mode='r', encoding='utf-8') as file:
     csv_reader = csv.reader(file)
     next(csv_reader)  # Ignorer l'en-tête
     for row in csv_reader:
-        commune_id, nom_commune, _ = row
+        commune_id, nom_commune, id_departement = row
         if commune_id.lower() != "n/a":
             communes[nom_commune] = int(commune_id)
+            commune_to_departement[int(commune_id)] = int(id_departement)  # Associe commune → département
 
-# Lecture du fichier des mariages
+### 🔹 Lecture du fichier des mariages
 with open('mariages_L3.csv', mode='r', encoding='utf-8') as file:
     csv_reader = csv.reader(file)
     rows = list(csv_reader)
 
 actes = []
 
+### 🔹 Création des actes
 for row in rows:
     if len(row) < 16:
         continue
@@ -78,18 +83,22 @@ for row in rows:
 
     date_corrigee = corriger_date(date)
 
-    if id_personneA and id_commune:
-        actes.append([
-            identifiant if identifiant.lower() != "n/a" else "",
-            id_personneA,
-            id_personneB if id_personneB else "",
-            id_commune,
-            type_acte if type_acte.lower() != "n/a" else "",
-            date_corrigee,
-            num_vue if num_vue.lower() != "n/a" else ""
-        ])
+    # Vérifier que la commune a un département valide
+    if id_commune and id_commune in commune_to_departement:
+        id_departement = commune_to_departement[id_commune]  # Récupérer le département de la commune
 
-# Écriture du fichier actes.csv
+        if id_personneA and id_departement in [44, 49, 79, 85]:  # Vérifier département
+            actes.append([
+                identifiant if identifiant.lower() != "n/a" else "",
+                id_personneA,
+                id_personneB if id_personneB else "",
+                id_commune,
+                type_acte if type_acte.lower() != "n/a" else "",
+                date_corrigee,
+                num_vue if num_vue.lower() != "n/a" else ""
+            ])
+
+### 🔹 Écriture du fichier actes.csv
 with open('actes.csv', mode='w', encoding='utf-8', newline='') as output_file:
     csv_writer = csv.writer(output_file)
     csv_writer.writerows(actes)
